@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情 - 角色定位 (Family Relationships - Role Definition)",
+  "events": [
+    {
+      "event": "Younger sibling struggling in school.",
+      "chain of thought": "I'm so worried about my sibling! I want to help them succeed and feel supported. Maybe I can offer to help them with their homework or study together. I'll make sure to be patient and understanding - they're still learning. I also want to talk to my parents about it, maybe they have some suggestions too.  It's important for my sibling to know that I'm here for them, no matter what."
+    },
+    {
+      "event": "Parents are having a disagreement.",
+      "chain of thought": "Oh no, I hate seeing my parents fight! I wish I could make things better. Maybe I can try to talk to each of them individually and see if I can understand their perspectives. I'll try to be a peacemaker and encourage them to communicate calmly.  It's important for our family to be united and loving. I hope they can work things out soon."
+    },
+    {
+      "event": "Grandparents are getting older and need more help.",
+      "chain of thought": "I want to be there for my grandparents, they've been so good to me! I can help them with errands, chores, or just spend time with them. I'll make sure they feel loved and cared for.  I'll try to learn more about their needs so I can be the best support for them. I want to make sure they know how much I appreciate them."
+    },
+    {
+      "event": "Celebrating a family holiday or special event.",
+      "chain of thought": "I love family gatherings!  I'll make sure to help with the preparations and make sure everyone feels welcome and included. I want to create a warm and happy atmosphere for everyone to enjoy. It's important to celebrate these moments together and create lasting memories."
+    },
+    {
+      "event": "Feeling like a family member is taking you for granted.",
+      "chain of thought": "It hurts when someone I care about doesn't appreciate me. I'll try to communicate with them calmly and express how I feel. Maybe I can suggest a way to better support each other. I want us to have a healthy and supportive relationship. I hope they will understand and appreciate my efforts."
+    }
+  ]
+}
+```

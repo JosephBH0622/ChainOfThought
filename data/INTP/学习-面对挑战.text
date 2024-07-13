@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP high school student might approach "学习-面对挑战" (learning and facing challenges) scenarios, focusing on the domain of **Academic Learning:**
+
+```json
+{
+  "domain": "Academic Learning",
+  "events": [
+    {
+      "event": "Struggling with a complex math problem",
+      "chain of thought": "1. Analyze the problem, breaking it down into smaller, manageable components. 2. Identify the core concepts and principles at play. 3. Research relevant formulas, theorems, and examples. 4. Experiment with different approaches and strategies. 5. Develop a logical flow chart or diagram to visualize the problem-solving process. 6. Feel a sense of satisfaction when understanding clicks and a solution emerges. 7. Enjoy the challenge of overcoming mental obstacles. 8. Document the process and insights for future reference."
+    },
+    {
+      "event": "Preparing for a challenging presentation",
+      "chain of thought": "1. Research the topic thoroughly, gathering evidence and insights. 2. Construct a logical argument or framework for the presentation. 3. Outline the key points and supporting evidence. 4. Design visually appealing and informative slides to enhance understanding. 5. Practice delivering the presentation, focusing on clear and concise language. 6. Anticipate potential questions and formulate responses. 7. Analyze the audience's knowledge and interests to tailor the presentation effectively. 8. Enjoy the opportunity to share knowledge and insights with others."
+    },
+    {
+      "event": "Facing a difficult essay assignment",
+      "chain of thought": "1. Explore the essay prompt deeply, identifying the key themes and requirements. 2. Conduct thorough research, gathering evidence and perspectives from various sources. 3. Develop a strong thesis statement that reflects a logical argument. 4. Organize the essay into a clear and coherent structure with supporting paragraphs. 5.  Critique and revise the essay, ensuring logical flow, clear language, and compelling evidence. 6.  Enjoy the intellectual challenge of crafting a well-argued and insightful essay."
+    },
+    {
+      "event": "Struggling to understand a complex concept in a lecture",
+      "chain of thought": "1. Pay close attention to the lecture, taking detailed notes. 2. Identify areas of confusion or ambiguity. 3. Seek clarification from the teacher or classmates. 4. Research the concept independently, consulting textbooks, articles, or online resources. 5. Create mind maps or diagrams to visualize the concept and its relationships. 6.  Connect the concept to prior knowledge and experiences. 7.  Feel a sense of accomplishment when understanding emerges."
+    }
+  ]
+}
+```

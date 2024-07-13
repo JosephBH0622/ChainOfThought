@@ -1,0 +1,14 @@
+[
+    {
+        "model_type": "gemini_embedding",
+        "config_name": "Gemini_emb",
+        "model_name": "models/embedding-001",
+        "api_key": "AIzaSyDbPp_CMaYjOYP7CA_-sqDLsk4gF7SDZeY"
+    },
+    {
+        "config_name": "Gemini_rag",
+        "model_type": "gemini_chat",
+        "model_name": "gemini-1.5-flash",
+        "api_key": "AIzaSyDbPp_CMaYjOYP7CA_-sqDLsk4gF7SDZeY"
+    }
+]

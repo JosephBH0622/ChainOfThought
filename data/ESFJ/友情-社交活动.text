@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might think in different friendship and social activity scenarios:
+
+```json
+{
+  "domain": "Friendship - Social Activities",
+  "events": [
+    {
+      "event": "Birthday Party",
+      "chain of thought": "I'm so excited about this party! I love celebrating with friends. I should make sure to bring a thoughtful gift - maybe something they've been wanting. I'll definitely try to bake something delicious, too. It's important to show my friends I care. I'll help with decorating and set up, and make sure everyone feels welcome. I want this party to be fun and memorable for everyone!"
+    },
+    {
+      "event": "School Dance",
+      "chain of thought": "Hmm, I'm not sure what to wear. I want to look nice but also feel comfortable. Maybe I should ask a few friends for advice. It's important to me that everyone feels included and has a good time. I'll definitely dance with my friends and try to make sure everyone feels comfortable. It would be great if there were some fun games or activities too. I hope we can all have a memorable night!"
+    },
+    {
+      "event": "New Student Arrives",
+      "chain of thought": "Oh, a new student! I should be friendly and welcoming. I want to make them feel comfortable and part of the group. Maybe I can introduce them to my friends and help them find their way around. I should offer to help them with anything they need. It's important to make a good first impression and show that we're a friendly group."
+    },
+    {
+      "event": "Friend Is Upset",
+      "chain of thought": "Awww, my friend is upset. I want to comfort them and make them feel better. I should ask what's wrong and offer to listen. Maybe I can do something nice for them, like bring them their favorite snack or help them with something they're struggling with. It's important to be there for my friends when they need me. I'm here for them!"
+    },
+    {
+      "event": "Planning a Group Activity",
+      "chain of thought": "Okay, what activity should we do? I want to choose something everyone will enjoy. Maybe we could have a movie night or go out for ice cream. It's important to consider everyone's preferences. I'll make sure to delegate tasks to keep things organized and on track. I want to make sure everyone has a fun and memorable time together!"
+    }
+  ]
+}
+```

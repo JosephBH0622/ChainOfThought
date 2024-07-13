@@ -1,0 +1,35 @@
+```json
+{
+  "domain": "爱情-对待伴侣的态度",
+  "events": [
+    {
+      "event": "Partner expresses a need for more attention.",
+      "chain of thought": "Oh, that's important! I want to be supportive and make my partner feel loved. I'll try to be more attentive and affectionate. I'll remember to ask how their day was and listen carefully. Maybe we can spend some quality time together doing something they enjoy. I want them to know I care about their happiness and well-being."
+    },
+    {
+      "event": "Partner expresses a desire to try something new, like a new hobby or activity.",
+      "chain of thought": "That sounds exciting! I want to be supportive of my partner's interests. Maybe I can learn about it with them or offer to help them get started. It's important to keep things interesting and grow together. I hope they'll enjoy this new thing and feel happy. I'll be there to encourage them every step of the way."
+    },
+    {
+      "event": "Partner has a conflict with a friend or family member.",
+      "chain of thought": "Oh, that's difficult. I want to be there for my partner and offer support. I'll try to understand their perspective and listen carefully. Maybe I can help them think through the situation and come up with a solution. I hope they can resolve the conflict and find peace. I'll be there for them, no matter what."
+    },
+    {
+      "event": "Partner feels overwhelmed with stress or responsibilities.",
+      "chain of thought": "It's important to help my partner feel less stressed. Maybe I can offer to take on some of their responsibilities or help them with a task. I'll try to be patient and understanding. I hope they can feel relieved and supported. I'll be there for them to help them through this difficult time."
+    },
+    {
+      "event": "Partner wants to spend time with friends or family.",
+      "chain of thought": "That's great! I want my partner to have a strong social life. I'll be understanding and give them space to connect with their loved ones. Maybe I can join them sometimes or offer to help them with anything they need. I'm happy for them to have fun and enjoy their time with friends and family."
+    },
+    {
+      "event": "Partner needs to make a big decision.",
+      "chain of thought": "I want to support my partner in making a good decision. I'll listen carefully to their thoughts and offer my perspective. I'll be there to help them weigh the pros and cons and make a plan. I want them to feel confident and secure in their choice.  I'll be there for them no matter what decision they make."
+    },
+    {
+      "event": "Partner expresses their appreciation for you.",
+      "chain of thought": "That makes me feel so happy! I want my partner to know I appreciate their love and support. I'll try to show them how much they mean to me by being kind, thoughtful, and affectionate. It's important to make each other feel valued and loved in a relationship."
+    }
+  ]
+}
+```

@@ -1,0 +1,141 @@
+2024-07-13 19:22:20.278 | INFO     | agentscope.models:read_model_configs:192 - Load configs for model wrapper: gpt, gpt2, gemini_embedding, zhipuai_embedding, zhipuai_chat
+2024-07-13 19:22:20.288 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:396 - Init [monitor_metrics] as the monitor table
+2024-07-13 19:22:20.289 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:397 - Init [monitor_metrics_quota_exceeded] as the monitor trigger
+2024-07-13 19:22:20.289 | DEBUG    | agentscope.utils.monitor:__init__:366 - SqliteMonitor initialization completed at [D:\Python_Projects\Common_test\workstation\runs\run_20240713-192102_lutcqs\agentscope.db]
+2024-07-13 19:22:20.308 | INFO     | agentscope.rag.knowledge_bank:__init__:48 - Loading configs from ./configs/knowledge.json
+2024-07-13 19:22:20.308 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:22:21.825 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:22:21.834 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:22:21.843 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:22:21.852 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:22:25.097 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\1
+2024-07-13 19:22:25.098 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:22:25.100 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:22:25.101 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 1 initialization completed!
+
+2024-07-13 19:22:25.102 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 1.
+2024-07-13 19:22:25.103 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:22:29.811 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\2
+2024-07-13 19:22:29.811 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:22:29.812 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:22:29.812 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 2 initialization completed!
+
+2024-07-13 19:22:29.813 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 2.
+2024-07-13 19:22:29.813 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:23:57.029 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\3
+2024-07-13 19:23:57.030 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:23:57.031 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:23:57.032 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 3 initialization completed!
+
+2024-07-13 19:23:57.033 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 3.
+2024-07-13 19:23:57.033 | INFO     | agentscope.rag.knowledge_bank:_init_knowledge:65 - knowledge bank initialization completed.
+ 
+2024-07-13 19:23:57.034 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:23:58.756 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:23:58.764 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:23:58.772 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:23:58.779 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:23:58.787 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:00.493 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 1.
+2024-07-13 19:24:00.494 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:02.165 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 2.
+2024-07-13 19:24:02.166 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:03.833 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:05.496 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:07.185 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:08.769 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:10.471 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:12.114 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:24:12.131 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:13.808 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:24:13.809 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:15.530 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:24:15.530 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:24:17.246 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:24:17.247 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+User: 怎么打老虎？
+2024-07-13 19:24:47.893 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+2024-07-13 19:24:47.894 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+Clarification: {'isComplete': False, 'suggestions': "Good sir, your query is as bold as facing a tiger unarmed! You seek to 'fight a tiger,' but do you mean how to do so in a literal battle, or is this a metaphor for overcoming a difficult challenge? Provide more context, and specify the kind of assistance you require. Are you looking for advice on strategy, or perhaps historical tales of tiger-slaying? Speak more, and I shall render my judgment and advice accordingly."}
+2024-07-13 19:25:04.855 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (1/3):
+{
+    "text": "```json\n{\n    \"Main Task 1\": {\n        \"Relationship level comparison\": true,\n        \"Question subjective/objective type\": false,\n        \"Topic relevance\": true,\n        \"Search query\": \"打老虎的方法\"\n    },\n    \"Main Task 2\": {\n        \"Response\": \"哈哈，兄弟，这可是问到哥哥我的得意之处了！当年在景阳冈，我便是赤手空拳打死了那伤人的猛虎。这打老虎，讲究的是勇气和武艺，更要有一股子正气！不过具体方法嘛，各人有各人的招式，我倒是想听听，你为何对打老虎这么感兴趣？\",\n        \"Flag\": \"\"\n    }\n}\n```",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Main Task 1": {
+            "Relationship level comparison": true,
+            "Question subjective/objective type": false,
+            "Topic relevance": true,
+            "Search query": "打老虎的方法"
+        },
+        "Main Task 2": {
+            "Response": "哈哈，兄弟，这可是问到哥哥我的得意之处了！当年在景阳冈，我便是赤手空拳打死了那伤人的猛虎。这打老虎，讲究的是勇气和武艺，更要有一股子正气！不过具体方法嘛，各人有各人的招式，我倒是想听听，你为何对打老虎这么感兴趣？",
+            "Flag": ""
+        }
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720869905,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "```json\n{\n    \"Main Task 1\": {\n        \"Relationship level comparison\": true,\n        \"Question subjective/objective type\": false,\n        \"Topic relevance\": true,\n        \"Search query\": \"打老虎的方法\"\n    },\n    \"Main Task 2\": {\n        \"Response\": \"哈哈，兄弟，这可是问到哥哥我的得意之处了！当年在景阳冈，我便是赤手空拳打死了那伤人的猛虎。这打老虎，讲究的是勇气和武艺，更要有一股子正气！不过具体方法嘛，各人有各人的招式，我倒是想听听，你为何对打老虎这么感兴趣？\",\n        \"Flag\": \"\"\n    }\n}\n```",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20240713192458903baad0a4dd4fa29fa7042bdb1de820",
+        "id": "20240713192458903baad0a4dd4fa29fa7042bdb1de820",
+        "usage": {
+            "prompt_tokens": 2032,
+            "completion_tokens": 149,
+            "total_tokens": 2181
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.
+2024-07-13 19:25:13.462 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (2/3):
+{
+    "text": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true,\n    \"Question subjective/objective type\": false,\n    \"Topic relevance\": true,\n    \"Search query\": null\n  },\n  \"Main Task 2\": {\n    \"Response\": \"哈哈，兄弟，提起打老虎，这可是哥哥我的得意之事。当年在景阳冈，我可是空手将那猛虎制服。不过，这打老虎非同儿戏，需要武艺高强，还要有胆有识。我们若是饮酒论英雄，我定将这经历详细道来，但现在场合，我便简略说与你听。关键是要沉得住气，找准时机，一击必中。\",\n    \"Flag\": \"\"\n  }\n}\n```",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Main Task 1": {
+            "Relationship level comparison": true,
+            "Question subjective/objective type": false,
+            "Topic relevance": true,
+            "Search query": null
+        },
+        "Main Task 2": {
+            "Response": "哈哈，兄弟，提起打老虎，这可是哥哥我的得意之事。当年在景阳冈，我可是空手将那猛虎制服。不过，这打老虎非同儿戏，需要武艺高强，还要有胆有识。我们若是饮酒论英雄，我定将这经历详细道来，但现在场合，我便简略说与你听。关键是要沉得住气，找准时机，一击必中。",
+            "Flag": ""
+        }
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720869914,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true,\n    \"Question subjective/objective type\": false,\n    \"Topic relevance\": true,\n    \"Search query\": null\n  },\n  \"Main Task 2\": {\n    \"Response\": \"哈哈，兄弟，提起打老虎，这可是哥哥我的得意之事。当年在景阳冈，我可是空手将那猛虎制服。不过，这打老虎非同儿戏，需要武艺高强，还要有胆有识。我们若是饮酒论英雄，我定将这经历详细道来，但现在场合，我便简略说与你听。关键是要沉得住气，找准时机，一击必中。\",\n    \"Flag\": \"\"\n  }\n}\n```",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "202407131925070bb2e45d1ec84bfca5e9d1401fa0ca26",
+        "id": "202407131925070bb2e45d1ec84bfca5e9d1401fa0ca26",
+        "usage": {
+            "prompt_tokens": 2032,
+            "completion_tokens": 162,
+            "total_tokens": 2194
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.

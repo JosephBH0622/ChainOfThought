@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach friendship scenarios:
+
+```json
+{
+  "domain": "Friendship - Choosing Friends",
+  "events": [
+    {
+      "event": "New student arrives at school, seems shy and alone.",
+      "chain of thought": "Oh, they look like they could use a friend. I should introduce myself and see if they want to sit with me at lunch. I'll be sure to ask about their interests and hobbies. It's important to be kind and welcoming to new people. Maybe I can introduce them to some other students in our class. I hope they feel comfortable and accepted here."
+    },
+    {
+      "event": "Friend is going through a tough time (e.g., family issues, relationship problems).",
+      "chain of thought": "I need to be there for them. I'll ask them what's going on and offer my support. Maybe I can listen to them talk it out or help them with something practical like running errands. I want to make sure they know I care and I'm there for them. I'll be sure to encourage them and remind them that things will get better."
+    },
+    {
+      "event": "Group of friends is planning a weekend trip and one friend has different ideas about the activities.",
+      "chain of thought": "I want everyone to have fun and feel included. Maybe we can compromise and do some activities that everyone will enjoy? I'll try to get everyone's input and make sure we're all on the same page. It's important to be considerate of everyone's feelings and find something that works for everyone. If we can all agree, it'll be a much more fun trip."
+    },
+    {
+      "event": "Friend is being disrespectful to another person.",
+      "chain of thought": "That's not right. I need to say something to my friend. I'll approach them privately and let them know that their behavior is hurtful and not acceptable. I'll try to explain why their actions are wrong and encourage them to apologize. I want to maintain harmony and make sure everyone feels treated with respect."
+    },
+    {
+      "event": "Two friends are arguing and you are caught in the middle.",
+      "chain of thought": "This is uncomfortable. I need to try to de-escalate the situation. I'll try to speak calmly and encourage them to listen to each other's perspectives. Maybe I can suggest a compromise or remind them that they're both important to me. I want to help them work it out and keep our friendship strong."
+    }
+  ]
+}
+```

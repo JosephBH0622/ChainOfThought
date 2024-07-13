@@ -1,0 +1,21 @@
+Here's a breakdown of how an INTP high school student might think about friendship conflicts, along with some real-life events:
+
+```json
+{
+  "domain": "Friendship-Conflict",
+  "events": [
+    {
+      "event": "A friend starts spreading rumors about you.",
+      "chain of thought": "1. **Analyze the situation:** Why would they do this? Is it a misunderstanding? Are they under stress? What's their motivation? 2. **Consider the potential consequences:** Will this damage my reputation? How will others perceive me? What are the logical steps to take? 3. **Explore solutions:**  Is it worth confronting them directly? Would talking to a mutual friend help? Could I ignore it and let it blow over? 4. **Weigh the pros and cons:** If I confront them, will it escalate the conflict? Will it be productive? Is it worth the risk?  5. **Prioritize my values:** Is preserving the friendship more important than protecting my reputation? 6. **Act based on logic:** Choose the course of action that aligns with my values and has the best chance of a positive outcome. 7. **Document the situation:** Keep a mental record of the events, the people involved, and the decisions made, to understand the situation fully and avoid repeating similar mistakes in the future." 
+    },
+    {
+      "event": "A friend is constantly borrowing things without asking.",
+      "chain of thought": "1. **Analyze the pattern:** Is this a one-time thing, or a recurring pattern? Is it intentional or accidental?  2. **Assess the impact:** Does this borrowing significantly inconvenience me? Does it threaten my possessions? 3. **Consider the friendship:** Is this friend generally considerate and respectful? Is this behavior a sign of a deeper problem? 4. **Communicate directly:** Using calm, factual language, express my discomfort and request better communication about borrowing. 5. **Set boundaries:** Explain what is and isn't okay to borrow, and how I expect to be informed. 6. **Evaluate the response:**  How does my friend react? Are they receptive to my concerns? 7. **Decide on a course of action:** Will I continue to allow borrowing with clear boundaries? Or will I need to limit interaction with this friend?"
+    },
+    {
+      "event": "A friend starts hanging out with a new group and excludes you.",
+      "chain of thought": "1. **Analyze the change:** Is this a temporary shift or a permanent change in their social circle? What is the nature of this new group? 2. **Assess my own role:** Have I done anything to contribute to this change? Have I been overly demanding or unavailable? 3. **Understand their motivations:** Why are they choosing to spend time with this new group? Are there factors I'm unaware of?  4. **Consider my options:** Can I adapt to this change?  Should I attempt to reach out and understand their perspective?  Or is it time to accept that this friendship is evolving? 5. **Prioritize my own well-being:**  Is this friendship draining or fulfilling? Do I want to invest energy in maintaining it? 6. **Accept the outcome:**  If I decide to move on, I accept the natural ebb and flow of friendships and prioritize my own happiness."
+    }
+  ]
+}
+```

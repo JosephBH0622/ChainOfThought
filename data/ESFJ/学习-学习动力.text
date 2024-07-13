@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Learning Motivation",
+  "events": [
+    {
+      "event": "Struggling to stay motivated in a boring class",
+      "chain of thought": "Ugh, this class is so dull! I wish it was more interactive. I'll try to find ways to make it more interesting, maybe by taking notes in a fun way or finding connections to real-life situations. Maybe I can talk to the teacher about adding some group activities or hands-on projects. I want to do well and learn something useful, even if the subject itself isn't my favorite. I'll try to focus on the positive aspects and remind myself that hard work will pay off in the end."
+    },
+    {
+      "event": "Getting a good grade on a challenging test",
+      "chain of thought": "Wow, I did it! I'm so proud of myself for putting in the effort and studying hard. This makes me feel good about myself and shows that I can achieve anything I set my mind to. I'll celebrate this success with my friends and family. I'm motivated to keep working hard and striving for excellence in all my classes."
+    },
+    {
+      "event": "Seeing a classmate struggling in a subject",
+      "chain of thought": "I can tell they're struggling with this. Maybe I can offer some help? I'll ask if they want to study together or go over the material. I'm happy to share what I know and help them succeed. We can all learn from each other, and I know it's important to be supportive and kind."
+    },
+    {
+      "event": "Receiving positive feedback from the teacher",
+      "chain of thought": "It's so nice to be recognized for my hard work. I feel appreciated and encouraged to keep striving for my best. This motivates me to continue putting in the effort and learn even more. I love knowing that my teacher sees my potential and believes in me. I'll definitely try to maintain this level of work and continue making progress."
+    },
+    {
+      "event": "Learning about a new and exciting topic",
+      "chain of thought": "This is so fascinating! I can't wait to learn more about it. I'm excited to explore this new knowledge and see how it applies to the real world. I'll make sure to ask questions and engage in discussions to deepen my understanding. Learning something new makes me feel energized and motivated to continue expanding my knowledge."
+    }
+  ]
+}
+```

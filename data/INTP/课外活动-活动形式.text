@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动 - 活动形式",
+  "events": [
+    {
+      "event": "参加学校社团",
+      "chain of thought": "1. Analyze the different clubs and their activities, evaluating the potential for intellectual stimulation and learning. 2. Look for opportunities to apply my knowledge and skills in a practical setting. 3. Consider the long-term benefits and potential impact of participating in a club. 4. Research the club's history, members, and leadership to understand its structure and values. 5.  Weigh the time commitment and potential conflicts with other activities. 6. Seek out clubs that offer a space for intellectual discussion and debate. 7. Enjoy the challenge of understanding complex ideas and engaging in thoughtful conversations with like-minded peers. 8.  Be open to new perspectives and be willing to challenge my own assumptions."
+    },
+    {
+      "event": "参加学校组织的竞赛",
+      "chain of thought": "1. Analyze the competition rules, format, and judging criteria to identify potential strategies. 2. Research the subject matter and develop a logical framework for understanding the concepts. 3. Develop creative solutions and innovative approaches to tackle the challenge. 4.  Focus on understanding the underlying principles and mechanisms at play, rather than just memorizing facts. 5.  Enjoy the challenge of applying my knowledge to a real-world problem. 6.  Seek to understand the motivations and thought processes of other competitors. 7.  Be prepared to defend my ideas and arguments logically and objectively. 8.  Embrace the possibility of failure as an opportunity to learn and grow."
+    },
+    {
+      "event": "参加志愿者活动",
+      "chain of thought": "1.  Analyze the needs of the community and identify areas where I can contribute my skills and knowledge. 2.  Research different organizations and their missions to find a good fit for my values. 3. Consider the impact and effectiveness of various approaches to solving social problems. 4.  Explore opportunities for intellectual engagement and problem-solving within the volunteer role. 5.  Enjoy the challenge of applying my logic and analytical skills to real-world problems. 6.  Be open to learning from others and adapting my approach based on new insights. 7.  Focus on creating a positive and lasting impact on the community."
+    },
+    {
+      "event": "参加学校组织的旅行",
+      "chain of thought": "1.  Research the destination and its history, culture, and geography to understand its unique characteristics. 2.  Plan my activities and schedule to maximize learning and exploration. 3.  Seek opportunities to engage with local communities and learn about their perspectives. 4.  Document my experiences and observations to analyze patterns and insights. 5.  Reflect on how the trip challenges my assumptions and broadens my understanding of the world. 6.  Enjoy the intellectual stimulation of discovering new ideas and perspectives."
+    },
+    {
+      "event": "参加朋友的生日派对",
+      "chain of thought": "1. Analyze my friend's personality and interests to choose an appropriate gift. 2. Consider the context of the party and the social dynamics involved. 3.  Prepare a thoughtful and insightful speech or toast. 4.  Be attentive and engaged in conversations with other guests, seeking to understand their perspectives and motivations. 5.  Enjoy the opportunity to connect with friends on a personal level and share laughter and stories."
+    }
+  ]
+}
+```

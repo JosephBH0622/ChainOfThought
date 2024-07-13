@@ -1,0 +1,25 @@
+Here's an example of how an ESFJ might think in課外活動-團隊合作 scenarios:
+
+```json
+{
+  "domain": "課外活動-團隊合作",
+  "events": [
+    {
+      "event": "Planning a school fundraiser event",
+      "chain of thought": "I'm so excited to plan this fundraiser! It's a great way to help our school and bring everyone together.  First, I'll need to figure out what kind of event will be most successful - something everyone will enjoy. I'll ask around to get ideas and see what people are interested in.  We need to make sure it's a fun event that raises a lot of money. I'll also want to make sure everyone feels involved and has a role to play.  It's important to keep everyone happy and motivated. I'm confident we can make this a big success!"
+    },
+    {
+      "event": "Working on a group project with a team member who is struggling",
+      "chain of thought": "I noticed [team member's name] seems a little lost on the project.  I want to make sure everyone feels supported and successful. I'll offer to help them understand the task and maybe suggest some ways they could contribute.  I'll be patient and positive, encouraging them to keep trying. It's important to work as a team and help each other out.  I'm sure with some encouragement, they'll get back on track."
+    },
+    {
+      "event": "Team conflict during a group activity",
+      "chain of thought": "Oh no, there seems to be some disagreement. It's important to keep things positive and avoid any hurt feelings.  I'll try to understand everyone's perspectives and see if we can find a solution that works for everyone.  It's important to compromise and show respect for everyone's opinions. I'm sure we can work this out and continue to work together as a team."
+    },
+    {
+      "event": "Celebrating a successful team effort",
+      "chain of thought": "We did it! We worked so hard and accomplished our goal.  I'm so proud of everyone and all the effort we put in.  I want to make sure everyone feels appreciated for their contributions.  Maybe we can celebrate with a small team gathering or a fun treat.  It's important to recognize everyone's hard work and enjoy our success together."
+    }
+  ]
+}
+```

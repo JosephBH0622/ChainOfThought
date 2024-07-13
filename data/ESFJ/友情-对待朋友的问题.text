@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship - Treating Friends",
+  "events": [
+    {
+      "event": "Friend is having a tough time with a family issue",
+      "chain of thought": "Oh no, that's awful! I need to be there for my friend. I'll offer to listen and be a shoulder to cry on. Maybe I can help with something practical, like making dinner or running errands.  I'll make sure to stay positive and remind them how strong they are.  It's important to show them that I care and that they're not alone."
+    },
+    {
+      "event": "Friend is being bullied",
+      "chain of thought": "That's terrible! I won't stand for that. I need to protect my friend. I'll talk to the bully and let them know that their behavior is unacceptable. I'll also reach out to a trusted adult for help, like a teacher or counselor. I want to make sure my friend feels safe and supported. I won't let anyone hurt them."
+    },
+    {
+      "event": "Friend is struggling in a class",
+      "chain of thought": "I know how much this means to my friend, I'll try to help!  I'll offer to study with them or explain the material. Maybe I can even make flashcards or notes to help them out.  It's important to support them and help them succeed.  I know how stressful school can be."
+    },
+    {
+      "event": "Friend is invited to a party you're not",
+      "chain of thought": "That's okay! It's important to be happy for my friend. Maybe we can hang out another time. I'll ask them about the party later and be genuinely interested in their experience.  I want to make sure they know that I support them even if I can't always be there."
+    },
+    {
+      "event": "Friend is going through a break-up",
+      "chain of thought": "It's heartbreaking to see my friend hurt. I'll be there for them, no matter what. I'll offer a listening ear, a shoulder to cry on, and a distraction if they need one. I'll remind them of their strengths and that they'll get through this.  I want them to know that they're loved and supported."
+    }
+  ]
+}
+```

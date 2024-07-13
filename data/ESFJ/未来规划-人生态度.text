@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "未来规划-人生态度 (Future Planning - Life Attitude)",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "I want to choose a major that will help me make a real difference in the world. What kind of career would allow me to help others and make a positive impact? I need to find something that fits my strengths and interests, but also something that's in demand and has good job prospects. I'll talk to my parents, teachers, and maybe even a career counselor to get their advice. I'll also research different careers and see what interests me. I want to find a career path that I'll be passionate about and that will allow me to make a real contribution to society. I also want to make sure it's something that will allow me to be financially secure and provide for a family."
+    },
+    {
+      "event": "Dealing with peer pressure to follow a certain path",
+      "chain of thought": "It's important to follow my own path, even if it's different from what my friends are doing. I need to do what makes me happy and fulfilled.  If my friends are pressuring me to do something I don't want to do, I'll politely explain my reasons. I'll remind myself that I'm unique and have my own goals. If they're true friends, they'll respect my choices. I'll focus on building strong relationships with people who share my values and support my aspirations."
+    },
+    {
+      "event": "Facing a difficult decision about the future",
+      "chain of thought": "I need to make a thoughtful and responsible decision. I'll gather information, weigh my options carefully, and consider the consequences of each choice. I'll talk to my family and trusted friends for their advice.  I'll also consider my values and what's important to me. I want to make the best decision possible for my future. I'll trust my instincts and follow my heart. It's okay to be scared, but I know I can handle anything as long as I stay positive and focus on my goals."
+    },
+    {
+      "event": "Experiencing a setback or failure",
+      "chain of thought": "Setbacks are a part of life. I need to learn from my mistakes and try again. I'll stay positive and focus on what I can control. I'll ask for help if I need it. I'll remember that I'm not alone and that everyone faces challenges. I'll use this experience to become stronger and more resilient. I'll keep working towards my goals, one step at a time. I'll remind myself that every failure is an opportunity to learn and grow."
+    }
+  ]
+}
+```

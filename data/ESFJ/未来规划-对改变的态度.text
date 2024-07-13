@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might approach "future planning" and adapting to change, with specific examples:
+
+```json
+{
+  "domain": "Future Planning - Adapting to Change",
+  "events": [
+    {
+      "event": "A sudden change in graduation requirements",
+      "chain of thought": "Oh no! This means I have to adjust my schedule. I'll talk to my counselor and figure out how to make the new requirements work. I need to make sure I don't fall behind. I'll check with friends to see if they're affected too. Maybe we can study together for the new classes. It's important to stay organized and focused. My parents will want to know what's going on, so I'll tell them and ask for their support."
+    },
+    {
+      "event": "A friend's plans for college change unexpectedly",
+      "chain of thought": "That's so disappointing for them! I'll offer my support and listen to them. We can brainstorm some backup plans together. I want them to know I'm there for them. Maybe I can share some resources I've found on colleges. I'll encourage them to stay positive and remember that sometimes things don't go as planned. I hope they can find another path that excites them!"
+    },
+    {
+      "event": "Being offered a summer internship opportunity that conflicts with a family vacation",
+      "chain of thought": "This is a great opportunity! I really want to do the internship. But I also promised my family I'd go on vacation. I need to talk to my parents and see if we can work something out. Maybe we can adjust our vacation dates? Or maybe I can do the internship during another time? I'll explain how important this opportunity is for my future. I hope they understand and we can find a solution that works for everyone."
+    },
+    {
+      "event": "A new student joins the class and seems shy and isolated",
+      "chain of thought": "That's sad! I want to make them feel welcome. I'll introduce myself and try to include them in our activities. Maybe I can ask them about their interests and see if we have anything in common. I'll make sure they know they can ask for help if they need it. I'm hoping they'll feel more comfortable and make friends in the class."
+    },
+    {
+      "event": "A popular club gets cancelled due to lack of participation",
+      "chain of thought": "That's disappointing! I liked being part of that club. Maybe we can talk to the school about finding ways to bring it back? We could try to get more people involved. Maybe we could change the focus or activities to attract more members. I'm determined to find a way to keep it going!"
+    }
+  ]
+}
+```

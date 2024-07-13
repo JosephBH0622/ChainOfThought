@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "个人成长 - 成长方式",
+  "events": [
+    {
+      "event": "Failing a test or receiving negative feedback on a project",
+      "chain of thought": "This is disappointing, but I know I can do better. I'll talk to my teacher and ask for clarification on the areas I struggled with.  Maybe I need to study differently or get extra help. I'll try to stay positive and focus on improving. I want to make sure I'm doing everything I can to succeed and make my parents and teachers proud."
+    },
+    {
+      "event": "Being offered a leadership role in a school club or activity",
+      "chain of thought": "Wow, this is a great opportunity! I'm happy to help and contribute to the club. I'll make sure everyone feels included and valued. We'll work together to achieve our goals. I'll try to be a good leader and set a positive example. I hope I can make a difference!"
+    },
+    {
+      "event": "Observing a friend struggling with a personal challenge",
+      "chain of thought": "I'm worried about my friend. I want to be there for them and offer support. Maybe I can talk to them about it or help them find resources they need. I'll be patient and understanding. I want them to know I care and am here for them."
+    },
+    {
+      "event": "Joining a new extracurricular activity or group",
+      "chain of thought": "I'm excited to meet new people and learn something new. I'll make an effort to be friendly and participate actively. I want to make a positive contribution to the group. I'll try to be a good listener and learn from others. I hope I can find a place where I belong."
+    },
+    {
+      "event": "Setting personal goals for the future, such as college or career aspirations",
+      "chain of thought": "I want to choose a path that will make me happy and allow me to contribute to society. I'll talk to my parents, teachers, and friends about their experiences and advice. I'll also research different options and make a plan. I'll focus on my strengths and what I enjoy doing. I want to make a difference in the world and leave a positive mark."
+    }
+  ]
+}
+```

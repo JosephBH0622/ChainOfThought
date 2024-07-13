@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ high school student might think in "friendship-conflict resolution" situations:
+
+```json
+{
+  "domain": "Friendship - Conflict Resolution",
+  "events": [
+    {
+      "event": "A close friend starts ignoring you after a disagreement.",
+      "chain of thought": "Oh no, what did I do? I really value our friendship, and I'm worried about what's going on. I need to understand their perspective and make sure they know I care.  Maybe I should reach out and say something like, 'Hey, is everything okay? I've noticed you've been quiet lately, and I'm worried.'  I want to hear them out and see if there's anything I can do to fix the situation. I'm sure we can work it out.  It's important to me to stay close to my friends."
+    },
+    {
+      "event": "A friend starts spreading rumors about you.",
+      "chain of thought": "That's not fair!  I'm hurt and confused.  Why would they do this?  I need to talk to them about how this is affecting me.  I might say something like, 'Hey, I heard you've been saying things about me. I'm really upset because I value our friendship.  Can we talk about this and work through it?  Maybe there's something I can do to clear up any misunderstandings.'  I want to be understanding and find a solution that works for both of us.  We need to keep our friendship strong."
+    },
+    {
+      "event": "A group of friends is planning an activity without inviting you.",
+      "chain of thought": "Hmm, I feel a little left out.  I hope it's not intentional. I want to be included. Maybe I should reach out and ask if I can join? I could say, 'Hey, I heard you guys are doing [activity].  It sounds fun! Is there any way I can join?  I'd love to spend time with everyone.'  I'm sure they'd be happy to have me there.  It's important to be part of the group and show that I care about our friendships."
+    },
+    {
+      "event": "A disagreement arises during a group project, leading to tension.",
+      "chain of thought": "It's important that we work together as a team. We need to find a way to solve this peacefully.  I need to understand everyone's perspective. Maybe we can have a calm discussion and try to find a solution that works for everyone. I can say something like, 'Hey guys, let's take a moment and talk about this calmly. I want everyone to feel heard and understood.  Let's figure out how we can move forward together.'  We can do this! It's important that we stay united and finish the project successfully."
+    }
+  ]
+}
+```

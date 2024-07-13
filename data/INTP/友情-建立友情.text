@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about building friendships, focusing on the "友情-建立友情" theme:
+
+```json
+{
+  "domain": "Friendship-Building",
+  "events": [
+    {
+      "event": "Meeting someone new in a club or class",
+      "chain of thought": "1. Observe the person's behavior and interactions - what are their interests? How do they approach situations? 2. Analyze their ideas and arguments - are they logical and well-reasoned? Do they challenge my assumptions? 3. Look for shared interests or intellectual common ground. 4.  If there's potential, I might initiate a conversation, but I'll approach it cautiously, wanting to gauge their intellectual depth and see if we're a good match. 5. I'll be open to different perspectives and welcome constructive debates, but I'll also be prepared to respectfully defend my own viewpoints. 6. I'll assess whether our values and priorities align, and if we're compatible in terms of our approach to life and problem-solving."
+    },
+    {
+      "event": "Being invited to a group hangout",
+      "chain of thought": "1. Evaluate the potential benefits and drawbacks - is this a group I want to be part of? Do I share common interests with the people there? 2. Consider the social dynamics - will I feel comfortable in this environment? Is there a good balance between social interaction and individual time? 3. Analyze the overall purpose and goals of the hangout - is it purely for entertainment, or is there an intellectual or creative element? 4. If I decide to go, I'll observe and listen more than I'll talk,  trying to understand the group's dynamics and identify opportunities to contribute. 5. I'll be open to new experiences and perspectives, but I'll also stick to my own values and boundaries if necessary."
+    },
+    {
+      "event": "Being asked for help with a school project",
+      "chain of thought": "1. Analyze the problem and assess my ability to help - do I have the necessary skills or knowledge? Can I provide valuable insights? 2. Determine whether helping aligns with my values and priorities - does this project interest me? Will it be a mutually beneficial collaboration? 3. If I agree to help, I'll approach it logically and systematically, breaking down the problem into manageable steps. 4. I'll be open to collaborative brainstorming and sharing my ideas, but I'll also be clear about my expectations and boundaries. 5. I'll aim for a solution that is both efficient and effective, while also ensuring that everyone involved understands the rationale behind it."
+    },
+    {
+      "event": "A friend is struggling with a personal issue",
+      "chain of thought": "1. Observe the situation carefully and listen attentively - what is the root cause of their problem? Are they seeking practical advice or emotional support? 2. Analyze their situation from a logical perspective - what are the possible solutions? What are the potential consequences of each option? 3. Offer practical advice based on my knowledge and experience, but avoid giving unsolicited opinions or judgment. 4. Respect their emotions and be sensitive to their feelings, even if I don't fully understand them. 5. Communicate my support in a clear and concise way, letting them know that I'm there for them, even if I don't always express it emotionally."
+    },
+    {
+      "event": "Making a mistake and needing to apologize to a friend",
+      "chain of thought": "1. Analyze the situation objectively - what was my role in the mistake? What were the consequences of my actions? 2. Formulate a sincere apology that acknowledges my mistake and expresses remorse for any hurt caused. 3. Be clear and concise in my apology, avoiding excuses or justifications. 4. Offer to make amends if possible, demonstrating my willingness to take responsibility. 5. Reflect on the situation and learn from my mistakes to prevent similar issues in the future."
+    }
+  ]
+}
+```

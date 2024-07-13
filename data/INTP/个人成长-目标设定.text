@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "个人成长-目标设定",
+  "events": [
+    {
+      "event": "Setting a new personal goal (e.g., learning a new skill, improving a habit)",
+      "chain of thought": "1. Analyze my current situation and identify areas for improvement. 2. Explore different potential goals, researching their benefits and challenges. 3. Evaluate the feasibility and practicality of each goal based on my skills, resources, and time constraints. 4.  Develop a logical and systematic plan for achieving the goal, breaking it down into smaller, manageable steps. 5.  Anticipate potential obstacles and develop contingency plans to overcome them. 6.  Continuously monitor progress and adjust the plan as needed based on data and analysis. 7.  Seek knowledge and insights from others who have successfully achieved similar goals. 8.  Focus on the process of learning and growth, rather than solely on the outcome. 9.  Feel a sense of satisfaction in mastering a new skill or improving myself through logic and analysis."
+    },
+    {
+      "event": "Feeling overwhelmed by the sheer number of goals and possibilities",
+      "chain of thought": "1. Categorize and prioritize goals based on their importance and urgency. 2. Analyze the potential benefits and drawbacks of pursuing each goal. 3. Create a system for managing my time and resources effectively to accommodate multiple goals. 4.  Focus on achieving one or two core goals at a time, ensuring progress before expanding to others. 5.  Reflect on my values and identify which goals align with my long-term vision and aspirations. 6.  Embrace the uncertainty and adjust my plans as needed based on new information and experiences. 7.  Remember that personal growth is a journey, not a destination, and that continuous learning and development are key."
+    },
+    {
+      "event": "Facing setbacks or failures in pursuit of a goal",
+      "chain of thought": "1. Analyze the reasons for the setback, focusing on objective facts and data. 2. Identify potential areas for improvement and adjust my approach accordingly. 3.  Consider the setback as an opportunity for learning and growth, rather than a failure. 4.  Maintain a positive and optimistic outlook, believing in my ability to overcome challenges. 5.  Seek support and guidance from trusted mentors or peers who have faced similar obstacles. 6.  Re-evaluate my goals and prioritize them based on the lessons learned. 7.  Adjust my plan to account for the new information and continue progressing towards my ultimate objective."
+    },
+    {
+      "event": "Feeling unmotivated or lacking inspiration to pursue a goal",
+      "chain of thought": "1. Analyze the underlying reasons for my lack of motivation, considering factors like boredom, fear of failure, or lack of clarity. 2.  Explore new approaches or methods to make the goal more engaging and stimulating. 3.  Break down the goal into smaller, more achievable steps to create a sense of momentum and accomplishment. 4.  Visualize the positive outcomes of achieving the goal and connect them to my values and aspirations. 5.  Seek inspiration from successful individuals or stories of resilience and perseverance. 6.  Remember that motivation is often fleeting, but discipline and commitment are key to sustained progress."
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think about extracurricular activities, along with some example events:
+
+```json
+{
+  "domain": "课外活动 - 活动参与方式 (Extracurricular Activities - Participation Methods)",
+  "events": [
+    {
+      "event": "School Club Recruitment Fair",
+      "chain of thought": "This is exciting! I want to find a club where I can make friends and contribute. I'll look for activities that involve helping others or doing something practical. Maybe a volunteer club, a sports team, or a service project. I'll chat with club members to see if it's a good fit for me. It's important to find something that I enjoy and that makes me feel like I'm making a difference."
+    },
+    {
+      "event": "Trying out for the school play",
+      "chain of thought": "Oh, this is nerve-wracking, but I love acting! I'll focus on learning my lines and getting the role down perfectly. I'll also make sure to be kind and supportive of the other actors. Teamwork is important, and I hope we all put on a great show for the audience. It would be amazing to be part of something creative and bring joy to everyone."
+    },
+    {
+      "event": "Planning a school fundraiser",
+      "chain of thought": "This is a great way to give back to our school! I'm excited to help organize the event. I'll think about what kind of fundraiser would be most successful and appeal to a lot of people. We should get everyone involved and make sure everyone knows what their role is. I want this event to be a huge success and raise a lot of money for our school."
+    },
+    {
+      "event": "Joining a study group for a difficult subject",
+      "chain of thought": "I need some extra help with this subject. A study group sounds like a good idea! I'll make sure to be prepared and contribute to the group discussions. I can also offer my help to anyone struggling with the material. Working together can really help us all understand the concepts better and get good grades."
+    },
+    {
+      "event": "Attending a school dance",
+      "chain of thought": "I'm so excited for the dance! I'll make sure to look my best and find a nice outfit. I'll also try to be friendly and make sure everyone feels comfortable. I want this to be a fun and memorable night for everyone! It's important to make good memories with our friends."
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+Here's an example of how an ESFJ might think about future planning scenarios:
+
+```json
+{
+  "domain": "未来规划 - 规划方式 (Future Planning - Planning Methods)",
+  "events": [
+    {
+      "event": "College application deadlines",
+      "chain of thought": "Okay, I need to get organized!  I'll make a list of all the colleges I'm interested in and their application deadlines. Then, I'll create a timeline for when I need to start working on each application. I'll ask my parents and guidance counselor for advice. I want to make sure I have strong essays and good test scores.  I also need to think about financial aid and scholarships. I want to choose a college that's a good fit for me and my future career goals. It's important to start early and make a plan so I don't feel overwhelmed."
+    },
+    {
+      "event": "Career exploration",
+      "chain of thought": "I need to think about what I want to do with my life. I should talk to people in different careers that interest me and ask them about their experiences.  I can also shadow someone at work to get a better understanding. I should consider my skills and interests.  What am I good at?  What do I enjoy doing? I want to find a career that I'm passionate about and can be successful in.  It's important to plan for my future and find a career that I'll be happy with."
+    },
+    {
+      "event": "Family vacation planning",
+      "chain of thought": "I'm excited about this! I love spending time with my family. We should all sit down together and make a list of places we want to go and things we want to do. I'll research different destinations and make a budget.  It's important to consider everyone's interests.  I want to make sure everyone has a good time! We need to book flights and accommodations in advance. It's important to be organized and plan ahead so that everything goes smoothly."
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach "未来规划-执行策略" scenarios, with specific examples:
+
+```json
+{
+  "domain": "未来规划-执行策略 (Future Planning and Execution)",
+  "events": [
+    {
+      "event": "Setting personal goals for the next year",
+      "chain of thought": "I want to make sure my goals are realistic and achievable. What are the most important things I want to accomplish? What would make my family and friends happy? How can I help my community? I need to create a plan with clear steps and deadlines. I'll share my goals with my friends and family for support and accountability.  It's important to me that I follow through on my commitments."
+    },
+    {
+      "event": "Preparing for a big exam or presentation",
+      "chain of thought": "I need to make a study plan and stick to it. I can't let myself fall behind.  What are the key concepts I need to know? Maybe I can study with a group to help each other learn. I'll ask for feedback from my teacher and make sure I understand everything.  I want to do my best and feel proud of my efforts."
+    },
+    {
+      "event": "Deciding on a career path",
+      "chain of thought": "What kind of work would make me happy and allow me to contribute to society? How can I use my strengths to help others? I should talk to people in different careers to learn about their experiences. I'll take classes and do internships to gain experience and figure out what I enjoy most.  I want to find a career that feels meaningful and where I can make a difference."
+    },
+    {
+      "event": "Managing a team project at school",
+      "chain of thought": "We need to make sure everyone feels heard and has a role. We should set clear goals and deadlines. I'll be the one to keep track of progress and make sure everyone stays on track.  I'm happy to help anyone who's struggling. It's important that we work together and create something we can all be proud of."
+    },
+    {
+      "event": "Dealing with a conflict with a friend or classmate",
+      "chain of thought": "I want to resolve this peacefully and maintain our friendship. I need to listen to their perspective and understand their feelings.  How can I communicate my own needs and feelings respectfully? I want to find a solution that works for everyone. It's important to me that we can move forward from this."
+    },
+  ]
+}
+```

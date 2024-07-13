@@ -1,0 +1,29 @@
+Here's a possible response, formatted as you requested:
+
+```json
+{
+  "domain": "爱情 - 对于伴侣的期望",
+  "events": [
+    {
+      "event": "First Date",
+      "chain of thought": "I'm so excited for this date! I want to make a good impression. I'll dress up nicely and try to be my best self. I'll listen attentively and ask thoughtful questions to get to know them better. I'll also share some things about myself, but I'll be mindful of not overwhelming them. I hope they enjoy spending time with me and feel comfortable being themselves. I want to know if we have shared values and interests, and if we can have fun together. I'll also observe their kindness and consideration towards others.  I'm looking for someone who is caring, supportive, and reliable, someone I can build a strong relationship with."
+    },
+    {
+      "event": "Partner expresses feelings of stress or sadness",
+      "chain of thought": "Oh no, my partner seems down. I want to be supportive and understanding. I'll ask them what's wrong and really listen to their feelings. I'll offer practical help if I can, like making them dinner or running errands. If they need space, I'll respect that but let them know I'm there for them. I want them to feel loved and cared for. I hope I can help them feel better."
+    },
+    {
+      "event": "Partner wants to try a new activity together",
+      "chain of thought": "That sounds fun! I'm always up for trying new things, especially with my partner. I'll be supportive and encouraging, even if it's something I'm not initially comfortable with. I want them to know I'm willing to step outside my comfort zone for them. It's important to me that we have shared experiences and create lasting memories together. I hope we have a good time!"
+    },
+    {
+      "event": "Disagreement or conflict arises in the relationship",
+      "chain of thought": "It's normal for couples to have disagreements, but I want to handle them constructively. I'll try to remain calm and respectful, even if I'm feeling upset. I'll listen to my partner's perspective and try to understand their point of view. I'll also share my thoughts and feelings openly, but in a kind way.  I'm hoping we can find a solution that works for both of us.  Communication and compromise are key to a healthy relationship."
+    },
+    {
+      "event": "Celebrating a special occasion (birthday, anniversary, etc.)",
+      "chain of thought": "This is so special! I want to make this occasion memorable for my partner. I'll plan something thoughtful and meaningful, maybe a surprise party or a romantic dinner. I'll put a lot of effort into making it perfect. I want them to know how much I care and appreciate them. I'll also be sure to express my love and gratitude for having them in my life."
+    }
+  ]
+}
+```

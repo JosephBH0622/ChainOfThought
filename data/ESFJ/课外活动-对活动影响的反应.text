@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think in various extracurricular activities scenarios, keeping in mind their focus on harmony, practicality, and people-oriented approach:
+
+```json
+{
+  "domain": "课外活动-对活动影响的反应 (Extracurricular Activities - Reactions to Impact)",
+  "events": [
+    {
+      "event": "Being elected to lead a club or organization",
+      "chain of thought": "Wow, this is a huge honor! I'm so excited to help everyone and make sure the club is a success.  I'll need to organize meetings, delegate tasks, and make sure everyone feels included. I'll also try to get to know everyone better and understand their needs. It's important to create a positive and supportive environment where everyone feels valued. I hope I can lead the group to achieve great things and make a positive impact on the school."
+    },
+    {
+      "event": "A club project facing a major setback or challenge",
+      "chain of thought": "Oh no, this is tough. But we're in this together. I need to stay calm and find a solution. Let's brainstorm as a team to figure out how to fix this. We can rely on each other's strengths and work together to overcome this obstacle. I'll encourage everyone to keep a positive attitude and stay motivated. I believe in our team, and we'll get through this together."
+    },
+    {
+      "event": "A new student joins the extracurricular activity",
+      "chain of thought": "It's great to have a new member! I want to make them feel welcome. I should introduce myself and offer to help them get acquainted with the group and the activity. Maybe I can pair them up with someone friendly who can show them the ropes. I want them to feel comfortable and involved right away. It's important to create a welcoming environment for everyone."
+    },
+    {
+      "event": "A conflict arises within the group",
+      "chain of thought": "I hate conflict, but it's important to address it. I'll try to talk to everyone involved individually and understand their perspectives.  We need to find a solution that works for everyone and keeps the group harmonious. I'll remind everyone of our shared goals and the importance of teamwork. Hopefully, we can all find a way to move forward together."
+    },
+    {
+      "event": "The extracurricular activity is unexpectedly cancelled or postponed",
+      "chain of thought": "This is disappointing, but I understand. It's important to be flexible and adapt to change. I'll try to stay positive and make the best of the situation. Maybe we can use this time to plan for future events or activities. It's important to keep the group connected and motivated. I'm sure we'll have another opportunity to participate in this activity soon."
+    }
+  ]
+}
+```

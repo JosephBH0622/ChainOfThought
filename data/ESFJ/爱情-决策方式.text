@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might approach love and decision-making, along with real-life events:
+
+```json
+{
+  "domain": "Love & Decision-Making",
+  "events": [
+    {
+      "event": "Developing feelings for someone",
+      "chain of thought": "Oh my gosh, I think I have a crush! They seem really nice and make me feel good. I wonder if they feel the same way? I should try to spend more time with them and get to know them better. Maybe I could ask them to hang out sometime? It's important to be kind and respectful, and I want to make sure they're comfortable. I hope my friends can help me figure out how to approach them - I value their advice. I want to find someone who's kind, loyal, and who wants to make things work. I'd love to find someone who's supportive of my goals and dreams."
+    },
+    {
+      "event": "First date",
+      "chain of thought": "I'm so nervous! I want to make a good impression. I should pick an activity that we both enjoy and make sure we have fun together. I want to be a good listener and ask them questions so I can learn more about them. It's important to be myself and be genuine. I'm excited to see if there's a connection! I hope they like me as much as I like them."
+    },
+    {
+      "event": "Conflict with a partner",
+      "chain of thought": "Oh no, we're fighting! I want to understand their perspective and try to resolve this calmly. I'm willing to compromise if it means we can both be happy. I hope we can talk it out and find a solution that works for both of us. I value our relationship and want to make things right."
+    },
+    {
+      "event": "Choosing a college",
+      "chain of thought": "This is a big decision! I want to go to a college that's a good fit for me and where I can succeed. I should consider things like the location, the majors they offer, and the campus culture. I'll definitely talk to my parents and friends about their thoughts and maybe even visit some schools. I want to find a place that's supportive and where I can make new friends. I also want to make sure it's financially feasible. I want to make a decision that's right for me and my future."
+    },
+    {
+      "event": "Deciding whether to go to prom with someone",
+      "chain of thought": "It would be so fun to go to prom with someone! But I also want to make sure they're the right person for me. I need to think about whether we're compatible and if we have fun together. I'd want to feel comfortable and safe with them. I'd love to go with someone who's kind and respectful and who wants to make prom a special night. I wouldn't want to go if it felt like a burden or if it wasn't something they genuinely wanted to do."
+    }
+  ]
+}
+```

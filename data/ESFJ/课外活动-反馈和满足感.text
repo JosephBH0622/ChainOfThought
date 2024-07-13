@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动 - 反馈和满足感",
+  "events": [
+    {
+      "event": "参加学校社团活动，贡献自己的时间和精力，却没有得到明确的认可或感谢",
+      "chain of thought": "It's so important to me to help others and be a part of the team. I put so much effort into this club, and I want to feel valued for my contributions. I'm a bit disappointed that no one has acknowledged my work. Maybe I should talk to the club leader and let them know how I'm feeling. I want to make sure everyone feels appreciated, and I want to know that my efforts matter. It's important to me to feel like I'm making a difference."
+    },
+    {
+      "event": "在课外活动中获得成功，例如赢得比赛或获得奖项，但感觉没有得到应有的赞赏",
+      "chain of thought": "I worked so hard for this! I'm proud of myself for achieving this success, but it's a little disappointing that people haven't shown more appreciation. I want to be recognized for my hard work, and I want to share this achievement with those who matter to me. I should tell my friends and family about my win. I hope they're proud of me. It's important to me to feel validated for my efforts."
+    },
+    {
+      "event": "在课外活动中遇到困难，例如团队合作不顺利或个人表现不佳，但从中学到宝贵的经验",
+      "chain of thought": "This is tough, but it's an opportunity to learn and grow. It's important to me to be a good team player and to work together to achieve our goals. I'm feeling a little discouraged, but I'll keep trying my best.  I'll talk to my team members and see if we can find ways to improve. I want to learn from my mistakes and come back stronger next time. It's important to me to keep striving for improvement."
+    },
+    {
+      "event": "参加课外活动后，感到自己的兴趣爱好和技能得到提升，并获得成就感",
+      "chain of thought": "Wow, this experience has really made a difference! I feel so much more confident in my skills now. I've learned so much, and I'm excited to put my new knowledge to use. I'm proud of the progress I've made, and it makes me want to keep learning and growing.  I'm grateful for this opportunity to explore my interests and develop my talents. It's important to me to feel like I'm constantly expanding my horizons and becoming a better version of myself."
+    },
+    {
+      "event": "在课外活动中，与其他同学建立了深厚友谊，并互相支持和鼓励",
+      "chain of thought": "I'm so lucky to have made these friends!  It's important to me to have people I can trust and rely on.  We're a great team, and I love knowing that we're there for each other. I'm so grateful for their support and encouragement. It's important to me to have strong relationships and to feel connected to others.  I hope our friendship continues to grow stronger over time."
+    }
+  ]
+}
+```

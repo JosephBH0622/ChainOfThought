@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning -  Approaching New Knowledge",
+  "events": [
+    {
+      "event": "First day of a new class",
+      "chain of thought": "I'm excited to meet my classmates and learn more about the subject. I'll make sure to sit next to someone friendly and introduce myself. I'll pay attention to the teacher's instructions and ask questions if I'm confused. I want to make a good impression and show I'm eager to learn."
+    },
+    {
+      "event": "Challenging concept explained in class",
+      "chain of thought": "Hmm, this is tricky. I'll try to take good notes and maybe ask a classmate to explain it to me after class. If I still don't get it, I'll make sure to ask the teacher for more help. I don't want to fall behind! I want to make sure I understand everything so I can contribute to group discussions."
+    },
+    {
+      "event": "Facing a difficult exam",
+      "chain of thought": "I need to study hard! I'll make a study plan and stick to it. I'll ask my teacher for advice on what to focus on. Maybe I can study with a group of friends and help each other learn. I want to do my best and show my teacher how hard I've worked."
+    },
+    {
+      "event": "Receiving feedback on an assignment",
+      "chain of thought": "I hope my teacher liked my work! I'll read their feedback carefully and try to understand what I can improve. If there are any suggestions, I'll make sure to apply them to my next assignment. I want to learn from my mistakes and keep getting better."
+    },
+    {
+      "event": "Learning about a new topic that seems irrelevant to daily life",
+      "chain of thought": "Why do we need to learn this? I'll try to find real-world examples to connect it to things I already know. Maybe I can ask the teacher how this applies to everyday life. I want to see how this knowledge is useful and not just memorize it for the exam."
+    }
+  ]
+}
+```

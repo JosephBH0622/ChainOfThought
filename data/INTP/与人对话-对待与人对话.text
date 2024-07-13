@@ -1,0 +1,24 @@
+
+{
+  "domain": "Interpersonal Communication",
+  "events": [
+    {
+      "event": "Participating in a group discussion",
+      "chain of thought": "1. Analyze the topic and identify key arguments. 2. Formulate logical counterarguments and potential solutions. 3. Observe the group dynamics and identify the dominant communication styles. 4.  Struggle with expressing thoughts concisely due to preference for detailed analysis. 5.  Feel a strong urge to contribute valuable insights and challenge assumptions. 6.  May hesitate to speak up if they don't have a fully developed and logically sound argument. 7.  Prioritize factual accuracy and logical consistency over emotional appeal."
+    },
+    {
+      "event": "Giving a presentation",
+      "chain of thought": "1. Research the topic thoroughly to build a strong foundation of knowledge. 2.  Develop a logical structure for the presentation, focusing on clear explanations and supporting evidence. 3.  Practice delivering the presentation to ensure smooth flow and clarity. 4.  May struggle with engaging in eye contact or adjusting the presentation based on audience response. 5.  Focus on communicating information accurately and effectively, prioritizing logic over charisma."
+    },
+    {
+      "event": "Resolving a conflict with a friend",
+      "chain of thought": "1. Analyze the situation objectively, identifying the root cause of the conflict. 2.  Consider the perspectives of all parties involved, trying to understand their motivations and emotions. 3.  Focus on finding a logical and fair solution that addresses the issue without causing further harm. 4.  May struggle to empathize with the emotional impact of the conflict. 5.  Prioritize open and honest communication, seeking to resolve the issue through rational discussion."
+    },
+    {
+      "event": "Making small talk",
+      "chain of thought": "1.  Feel a bit awkward and uncomfortable with forced conversation. 2.  May try to find common ground or shared interests based on logic and reason. 3.  Focus on finding intellectually stimulating topics to discuss. 4.  May struggle to engage with emotionally charged topics or superficial conversations. 5.  Prefer to delve into deeper discussions, exploring ideas and concepts." 
+    }
+  ]
+}
+```
+

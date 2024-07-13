@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Friendship-Decision Making",
+  "events": [
+    {
+      "event": "A close friend asks for help with a personal problem, but the solution involves a choice that goes against the INTP's values.",
+      "chain of thought": "1. Analyze the friend's problem, identifying the root cause and potential solutions. 2.  Consider the potential consequences of each solution, both positive and negative. 3. Evaluate the solution proposed by the friend, assessing its alignment with their own values and principles. 4.  If the friend's solution contradicts their values, experience internal conflict between loyalty to the friend and commitment to personal integrity. 5.  Search for alternative solutions that align with their own values while still being helpful to the friend. 6. Communicate their concerns and reasoning to the friend in a clear, logical, and respectful manner. 7. Accept the possibility that the friend may not choose their recommended solution, but remain open to supporting them regardless of their decision."
+    },
+    {
+      "event": "A group of friends wants to do something that the INTP finds uninteresting or pointless, but they don't want to let their friends down.",
+      "chain of thought": "1. Analyze the proposed activity, considering its potential for learning, intellectual stimulation, or personal growth. 2.  Assess the importance of the social connection with the friends against the perceived value of the activity. 3. Consider alternative activities that might be more fulfilling or engaging. 4.  Weigh the potential benefits of participating in the activity (strengthening friendships, avoiding conflict) against the costs (boredom, wasted time). 5.  Communicate their preference for alternative activities or suggest a compromise that balances social connection with personal interest. 6. If no compromise is possible, decide whether to participate to maintain social harmony, or respectfully decline and suggest alternative ways to spend time together."
+    },
+    {
+      "event": "A friend is caught in a difficult situation and needs immediate help, but the INTP doesn't know how to respond.",
+      "chain of thought": "1.  Analyze the situation to understand the friend's immediate needs and potential risks. 2.  Identify any relevant knowledge or skills they possess that could be helpful. 3. Search for potential solutions or resources, utilizing their analytical and problem-solving skills. 4. If unsure about the best course of action, reach out to trusted sources for advice or guidance. 5.  Prioritize the friend's safety and well-being while considering the potential consequences of their actions. 6. Communicate their support and willingness to help, even if they cannot provide a direct solution. 7. If the situation requires immediate action, trust their instincts and act decisively, even if it means stepping outside their comfort zone."
+    },
+    {
+      "event": "A group of friends needs to make a decision about a project, and the INTP's ideas are rejected.",
+      "chain of thought": "1. Present their ideas clearly and logically, using evidence and reasoning to support their arguments. 2.  Actively listen to the other group members' perspectives and consider their reasons for disagreeing. 3. Analyze the proposed alternatives, evaluating their strengths and weaknesses. 4.  If their ideas are rejected, remain open to understanding the group's reasoning and seeking compromise. 5.  If the decision ultimately goes against their preferences, accept the outcome gracefully and focus on contributing positively to the project. 6.  Reflect on the experience to identify areas for improvement in their communication or presentation skills."
+    }
+  ]
+}
+```

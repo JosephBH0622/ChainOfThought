@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情-观点和态度",
+  "events": [
+    {
+      "event": "A family member expresses a controversial opinion that goes against your beliefs.",
+      "chain of thought": "Wow, that's a difficult topic. I care about my family and want everyone to be happy. I understand their perspective but disagree with their viewpoint. I should try to listen carefully and see if I can understand why they feel that way. Maybe I can share my own thoughts without judgment or making them feel bad. It's important to be respectful and find common ground, even if we don't agree on everything. I want to maintain harmony in the family."
+    },
+    {
+      "event": "A close family member is going through a difficult time and needs support.",
+      "chain of thought": "Oh no, I'm so sorry they're going through this! I need to be there for them and offer any support I can. I'll reach out to see how they are doing and ask how I can help. I might offer to cook them a meal, run errands for them, or just listen and offer a shoulder to cry on. They're important to me and I want them to know I'm here for them."
+    },
+    {
+      "event": "Your family has different plans for the holidays than you do.",
+      "chain of thought": "I love my family and want to spend time with them. I also want to be happy with how I spend the holidays. Maybe we can find a way to compromise and do some things together, while also allowing some individual time for activities we enjoy. It's important to communicate openly and find a solution that works for everyone. We can create happy memories together, even if we don't always agree on everything."
+    },
+    {
+      "event": "A family member criticizes your choice of friends.",
+      "chain of thought": "My friends are important to me and I appreciate their support. It's upsetting that my family member is critical. I should calmly explain why I value my friends and why I believe their criticism is unfair. I want to be respectful but also stand up for myself and my choices. It's important to maintain a good relationship with both my family and my friends. Maybe I can invite them to meet my family so they can see how much I value them both."
+    },
+    {
+      "event": "A family member asks for your advice on a personal issue.",
+      "chain of thought": "I care about my family and want to help in any way I can. I'll try to give them the best advice I can based on my understanding of their situation. I'll listen to them carefully and try to offer solutions that are practical and helpful. I want them to know I'm there for them and that I support them. It's important to be understanding and offer encouragement, even if I don't have all the answers."
+    }
+  ]
+}
+```

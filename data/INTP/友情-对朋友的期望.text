@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about friendship expectations, including possible events and their thought processes:
+
+```json
+{
+  "domain": "Friendship - Expectations",
+  "events": [
+    {
+      "event": "A friend cancels plans last minute without explanation.",
+      "chain of thought": "1. Analyze the situation logically: Was there a plausible reason for the cancellation? 2. Consider potential explanations (e.g., emergency, forgot, etc.). 3. Feel a bit frustrated by the lack of communication and clarity. 4.  Wonder if this is a pattern - is this friend generally unreliable? 5. If it's a pattern, consider whether to bring it up with the friend or adjust expectations. 6.  Ultimately prioritize honesty and open communication. If it's a recurring issue, may decide to distance themselves."
+    },
+    {
+      "event": "A friend needs help with a personal problem.",
+      "chain of thought": "1. Analyze the situation to understand the problem's nature and scope. 2. Consider possible solutions and their logical implications. 3. Feel a sense of responsibility to help but might struggle with emotional responses. 4.  Focus on practical solutions rather than emotional support. 5.  Might offer helpful information, resources, or strategies to address the problem. 6. Value the friend's trust and strive to be helpful in a way that aligns with their values."
+    },
+    {
+      "event": "A friend wants to engage in activities that don't interest the INTP.",
+      "chain of thought": "1.  Evaluate the activity based on personal interests and values. 2.  Consider whether participation aligns with their personal goals or principles. 3.  If not, find a polite and honest way to decline. 4.  Might suggest alternative activities that align better with both parties' interests. 5.  Prioritize mutual respect and understanding, even if their interests diverge."
+    },
+    {
+      "event": "A friend shares a personal secret, asking for confidentiality.",
+      "chain of thought": "1.  Analyze the situation: What's the nature of the secret? Are there potential risks involved in keeping it? 2.  Consider the friend's trust and their right to privacy. 3.  Feel a sense of loyalty and commitment to uphold their trust. 4.  Make a conscious decision to keep the secret, even if it means personal inconvenience. 5.  Value the friend's trust and prioritize their well-being."
+    },
+    {
+      "event": "A friend is experiencing a major life change (e.g., moving, break-up)."
+      "chain of thought": "1. Analyze the situation and potential impact on the friendship. 2. Consider how the change might affect future interactions and plans. 3. Feel empathy for their friend's experience but might struggle to express it directly. 4.  Offer practical support (e.g., helping with moving, listening without judgment). 5.  Prioritize understanding and being a reliable presence during the transition."
+    }
+  ]
+}
+```

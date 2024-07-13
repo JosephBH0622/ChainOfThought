@@ -1,0 +1,29 @@
+Here's an example of how an ESFJ might think about expressing affection in various family scenarios:
+
+```json
+{
+  "domain": "亲情 - 表达亲情方式 (Family Affection - Ways to Express It)",
+  "events": [
+    {
+      "event": "Grandparents' Anniversary",
+      "chain of thought": "Wow, it's Grandma and Grandpa's anniversary! I need to do something special. They love family gatherings, so a big dinner at our house would be perfect.  I'll ask everyone to pitch in and help with the cooking.  I should also make a card and write a heartfelt message about how much they mean to me. They've always been there for me, and I want to show them how much I appreciate them. Maybe I can even make a photo album with pictures of all our family memories together. I want to make this day extra special for them."
+    },
+    {
+      "event": "Sibling's Graduation",
+      "chain of thought": "My sibling is graduating! I'm so proud of them!  I need to get them a thoughtful gift.  Maybe something related to their future career or hobbies.  I'll also write a letter expressing how proud I am of their hard work and how much I love them. I want them to know I'm there for them and that I believe in their future. It would be nice to have a small family celebration afterwards, too.  It's important to celebrate these milestones together."
+    },
+    {
+      "event": "Parent's Birthday",
+      "chain of thought": "It's Mom's birthday! I need to make it special. I know she loves [specific interest]. I should get her a gift related to that. I could also bake her favorite cake and maybe even organize a surprise family dinner with everyone. I want her to know how much I love her and appreciate everything she does for me. I'll make sure to spend quality time with her on her birthday and give her lots of hugs."
+    },
+    {
+      "event": "Family member is going through a tough time",
+      "chain of thought": "I know [family member] is going through a hard time right now. I want to be there for them.  I should call them and offer my support. Maybe I could bring them a meal or do something to help them out. I want them to know that I care and that I'm here for them. I'll listen to them without judgment and offer words of encouragement. It's important to be there for each other during difficult times."
+    },
+    {
+      "event": "Family reunion",
+      "chain of thought": "It's time for the family reunion! I'm so excited to see everyone.  I'll bring a dish to share and help with the setup.  I want to make sure everyone feels welcome and included.  I'll take lots of pictures to capture the memories. It's important for us to stay connected as a family and cherish these moments together."
+    }
+  ]
+}
+```

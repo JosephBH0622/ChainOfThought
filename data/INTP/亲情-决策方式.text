@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Family-Decision Making",
+  "events": [
+    {
+      "event": "Parents announcing a family vacation to a place you're not interested in",
+      "chain of thought": "1. Analyze the reasons behind the choice of destination. 2. Consider the potential benefits and drawbacks of going. 3. Weigh the pros and cons of voicing dissent or politely accepting the decision. 4. Explore alternative vacation options that align with my interests. 5. Brainstorm ways to make the current vacation more enjoyable despite initial reluctance. 6.  If voicing dissent, formulate a logical argument based on personal preferences and potential issues. 7.  Ultimately, strive for a compromise that respects both the family's desires and my own needs."
+    },
+    {
+      "event": "Sibling asking for financial help for a significant purchase",
+      "chain of thought": "1. Analyze the financial implications of providing assistance. 2. Assess the risk of potential future reliance on my financial support. 3. Consider the potential long-term impact on my own financial stability. 4. Explore alternative solutions for my sibling's needs. 5. If providing assistance, establish clear boundaries and expectations. 6. Communicate openly and honestly about my financial capacity and limitations. 7. Seek to understand the rationale behind the request and offer advice if possible."
+    },
+    {
+      "event": "Family disagreement over a major life decision, like a parent's retirement",
+      "chain of thought": "1. Analyze the motivations and concerns of each family member involved. 2. Identify the core issues and potential conflicts arising from the decision. 3. Consider different perspectives and explore potential solutions that address everyone's concerns. 4. Seek to understand the emotional impact of the decision on each family member. 5. Facilitate open and respectful dialogue to promote understanding and compromise. 6. Use logic and data to support arguments and propose solutions. 7. Ultimately, strive for a decision that minimizes conflict and promotes the well-being of the family as a whole."
+    },
+    {
+      "event": "Facing a difficult family medical issue",
+      "chain of thought": "1. Gather information and research potential medical options. 2. Analyze the risks and benefits of each treatment option. 3. Communicate openly with family members about medical information and treatment plans. 4. Offer support and resources to family members coping with the situation. 5. Seek to understand the emotional impact of the situation on everyone involved. 6. Prioritize clear and logical communication to ensure everyone understands the situation and available options. 7. Help create a plan that balances medical needs with the emotional well-being of the family."
+    }
+  ]
+}
+```

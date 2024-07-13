@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP American high school student might think about "亲情-对待亲情" scenarios, along with some typical events:
+
+```json
+{
+  "domain": "Family Relationships",
+  "events": [
+    {
+      "event": "A family member expresses emotional distress (e.g., sadness, anxiety)",
+      "chain of thought": "1. Analyze the situation logically: What are the potential causes of their distress? Are there external factors influencing their emotions? 2. Seek to understand the underlying reasons for their emotions: What are they trying to communicate? Is there a specific problem they need help with? 3. Consider potential solutions: Can I offer practical advice or support? Are there resources available to help them? 4. Might feel uncomfortable with emotional displays, but recognize the importance of offering support and reassurance. 5. Prioritize being a good listener and providing a safe space for them to express themselves. 6.  Might avoid offering unsolicited advice if it doesn't seem requested or helpful."
+    },
+    {
+      "event": "A family conflict arises (e.g., a disagreement about a shared decision)",
+      "chain of thought": "1. Analyze the situation objectively: What are the core issues at play? What are the needs and perspectives of each family member? 2.  Seek to find the most logical solution: Are there compromises or alternatives that can satisfy everyone's needs? 3.  Might feel frustrated by emotional arguments or appeals to personal feelings:  Focus on finding a solution based on logic and reason. 4.  Prioritize finding a solution that is fair and practical for everyone involved. 5.  Might struggle with navigating emotional responses to conflict but try to maintain a calm and reasoned approach. 6.  Might prioritize finding a resolution that is in everyone's best interest, even if it requires some personal compromise."
+    },
+    {
+      "event": "A family member is going through a significant life change (e.g., marriage, graduation, moving out)",
+      "chain of thought": "1. Reflect on the potential impact of this change: How will this affect the family dynamic? What are the practical implications for each family member? 2.  Seek to understand the emotional impact on the family member: How are they feeling about this change? What are their hopes and fears? 3.  Consider how to offer support: Can I provide practical assistance (e.g., helping them move)? Can I offer emotional support by listening to their concerns? 4.  May express support in a more practical or logical way, rather than through emotional displays. 5.  Might analyze the long-term implications of the change and consider how it will affect the future of the family."
+    },
+    {
+      "event": "Experiencing a personal challenge or setback and needing family support",
+      "chain of thought": "1. Analyze the situation objectively:  What are the causes of the challenge? What are the possible solutions or next steps? 2.  Seek advice and support from family members:  Do they have experience with similar situations? Can they offer practical advice or emotional support? 3.  Might be hesitant to share personal struggles openly, but recognize the value of family support. 4.  May prioritize seeking practical solutions or strategies to address the challenge. 5.  Appreciate their family's understanding and willingness to help, even if they don't always understand the emotional aspects of the situation."
+    }
+  ]
+}
+```

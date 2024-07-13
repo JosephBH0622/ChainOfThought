@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might think about "未来规划-未来规划" (Future Planning) scenarios, along with possible events:
+
+```json
+{
+  "domain": "未来规划-未来规划 (Future Planning)",
+  "events": [
+    {
+      "event": "College Application Process",
+      "chain of thought": "This is a big decision! I want to choose a college that's a good fit for me and will help me achieve my future goals. I'll talk to my family, teachers, and friends for advice.  I'll research colleges that have strong programs in my area of interest and make sure they have a supportive campus community. I want to find a place where I can make new friends and feel like I belong. It's important to consider the cost of college and how I can manage finances. I want to make my parents proud by choosing a college that will lead to a successful career."
+    },
+    {
+      "event": "Career Exploration",
+      "chain of thought": "I need to figure out what I want to do for a living. I'll think about my interests, skills, and values. Maybe I can shadow someone in a career that interests me or volunteer in a related field. It's important to choose a career that I'm passionate about and can see myself doing long-term. I want to make a difference in the world and help others. Finding a job that allows me to use my talents and connect with people would be ideal."
+    },
+    {
+      "event": "Financial Planning for the Future",
+      "chain of thought": "It's wise to start thinking about my finances now. I need to make a budget and learn how to save money. I can talk to my parents or a financial advisor for guidance. It's important to be responsible with money and plan for the future. Maybe I can get a part-time job to help save up for college or a future purchase. I want to be financially independent and secure in the future."
+    },
+    {
+      "event": "Setting Personal Goals",
+      "chain of thought": "It's good to have goals to work towards!  I'll think about what I want to achieve in the next year, five years, and even ten years.  It's helpful to write them down and break them into smaller steps. I'll need a plan to reach my goals and stay motivated. I can share my goals with family and friends for support. I want to feel proud of my accomplishments and know that I'm making progress in my life."
+    }
+  ]
+}
+```

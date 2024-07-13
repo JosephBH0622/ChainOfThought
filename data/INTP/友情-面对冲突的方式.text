@@ -1,0 +1,19 @@
+```json
+{
+  "domain": "Friendship-Facing Conflict",
+  "events": [
+    {
+      "event": "A close friend starts hanging out with someone you don't like, and it's affecting your friendship.",
+      "chain of thought": "1. Analyze the situation logically. What are the specific behaviors that make you dislike this person? How does this affect your friendship with your close friend? 2. Consider different perspectives. Could there be a misunderstanding or a deeper reason behind your friend's behavior? 3. Research conflict resolution strategies.  What are the most effective ways to communicate your concerns to your friend without damaging the friendship? 4. Evaluate your own communication style. How can you ensure you're expressing your concerns in a clear and objective manner, focusing on the impact of the situation rather than personal attacks? 5. Brainstorm potential solutions. Is it possible to compromise or find a way to coexist peacefully with this new friend?  6. Consider the long-term consequences.  What is the most logical and sustainable solution for maintaining a healthy friendship?"
+    },
+    {
+      "event": "You accidentally say something hurtful to a friend, and they're upset.",
+      "chain of thought": "1. Analyze the situation objectively. What was said? How could it have been interpreted as hurtful? 2. Consider your friend's perspective.  How might they be feeling? What are their emotional needs in this situation? 3. Reflect on your own motivations and intentions. Was there a miscommunication, or was it a genuine mistake? 4. Develop a plan for an apology. Focus on sincere acknowledgment of the hurt caused and a willingness to learn from the experience.  Avoid making excuses or justifying your actions. 5. Choose the best method of communication.  Consider if a face-to-face apology, a written letter, or a phone call is most appropriate. 6. Practice what you're going to say.  This can help ensure you convey your apology clearly and effectively."
+    },
+    {
+      "event": "Your friend is going through a difficult time, and you don't know how to help.",
+      "chain of thought": "1. Research emotional support strategies. What are the most helpful things to say and do when someone is struggling? 2. Analyze the situation. What are the specific challenges your friend is facing? How can you best support them in a practical way? 3. Consider your friend's personality and communication style. What kind of support are they most receptive to? 4.  Brainstorm practical solutions. Can you help them with specific tasks, offer emotional support, or provide resources? 5. Offer your support without judgment.  Be present and understanding, even if you don't fully understand their situation. 6. Encourage professional help if necessary.  If your friend's situation is serious or beyond your capacity to help,  recommend they seek professional guidance."
+    }
+  ]
+}
+```

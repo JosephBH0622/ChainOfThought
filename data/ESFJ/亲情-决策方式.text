@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "亲情 - 决策方式 (Family - Decision Making)",
+  "events": [
+    {
+      "event": "Family vacation planning",
+      "chain of thought": "I'm excited to plan a family vacation! I want everyone to have a good time.  First, I'll ask everyone what they want to do.  Maybe we could go to the beach or a theme park? Then I'll research different options, taking into account everyone's preferences. I'll also check the budget and make sure everyone is on board with the plan. It's important to me that everyone feels included and happy. Maybe we could even plan some fun activities to do together as a family."
+    },
+    {
+      "event": "Grandparent's birthday",
+      "chain of thought": "I want to make my grandparents' birthday special! They've done so much for me. I'll ask my family what they'd like to do for their birthday.  Maybe we can have a big family dinner or go out for a special meal.  I'll also think about what kind of gifts they'd like, maybe something sentimental or something practical they need.  I'll make sure to spend quality time with them and show them how much I love them."
+    },
+    {
+      "event": "Sibling's college decision",
+      "chain of thought": "My sibling is going to college! It's exciting, but I also know it's a big decision. I want to support them and make sure they choose the best college for them.  I'll ask them what kind of school they're looking for and try to help them research options.  Maybe I can even go visit some colleges with them! I'll be there to listen to their concerns and offer my support.  I want them to be happy with their decision."
+    },
+    {
+      "event": "Family disagreement",
+      "chain of thought": "Oh no, there's a disagreement in the family! I want everyone to get along and be happy.  I'll try to listen to everyone's perspectives and understand why they feel the way they do.  Maybe I can help them find a compromise that works for everyone.  I want to be the peacemaker and help everyone feel heard and respected."
+    }
+  ]
+}
+``` 

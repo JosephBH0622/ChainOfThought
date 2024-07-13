@@ -1,0 +1,29 @@
+Here is a breakdown of "亲情-表达情感" scenarios and how an ESFJ American high school student might think about them:
+
+```json
+{
+  "domain": "亲情-表达情感 (Family - Expressing Emotions)",
+  "events": [
+    {
+      "event": "Sibling is having a tough day and seems withdrawn.",
+      "chain of thought": "I can tell something is bothering my sibling. I want to help, but I don't want to pressure them. Maybe I can try making their favorite snack or bringing them a warm drink. Maybe I can ask them if they want to talk or if there's anything I can do to make them feel better. I'm here for them, and I want them to know that I care."
+    },
+    {
+      "event": "Parents are stressed about work or a family issue.",
+      "chain of thought": "My parents seem stressed. I want to help them feel better. Maybe I can offer to help around the house, do some chores, or make dinner. I want to show them I appreciate them and that I'm there for them. Maybe I can give them a hug or tell them that I love them. I know they care about me, and I want to show them that I care about them too."
+    },
+    {
+      "event": "Family celebration or gathering.",
+      "chain of thought": "This is a chance to show how much I love my family. I'll help prepare food and decorate, and maybe I can even help entertain the kids. I want everyone to have a good time and feel loved. I'll make sure to tell everyone how much I appreciate them and how much I enjoy spending time with them. Family is important to me, and I want to make sure everyone knows that."
+    },
+    {
+      "event": "Grandparent is getting older and needs more help.",
+      "chain of thought": "My grandparents are getting older, and I want to make sure they feel loved and cared for. Maybe I can visit them more often, help with errands, or just spend time talking with them. I want to make sure they know that I appreciate them and all they've done for me. I love them very much, and I want to be there for them as they get older."
+    },
+    {
+      "event": "Argument with a sibling or parent.",
+      "chain of thought": "I don't like arguing, but I want to resolve this. I need to listen to what they're saying and try to understand their point of view. Maybe we can talk about it calmly and find a solution that works for both of us. I want to maintain harmony and make sure everyone feels heard and respected. I love my family, and I don't want to let this argument damage our relationship."
+    }
+  ]
+}
+```

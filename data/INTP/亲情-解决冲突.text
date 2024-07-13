@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Family Conflict Resolution",
+  "events": [
+    {
+      "event": "Sibling rivalry over a shared resource (e.g., a computer, a room, parental attention)",
+      "chain of thought": "1. Analyze the situation logically, identifying the core issue and the needs of each sibling. 2. Consider the potential consequences of different solutions, weighing fairness and practicality. 3. Seek a compromise that satisfies both parties' needs as much as possible, focusing on logical solutions that are mutually beneficial. 4.  If a solution doesn't exist, develop a system or schedule for fair access to the shared resource, emphasizing efficiency and logic. 5.  If emotions are running high, try to understand the underlying reasons for the sibling's anger or frustration through logical analysis. 6.  Avoid taking sides or getting emotionally involved, aiming for a neutral and objective perspective."
+    },
+    {
+      "event": "A disagreement with a parent about curfew or a rule",
+      "chain of thought": "1. Carefully consider the parent's reasoning and the potential consequences of breaking the rule. 2. Present a logical argument explaining why the current rule is unnecessary or unfair, focusing on facts and data. 3. Analyze potential alternatives that would address the parent's concerns while still allowing for greater freedom. 4. If the parent is unwilling to compromise, accept the decision but express my understanding of the logic behind my own perspective. 5.  Focus on finding a solution that is both logical and respectful of the parent's authority. 6.  If the disagreement is based on values or principles, try to understand the underlying reasons for the different viewpoints and look for common ground."
+    },
+    {
+      "event": "A family member's addiction or mental health issue causing conflict",
+      "chain of thought": "1. Research the issue and try to understand the causes, symptoms, and potential treatment options. 2.  Develop a logical approach to addressing the issue, considering the best course of action for both the individual and the family as a whole. 3.  If possible, offer support and resources to the family member, but avoid enabling unhealthy behaviors. 4.  Maintain a neutral and objective perspective, focusing on solutions rather than emotions. 5.  Recognize that emotional responses are important, but try to address the issue in a way that is both logical and emotionally sensitive. 6.  Seek professional help if necessary, recognizing the importance of expert guidance in complex situations."
+    },
+    {
+      "event": "A family member's life choices or decisions causing conflict (e.g., career change, marriage, relocation)",
+      "chain of thought": "1. Analyze the situation objectively, considering both the potential benefits and drawbacks of the family member's decision. 2.  Try to understand the underlying motivations and values driving their choice. 3.  Offer support and encouragement, even if I don't fully agree with the decision. 4.  Avoid judgment or criticism, focusing on finding a way to respect their autonomy while maintaining a positive relationship. 5.  If the decision affects the family, engage in open and honest communication, seeking a solution that works for everyone involved. 6.  Remember that family relationships are built on trust and understanding, even when there are disagreements."
+    }
+  ]
+}
+```

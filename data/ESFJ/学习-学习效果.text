@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might think about learning and their performance in different scenarios:
+
+```json
+{
+  "domain": "Learning - Learning Effectiveness",
+  "events": [
+    {
+      "event": "Teacher gives a challenging assignment with a tight deadline.",
+      "chain of thought": "Okay, this is going to require some focus! I'll ask the teacher for clear instructions and any extra help I might need. Maybe I can study with some friends, it's always helpful to have a group to bounce ideas off of. I'll make a schedule to ensure I finish everything on time. I want to impress the teacher with my hard work and dedication!"
+    },
+    {
+      "event": "Student struggles to understand a difficult concept.",
+      "chain of thought": "Hmm, this is tough! I'm going to ask the teacher for more explanation, and maybe some extra examples. I should see if any classmates have already grasped this concept, maybe they can help. I'll make sure to practice, practice, practice until I feel confident. I want to understand this so I can succeed in class!"
+    },
+    {
+      "event": "Student sees a classmate struggling with an assignment.",
+      "chain of thought": "Oh, they seem like they need help. I'll ask them if they'd like me to explain anything. Maybe I can work with them on some practice problems. It's important to help others out and I know I'd want someone to help me if I were struggling."
+    },
+    {
+      "event": "Teacher gives positive feedback on a student's work.",
+      "chain of thought": "That's amazing! I'm so happy the teacher recognized my hard work. This motivates me to continue studying and working hard. I want to keep doing well and receiving positive feedback."
+    },
+    {
+      "event": "Student receives a low grade on a test or assignment.",
+      "chain of thought": "Oh no, I'm disappointed. I'll ask the teacher for advice on how to improve.  I'll review the material and try to figure out where I went wrong. I'll study harder for the next test and make sure I understand everything. I know I can do better next time."
+    }
+  ]
+}
+```

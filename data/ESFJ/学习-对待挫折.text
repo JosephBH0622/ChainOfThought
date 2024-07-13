@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Learning - Dealing with Setbacks",
+  "events": [
+    {
+      "event": "Failing a test after studying hard",
+      "chain of thought": "Oh no, I studied so hard for that test! I'm disappointed in myself. I'm going to talk to the teacher and see what I can do to improve. Maybe I need to study differently or ask for extra help. I'll definitely work harder next time. I want to do my best and make my parents and teacher proud."
+    },
+    {
+      "event": "Struggling to understand a concept in class",
+      "chain of thought": "This is confusing! I'm going to ask the teacher for help after class. Maybe they can explain it differently. I'm also going to see if anyone else in my class is having trouble. We can study together and help each other understand. I want to make sure I grasp this concept and not fall behind."
+    },
+    {
+      "event": "Receiving negative feedback on a project",
+      "chain of thought": "I'm not happy with this feedback. I'll ask the teacher to clarify what I can improve. I'm going to work hard to fix my mistakes. I want to do a better job next time. I want to make sure everyone is happy with my work, including my teacher."
+    },
+    {
+      "event": "Being left out of a group project",
+      "chain of thought": "It's really upsetting to be left out like that. I'm going to talk to my friends and see what happened. Maybe there's a misunderstanding. I want to make sure everyone feels included and has a role. I want to work together and be a team."
+    }
+  ]
+}
+```

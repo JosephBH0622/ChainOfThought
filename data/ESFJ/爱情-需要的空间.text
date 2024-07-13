@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might navigate the "爱情-需要的空间" (Love - Need for Space) domain, including potential events and their chain of thoughts:
+
+```json
+{
+  "domain": "爱情-需要的空间 (Love - Need for Space)",
+  "events": [
+    {
+      "event": "Partner wants to spend more time with friends",
+      "chain of thought": "It's important to me that my partner is happy and enjoys time with their friends. I'd want to be supportive and understand their need for social interaction. But, I'd also express my own feelings: 'I miss you when you're out with friends, but I understand you need your own space. Maybe we can plan a fun activity together after, or set aside some quality time later in the week?' I want to make sure we both feel loved and connected."
+    },
+    {
+      "event": "Partner needs personal time to de-stress after a long day",
+      "chain of thought": "I want to be sensitive to my partner's needs, especially when they're stressed. I'd offer to help with chores or make them a relaxing cup of tea. I'd say: 'It's been a tough day. How about I handle dinner tonight and you can just unwind?' I want them to know I care and am there for them, even when they need some space." 
+    },
+    {
+      "event": "Partner wants to spend a weekend away with family",
+      "chain of thought": "I understand that family is important to my partner, but I might feel a little sad about not seeing them. I'd express my feelings openly: 'I'm happy for you to spend time with your family. I'll miss you, but I know it's important. Can we plan a special date when you get back?' I'd also try to focus on the positive aspects of them being away, like having some time for myself or catching up with friends."
+    },
+    {
+      "event": "Partner expresses a need for personal space during an argument",
+      "chain of thought": "I want to be respectful of my partner's feelings even when we disagree. I'd say: 'I understand you need some space right now. I want to work through this, but I'll give you some time to calm down. Let's talk again when we're both feeling more composed.'"
+    }
+  ]
+}
+```

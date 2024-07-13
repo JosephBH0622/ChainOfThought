@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach friendship scenarios, focusing on the "friendship-handling friendship problems" domain:
+
+```json
+{
+  "domain": "Friendship - Handling Friendship Problems",
+  "events": [
+    {
+      "event": "A friend is being bullied",
+      "chain of thought": "Oh no, that's awful! I have to do something. I'll talk to my friend and see if they want to tell me what's going on. I'll try to be supportive and understanding. I want to make sure they know they're not alone. Maybe I can talk to the bully's friends and see if they can help. If it's serious, I'll definitely talk to a trusted adult like a teacher or counselor. I want to make sure everyone feels safe and happy."
+    },
+    {
+      "event": "A friend is spreading rumors about another friend",
+      "chain of thought": "This is so unfair! I have to try and stop this. I'll talk to my friend who's spreading the rumors. Maybe they don't realize how hurtful their words are. I'll try to explain how it's impacting everyone. I want to make sure everyone gets along and feels good about themselves. If it continues, I might have to talk to a trusted adult. I want to create a positive and supportive environment for everyone."
+    },
+    {
+      "event": "A friend is struggling with their grades",
+      "chain of thought": "I want to help! Maybe I can offer to study with them. I can show them how I take notes or explain things they're struggling with. I'll make sure to be patient and encouraging. I want them to know I'm there for them. I'll also make sure they know it's okay to ask for help from a teacher or counselor if they need it. I want them to succeed and feel good about themselves."
+    },
+    {
+      "event": "A friend is having a disagreement with another friend",
+      "chain of thought": "Oh no, I want to help them make up! I'll try to understand both sides of the story. Maybe I can get them to talk to each other and work things out. I'll try to be a mediator and help them see each other's perspective. I want them to be happy and friends again. It's important to me that everyone gets along and feels good about themselves."
+    },
+    {
+      "event": "A group of friends is planning a social event, but some friends feel excluded",
+      "chain of thought": "Everyone should be included! I'll make sure to reach out to the friends who feel left out. I'll try to get their input and ideas for the event. I want to make sure everyone feels like they belong and have fun. I'll also make sure to keep the group informed about plans so everyone is on the same page. I want to create a positive and inclusive environment for everyone."
+    }
+  ]
+}
+```

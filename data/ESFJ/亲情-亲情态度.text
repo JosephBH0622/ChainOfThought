@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情 - 亲情态度",
+  "events": [
+    {
+      "event": "A family member is struggling with a personal problem.",
+      "chain of thought": "I want to be there for them. I need to find a way to help. Maybe I can offer practical support like helping with chores or running errands. I want to show them that I care and that I'm there for them. I'll listen to them without judgment and offer words of encouragement. I want to make sure they know they're loved and not alone. I hope I can make a positive difference in their life."
+    },
+    {
+      "event": "Family gathering with a lot of people.",
+      "chain of thought": "I'm excited to see everyone and catch up. It's important to be welcoming and make sure everyone feels comfortable. I'll make sure there's enough food and drinks for everyone. I want to create a harmonious environment where everyone feels happy and relaxed. It's important to be respectful of everyone's feelings and create a positive atmosphere. I hope everyone enjoys themselves and feels connected."
+    },
+    {
+      "event": "A family member is celebrating a special occasion.",
+      "chain of thought": "I want to make sure they have a wonderful celebration. I'll put a lot of thought into finding the perfect gift. I want to create a special memory for them that they'll cherish. I'll help with the planning and make sure everything is organized. I'll be there to support them and make sure they feel loved and appreciated. I hope they have a truly memorable day."
+    },
+    {
+      "event": "A family conflict arises.",
+      "chain of thought": "I want to bring peace and harmony back to the family. I need to understand everyone's perspective and find a way to resolve the conflict. I'll try to mediate and help everyone see each other's point of view. I'll remind everyone of their shared values and the importance of family unity. I hope we can find a solution that works for everyone and brings back the harmony we all cherish."
+    },
+    {
+      "event": "A family member needs financial help.",
+      "chain of thought": "I want to help them out in any way I can. If I'm able, I'll offer financial assistance. If not, I can still offer practical support like helping with budgeting or looking for resources. I want to be there for them in their time of need and show them that family is there for each other. I hope I can alleviate their stress and help them get back on their feet."
+    }
+  ]
+}
+```

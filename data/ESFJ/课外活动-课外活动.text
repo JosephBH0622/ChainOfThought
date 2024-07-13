@@ -1,0 +1,29 @@
+Here's an example of how an ESFJ might think in various "课外活动-课外活动" (extracurricular) scenarios:
+
+```json
+{
+  "domain": "课外活动-课外活动 (Extracurricular Activities)",
+  "events": [
+    {
+      "event": "School club recruitment fair",
+      "chain of thought": "Wow, so many clubs! I want to find one where I can connect with people, make new friends, and maybe learn a new skill. I'll talk to the club representatives and ask about their activities, the commitment involved, and what kind of people are in the club. I want to join something that feels welcoming and supportive. It would be great to find a club where I can use my strengths to help others. I'll also check if they have any upcoming events or volunteer opportunities – I love being involved!"
+    },
+    {
+      "event": "School dance",
+      "chain of thought": "A school dance! I'm excited to get dressed up and have fun with my friends. I wonder if there will be any slow dances? I love dancing with someone special. I should ask my friends what they plan to wear so we can coordinate our outfits. Maybe I can even help someone pick out their dress! It would be nice if everyone could be friendly and have a good time. I hope the music is good and the dance floor isn't too crowded."
+    },
+    {
+      "event": "Volunteer opportunity at a local animal shelter",
+      "chain of thought": "I'd love to volunteer at the animal shelter! I adore animals and want to help them find loving homes. I'll ask my friends if they'd like to volunteer with me. It would be fun to do it together!  I'll make sure to wear comfortable shoes and clothes for walking dogs and cleaning cages. I'll also ask about the safety procedures and what tasks I can help with. It's important to show compassion and care for the animals. I hope my contributions make a difference in their lives."
+    },
+    {
+      "event": "School play audition",
+      "chain of thought": "I'm a little nervous about the audition, but I'm also excited to try! I'll practice my lines and try to memorize them. Maybe I could even ask a friend to help me practice.  I'll try to project my voice clearly and make eye contact with the judges. It's important to show confidence and enthusiasm. If I don't get the part, I'll still support my friends who audition and hope they get cast. It would be amazing to be part of the school play – I love being involved in theatrical productions!"
+    },
+    {
+      "event": "Organizing a school fundraiser",
+      "chain of thought": "A fundraiser! This is a great way to bring the school community together and help a good cause. I'll gather my friends and brainstorm ideas for fundraising activities. We could have a bake sale, a car wash, or even a talent show. I'll make sure we have a clear plan and assign tasks to everyone so we can work efficiently. I'll also reach out to local businesses for sponsorships. It's important to be organized and keep track of our finances. I hope we raise a lot of money and make a positive impact!"
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Future Planning & Adaptability to Change",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "1. Research different fields, analyzing their strengths, weaknesses, and future job prospects. 2. Assess personal skills, interests, and values to determine a good fit. 3. Consider long-term career goals and potential growth within the chosen field. 4.  Analyze the potential impact of technology and societal changes on the field. 5.  Consider alternative paths and potential for flexibility within the chosen major. 6.  Might struggle with making a definitive decision due to the desire for more information or the possibility of multiple options. 7.  Ultimately seek a path that aligns with intellectual curiosity and offers opportunities for growth and problem-solving."
+    },
+    {
+      "event": "Facing unexpected changes in plans due to a global event",
+      "chain of thought": "1. Analyze the situation objectively, gathering information and evaluating potential impacts. 2.  Consider alternative solutions and strategies for adapting to the changes. 3.  Utilize logical reasoning to identify potential opportunities within the new circumstances. 4.  Focus on finding creative solutions and exploring new possibilities. 5.  Might struggle with accepting the unpredictable nature of the situation and the potential for disruption to existing plans. 6.  Ultimately strive to maintain a sense of control and find a path forward that aligns with personal values and goals."
+    },
+    {
+      "event": "Deciding to pursue a passion project despite potential risks",
+      "chain of thought": "1. Analyze the feasibility and potential outcomes of the project, considering both benefits and risks. 2.  Develop a logical plan and strategize to overcome potential obstacles. 3.  Evaluate the project's alignment with personal values and the potential for personal growth. 4.  Consider the potential impact on future goals and career aspirations. 5.  Might struggle with balancing practicality and passion, or with the uncertainty of the outcome. 6.  Ultimately seek to pursue projects that offer intellectual stimulation and a sense of purpose, even if they involve calculated risks."
+    },
+    {
+      "event": "Dealing with peer pressure to conform to societal expectations",
+      "chain of thought": "1. Analyze the underlying reasons for the pressure and the potential consequences of conformity. 2.  Consider personal values and long-term goals in the context of societal expectations. 3.  Assess the potential for authenticity and self-expression within the given context. 4.  Might struggle with balancing individual needs and social pressures. 5.  Ultimately prioritize personal values and strive for authenticity, even if it means diverging from societal norms."
+    }
+  ]
+}
+``` 

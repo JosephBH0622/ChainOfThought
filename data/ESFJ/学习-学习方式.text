@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Learning styles",
+  "events": [
+    {
+      "event": "Group project assignment",
+      "chain of thought": "This sounds fun! I love working with others and helping them succeed. I'll make sure everyone feels included and has a clear role in the project. We can brainstorm ideas together and make a plan to keep everyone on track. It's important to work together and support each other. I want to make sure we deliver a high-quality project that everyone is proud of. I'll also make sure we complete it on time and meet all the requirements. I hope our teacher will appreciate our hard work and collaboration!"
+    },
+    {
+      "event": "Difficult individual homework assignment",
+      "chain of thought": "This looks tricky!  I'll need to make sure I understand the instructions completely. Maybe I can ask the teacher for help or look for step-by-step examples online. I could also try to form a study group with my classmates. We can help each other figure it out and bounce ideas off each other. I'll start working on it early so I don't get overwhelmed. I want to do my best and show my teacher that I'm capable. I also want to make sure I understand the material and not just get the right answer. I hope my teacher will be happy with my effort and give me positive feedback."
+    },
+    {
+      "event": "Class presentation",
+      "chain of thought": "Oh no, a presentation! I'll need to practice a lot to make sure I know what I'm talking about. I'll write down my notes and make sure I'm clear and organized. I'll also ask a friend to listen to my practice and give me feedback. I want to make sure I can explain the material well and answer any questions the class might have. I hope I can do a good job and not be too nervous."
+    },
+    {
+      "event": "Test or quiz",
+      "chain of thought": "I need to study hard for this test! I'll go over my notes and make flashcards to help me remember. I'll also ask my teacher for any extra practice questions. I want to make sure I understand the material and not just memorize facts. I'll try to stay calm and focus during the test, and I hope I can do well! I'll ask my teacher for any feedback so I can improve next time."
+    },
+    {
+      "event": "New subject or topic introduced",
+      "chain of thought": "This sounds interesting! I'll pay attention in class and take good notes. I'll also try to connect the new information to what I already know. I want to make sure I understand the main ideas and concepts. I'll ask the teacher questions if I'm confused. I'll also try to find additional resources online or in the library to help me learn more."
+    }
+  ]
+}
+``` 

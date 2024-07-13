@@ -1,0 +1,29 @@
+Here's a breakdown of friendship expectations for an ESFJ, along with real-life events:
+
+```json
+{
+  "domain": "Friendship - Expectations of Friends",
+  "events": [
+    {
+      "event": "A friend is going through a tough time (e.g., family issues, heartbreak, academic struggles)",
+      "chain of thought": "My friend needs support right now. I'll offer a listening ear and try to understand what they're going through. I'll be there for them no matter what, offering practical help if they need it (e.g., helping with chores, homework, etc.).  I want to make sure they know I care and am there for them. I'll encourage them to talk about it and remind them that it's okay to not be okay. Maybe I can suggest doing something fun together to lift their spirits. I want them to feel loved and supported."
+    },
+    {
+      "event": "A friend is constantly canceling plans or isn't showing up on time",
+      "chain of thought": "It's important to be reliable and on time for my friends. If they're consistently canceling or late, I'm concerned. Maybe they're going through something.  I should gently ask if everything is okay.  I'll try to understand their perspective and offer help if I can.  However, if it continues, I'll have to communicate my feelings clearly.  Being a good friend means respecting each other's time and commitments."
+    },
+    {
+      "event": "A friend is being disrespectful to another friend or someone else",
+      "chain of thought": "This isn't right.  It's important to be kind and respectful to everyone. I need to stand up for what's right, even if it means confronting my friend. I'll try to talk to them privately, explaining how their behavior is hurtful and the importance of treating others with respect.  I want to maintain harmony and create a positive environment for everyone."
+    },
+    {
+      "event": "A friend is planning a big event (e.g., birthday party, graduation party) and wants help",
+      "chain of thought": "I'm happy to help my friend with their event!  I want to make sure it's a success and a special occasion. I'll offer to help with planning, decorations, food, or anything they need.  I want to make sure everything goes smoothly and that my friend feels supported and loved."
+    },
+    {
+      "event": "A friend confides a secret to you that you feel you should share with others",
+      "chain of thought": "My friend trusted me with this secret, and I need to honor that trust. I wouldn't want my friend to be hurt or upset if I broke their confidence.  It's important to be loyal and keep secrets unless it directly harms someone or puts them in danger. I would talk to my friend about why I feel uncomfortable keeping this secret, but ultimately I would respect their wishes and keep it private."
+    }
+  ]
+}
+```

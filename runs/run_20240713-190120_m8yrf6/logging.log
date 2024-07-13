@@ -1,0 +1,129 @@
+2024-07-13 19:01:59.932 | INFO     | agentscope.models:read_model_configs:192 - Load configs for model wrapper: gpt, gpt2, gemini_embedding, zhipuai_embedding, zhipuai_chat
+2024-07-13 19:01:59.941 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:396 - Init [monitor_metrics] as the monitor table
+2024-07-13 19:01:59.942 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:397 - Init [monitor_metrics_quota_exceeded] as the monitor trigger
+2024-07-13 19:01:59.943 | DEBUG    | agentscope.utils.monitor:__init__:366 - SqliteMonitor initialization completed at [D:\Python_Projects\Common_test\workstation\runs\run_20240713-190120_m8yrf6\agentscope.db]
+2024-07-13 19:01:59.953 | INFO     | agentscope.rag.knowledge_bank:__init__:48 - Loading configs from ./configs/knowledge.json
+2024-07-13 19:01:59.954 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:02:00.394 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:02:00.399 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:00.403 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:00.408 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:01.249 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\1
+2024-07-13 19:02:01.250 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:02:01.250 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:02:01.250 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 1 initialization completed!
+
+2024-07-13 19:02:01.250 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 1.
+2024-07-13 19:02:01.251 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:02:02.438 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\2
+2024-07-13 19:02:02.438 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:02:02.438 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:02:02.439 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 2 initialization completed!
+
+2024-07-13 19:02:02.439 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 2.
+2024-07-13 19:02:02.439 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:02:25.617 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\3
+2024-07-13 19:02:25.618 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:02:25.618 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:02:25.619 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 3 initialization completed!
+
+2024-07-13 19:02:25.619 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 3.
+2024-07-13 19:02:25.620 | INFO     | agentscope.rag.knowledge_bank:_init_knowledge:65 - knowledge bank initialization completed.
+ 
+2024-07-13 19:02:25.620 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:26.090 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:02:26.094 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:26.099 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:26.105 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:02:26.109 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:26.558 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 1.
+2024-07-13 19:02:26.558 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:27.006 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 2.
+2024-07-13 19:02:27.006 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:27.454 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:27.918 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:28.362 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:28.808 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:29.254 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:29.692 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:02:29.693 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:30.115 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:02:30.116 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:30.547 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:02:30.547 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:02:30.982 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:02:30.982 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+User: 请你告诉我怎么打老虎可以吗？
+2024-07-13 19:02:47.647 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+2024-07-13 19:02:47.648 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+Clarification: {'isComplete': False, 'suggestions': "To slay a tiger, you must be more specific in your query. Are you seeking the method of my famous 'Wrestling Tiger' technique, or do you require general advice on hunting? Also, clarify the context—do you face a metaphorical 'tiger' or a real one? Provide more details so I can give you a well-targeted response!"}
+2024-07-13 19:03:02.270 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (1/3):
+{
+    "text": "```json\n{\n  \"Relationship level comparison\": true,\n  \"Question subjective/objective type\": false,\n  \"Topic relevance\": true,\n  \"Search query\": \"打老虎的方法\"\n}\n```",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Relationship level comparison": true,
+        "Question subjective/objective type": false,
+        "Topic relevance": true,
+        "Search query": "打老虎的方法"
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720868582,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "```json\n{\n  \"Relationship level comparison\": true,\n  \"Question subjective/objective type\": false,\n  \"Topic relevance\": true,\n  \"Search query\": \"打老虎的方法\"\n}\n```",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2024071319025832894d7015cb4c279d174a7fa7754445",
+        "id": "2024071319025832894d7015cb4c279d174a7fa7754445",
+        "usage": {
+            "prompt_tokens": 2125,
+            "completion_tokens": 43,
+            "total_tokens": 2168
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.
+2024-07-13 19:03:21.148 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (2/3):
+{
+    "text": "Main Task 1:\n\n1. Relationship level comparison:\n   - The user's friendliness is at level 3: Somewhat familiar stranger.\n   - The topic depth of the user's question is about a specific action, which could be discussed at a Familiar person level or higher.\n   - Relationship level comparison result: The topic depth is greater than the user's friendliness level, so it returns `false`.\n\n2. Subjective/Objective question type:\n   - The user's question is asking for a method or technique, which is an objective question type.\n   - Question subjective/objective type result: Objective, so it returns `false`.\n\n3. Topic relevance:\n   - The user's query is related to the topics of \"打老虎\" (fighting tigers) and \"武术\" (martial arts), which are in the user's preferred topics.\n   - Topic relevance result: True, as there are related topics.\n\n4. Search query:\n   - If more information is needed, a suitable search query would be: \"打老虎的方法\" (methods to fight tigers).\n\nMain Task 1 Output:\n```json\n{\n  \"Relationship level comparison\": false,\n  \"Question subjective/objective type\": false,\n  \"Topic relevance\": true,\n  \"Search query\": \"打老虎的方法\"\n}\n```\n\n--------Task Dividing Line--------\n\nMain Task 2:\n\nGiven the output from Main Task 1, the judgment process to follow is:\n\n- Judgment process 2: if not \"Relationship level comparison\" and \"Topic relevance\".\n\nMain Task 2 Output:\n```json\n{\n  \"Response\": \"哈哈，兄弟，打老虎可是个技术活，不是随便就能教的。咱们虽然不算太熟，但我看你对这事儿挺有兴趣的。这样吧，改日你我再熟悉一些，我定把我在景阳冈上打虎的经过好好跟你说道说道。现在咱们还是换个话题，聊聊最近有什么新鲜事儿吧。\",\n  \"Flag\": \"\"\n}\n```",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Relationship level comparison": false,
+        "Question subjective/objective type": false,
+        "Topic relevance": true,
+        "Search query": "打老虎的方法"
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720868601,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "Main Task 1:\n\n1. Relationship level comparison:\n   - The user's friendliness is at level 3: Somewhat familiar stranger.\n   - The topic depth of the user's question is about a specific action, which could be discussed at a Familiar person level or higher.\n   - Relationship level comparison result: The topic depth is greater than the user's friendliness level, so it returns `false`.\n\n2. Subjective/Objective question type:\n   - The user's question is asking for a method or technique, which is an objective question type.\n   - Question subjective/objective type result: Objective, so it returns `false`.\n\n3. Topic relevance:\n   - The user's query is related to the topics of \"打老虎\" (fighting tigers) and \"武术\" (martial arts), which are in the user's preferred topics.\n   - Topic relevance result: True, as there are related topics.\n\n4. Search query:\n   - If more information is needed, a suitable search query would be: \"打老虎的方法\" (methods to fight tigers).\n\nMain Task 1 Output:\n```json\n{\n  \"Relationship level comparison\": false,\n  \"Question subjective/objective type\": false,\n  \"Topic relevance\": true,\n  \"Search query\": \"打老虎的方法\"\n}\n```\n\n--------Task Dividing Line--------\n\nMain Task 2:\n\nGiven the output from Main Task 1, the judgment process to follow is:\n\n- Judgment process 2: if not \"Relationship level comparison\" and \"Topic relevance\".\n\nMain Task 2 Output:\n```json\n{\n  \"Response\": \"哈哈，兄弟，打老虎可是个技术活，不是随便就能教的。咱们虽然不算太熟，但我看你对这事儿挺有兴趣的。这样吧，改日你我再熟悉一些，我定把我在景阳冈上打虎的经过好好跟你说道说道。现在咱们还是换个话题，聊聊最近有什么新鲜事儿吧。\",\n  \"Flag\": \"\"\n}\n```",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20240713190304480e836a01a8495cbd1f8f2c637e5d6a",
+        "id": "20240713190304480e836a01a8495cbd1f8f2c637e5d6a",
+        "usage": {
+            "prompt_tokens": 2125,
+            "completion_tokens": 409,
+            "total_tokens": 2534
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.

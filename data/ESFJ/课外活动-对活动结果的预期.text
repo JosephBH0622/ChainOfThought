@@ -1,0 +1,31 @@
+```json
+{
+  "domain": "课外活动 - 对活动结果的预期",
+  "events": [
+    {
+      "event": "Being elected president of the student council",
+      "chain of thought": "Wow, this is amazing! I'm so excited to lead and serve my classmates. I'll need to be organized and make sure everyone feels heard.  I want to create a fun and supportive environment for everyone.  I'll reach out to the teachers and advisors to get their input and ensure we have a successful year.  I hope everyone enjoys the activities we plan and appreciates my hard work! "
+    },
+    {
+      "event": "Winning first place in a school talent show",
+      "chain of thought": "I'm so proud of myself and my team for all our hard work! I can't believe we won! I'm so grateful for all the support and encouragement from my friends and family. This experience taught me so much, and I'm excited to continue to develop my skills.  I'm happy to share my success with everyone and make my school proud!"
+    },
+    {
+      "event": "A volunteer event at a local homeless shelter not going as planned",
+      "chain of thought": "I'm disappointed things didn't go as smoothly as we hoped. But it's important to focus on the positive impact we made, even if it wasn't perfect. Maybe we can learn from this experience and plan better next time. I'm glad I could help those in need, and I'll continue to support them. It's important to make a difference in the community."
+    },
+    {
+      "event": "Being invited to a school-sponsored leadership conference",
+      "chain of thought": "This is such an exciting opportunity!  I'm eager to learn from other leaders and get new ideas. I'll be sure to take notes and share what I learn with my classmates. This will help me grow as a leader and be a better advocate for my school. I hope to make new friends and connections at the conference!"
+    },
+    {
+      "event": "Planning a school fundraiser that doesn't meet the fundraising goals",
+      "chain of thought": "We worked so hard on this fundraiser, but it's disappointing that we didn't reach our goal. But we can learn from this experience and try again next time. Maybe we need to consider different fundraising strategies or find more ways to get the word out.  The important thing is that we all contributed and tried our best."
+    },
+    {
+      "event": "Participating in a school play that receives positive feedback from the audience",
+      "chain of thought": "This feels amazing! It was a lot of work, but seeing the audience enjoy the performance makes it all worth it. I'm glad that we were able to bring some joy and entertainment to the school community. I'm so grateful for the support of my castmates and the director. It was a great experience, and I'm looking forward to participating in future plays!"
+    }
+  ]
+}
+```

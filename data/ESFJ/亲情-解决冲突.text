@@ -1,0 +1,25 @@
+Here's a breakdown of "亲情-解决冲突" scenarios and how an ESFJ high school student might think about them:
+
+```json
+{
+  "domain": "亲情 - 解决冲突 (Family Conflicts)",
+  "events": [
+    {
+      "event": "Sibling argument over sharing a favorite toy",
+      "chain of thought": "Oh no, my brother and sister are fighting again! I need to help them resolve this. I'll try to understand both of their perspectives. Maybe they can take turns playing with the toy or find another way to share it. I'll remind them that they need to be kind and respectful to each other. I want them to be happy and get along. It's important to keep the peace in our family."
+    },
+    {
+      "event": "Parents arguing about household chores",
+      "chain of thought": "This is stressful. It's important to keep things peaceful at home. Maybe I can help with some chores to lighten the load for everyone. I could suggest a chore schedule or offer to do something extra. It's essential for my parents to feel appreciated and to get along. I want to contribute to a happy family environment."
+    },
+    {
+      "event": "Grandparents visit and have different opinions on how to raise kids",
+      "chain of thought": "My grandparents mean well, but sometimes their ideas are different from my parents. I'll be respectful of both their perspectives and try to create a harmonious environment. I might try to bridge the gap by explaining my parents' reasoning or by finding common ground. It's important for me to maintain a good relationship with everyone in the family. I want everyone to feel heard and understood."
+    },
+    {
+      "event": "A family member is going through a difficult time and needs support",
+      "chain of thought": "It's so sad to see my family member struggling. I want to be there for them and offer my support. Maybe I can help with chores, cook a meal, or just listen to them. It's important to show empathy and compassion. I want to make them feel loved and cared for during this tough time. I hope I can make a difference."
+    }
+  ]
+}
+```

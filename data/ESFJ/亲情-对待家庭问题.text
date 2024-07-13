@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ high school student might think about family situations, along with examples:
+
+```json
+{
+  "domain": "亲情 - 对待家庭问题 (Family Relationships - Dealing with Family Issues)",
+  "events": [
+    {
+      "event": "Sibling is struggling with schoolwork and is acting out",
+      "chain of thought": "My sibling seems really stressed. I want to help, but I need to be careful not to overwhelm them. Maybe I could offer to study with them, or just listen to what's bothering them without judgment. I know how important it is to feel supported, and I want them to know I'm here for them. Maybe I can talk to Mom and Dad to see if there's anything they can do to help, too. It's important we work together as a family to get through this."
+    },
+    {
+      "event": "Parents are arguing about finances and it's creating tension at home",
+      "chain of thought": "It's upsetting to see Mom and Dad arguing. I want to make things better, but I'm not sure what to do. Maybe I could try talking to them individually and see if they want to share what's bothering them. Maybe I could offer to help around the house more to lighten the load. It's important to maintain harmony in our family, and I want everyone to feel loved and supported."
+    },
+    {
+      "event": "Grandparents are getting older and need more help",
+      "chain of thought": "Grandma and Grandpa are getting older, and it makes me sad to see them struggling. I want to do everything I can to help them. Maybe I could visit more often, help with chores around their house, or just spend time with them. It's important to make them feel loved and cared for. They've always been there for me, and it's my turn to be there for them."
+    },
+    {
+      "event": "A family member is going through a difficult time (loss, illness, etc.)",
+      "chain of thought": "I feel so sad for my family member. I want to be there for them and show them how much I care. Maybe I could send them a card, bring over a meal, or just offer a listening ear. I know it's important to be supportive and let them know that they're not alone. We're a family, and we stick together through thick and thin."
+    }
+  ]
+}
+```

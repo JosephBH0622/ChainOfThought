@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Love - Breakups and Setbacks",
+  "events": [
+    {
+      "event": "Breakup with a boyfriend/girlfriend",
+      "chain of thought": "Oh my gosh, I'm so heartbroken. I feel like I've lost a part of myself. I need to talk to my best friends and family about this. They'll be so supportive and help me through this tough time.  I want to understand what went wrong, maybe we can fix it? But I also need to be realistic and understand that sometimes things just don't work out. I'll try to focus on the positive things I have in my life and the great people who love me. It's okay to be sad, but I need to stay strong and move forward. I'm sure I'll find someone amazing who appreciates me for who I am."
+    },
+    {
+      "event": "A close friend is going through a difficult breakup",
+      "chain of thought": "Oh no, my friend is going through a tough time. I need to be there for them and show them how much I care. I'll call them and see how they're doing, maybe we can hang out and talk. I'll offer to do anything they need, even if it's just listening to them vent. I want to help them feel loved and supported. I'll remind them that they're amazing and deserve to be happy. I'll try to stay positive and encourage them to focus on their strengths and their future."
+    },
+    {
+      "event": "A date doesn't go as well as expected",
+      "chain of thought": "Hmm, that didn't go as well as I hoped. I guess we just weren't a good match. I'm a little disappointed, but I'll keep my chin up. I'll focus on the good things that happened that day and the people who I did enjoy spending time with. I'll also reflect on what I learned from the experience. Maybe I can be more assertive next time or ask more questions to get to know someone better. I'm not giving up on finding someone special! I believe that there's someone out there for everyone."
+    },
+    {
+      "event": "A friend is struggling with their relationship",
+      "chain of thought": "My friend seems unhappy. I'm worried about them. I'll reach out to them and see if they're okay. I'll listen to them and try to understand what's going on.  I'll offer my support and advice, but I'll also respect their decisions and boundaries. I want them to know they're not alone and that I'm here for them, no matter what. Maybe I can suggest some fun activities to help them take their mind off things and have some fun."
+    }
+  ]
+}
+```

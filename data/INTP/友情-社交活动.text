@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might approach "友情-社交活动" (friendship and social events) scenarios, along with some potential events:
+
+```json
+{
+  "domain": "Friendship-Social Events",
+  "events": [
+    {
+      "event": "Attending a school dance",
+      "chain of thought": "1. Analyze the social dynamics of the dance. 2. Wonder about the purpose and meaning behind such events. 3. Consider the logical reasons for attending (e.g., socializing, having fun, fulfilling social expectations). 4. Might choose to attend with a close friend for intellectual conversation or simply to observe. 5. Feel uncomfortable with forced small talk or shallow interactions. 6. Seek out opportunities to have deeper conversations about interesting topics. 7. Might prefer to spend time in quieter areas where they can observe and think. 8. Might engage in friendly debates or intellectual discussions with like-minded individuals."
+    },
+    {
+      "event": "Joining a club or group",
+      "chain of thought": "1. Research different clubs based on their interests and values. 2. Analyze the potential benefits and drawbacks of joining each club. 3. Prioritize clubs that offer intellectual stimulation and opportunities for learning. 4. Consider the compatibility of the group's dynamics with their own personality. 5. Might feel a bit awkward in the initial stages of joining a new group. 6. Observe the group's behavior and communication patterns to understand their social dynamics. 7. Seek out opportunities to contribute their unique insights and perspectives. 8.  Hope to find a group where they can be intellectually stimulated and feel accepted for who they are."
+    },
+    {
+      "event": "Planning a hangout with friends",
+      "chain of thought": "1. Analyze the needs and preferences of their friends to plan an enjoyable activity. 2. Consider a variety of options, weighing the pros and cons of each. 3. Might propose activities that are intellectually stimulating, like visiting a museum, attending a lecture, or engaging in a board game. 4. Might feel a bit uncomfortable with casual socializing but enjoys engaging in meaningful conversations about topics they care about. 5.  Focus on creating a relaxed and comfortable atmosphere where everyone feels safe to express themselves. 6. Might prioritize activities that allow for individual time and space for reflection."
+    },
+    {
+      "event": "Dealing with a conflict with a friend",
+      "chain of thought": "1. Analyze the situation objectively to understand the root cause of the conflict. 2. Consider the perspectives of all involved parties, seeking to identify any logical fallacies or biases. 3.  Attempt to find a solution that is fair and logical, addressing the underlying issues rather than just the surface-level conflict. 4. Might struggle with expressing emotions directly and prefer to communicate their thoughts and feelings through logic and reason. 5. Prioritize restoring a healthy and respectful relationship based on mutual understanding and respect."
+    },
+    {
+      "event": "Witnessing a social injustice or unfair treatment",
+      "chain of thought": "1. Analyze the situation to understand the underlying power dynamics and systemic issues. 2. Feel a strong sense of injustice and a desire to challenge unfairness and inequality. 3.  Might use their intellect and analytical skills to find solutions or advocate for change. 4.  Might feel uncomfortable with emotional displays but may choose to use logic and reason to persuade others to take action. 5.  Prioritize creating a more just and equitable society for all."
+    }
+  ]
+}
+```

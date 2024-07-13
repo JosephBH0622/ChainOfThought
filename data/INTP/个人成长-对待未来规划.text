@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about personal growth and future planning, along with examples of potential events and their corresponding chain of thought:
+
+```json
+{
+  "domain": "Personal Growth & Future Planning",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "1. Research various fields, analyzing their strengths, weaknesses, and career prospects. 2. Consider long-term goals and their alignment with personal values. 3. Question the inherent assumptions of traditional career paths. 4.  Explore unconventional options or areas of interest that might not be widely recognized. 5.  Assess the intellectual stimulation and potential for growth offered by each field. 6.  Weigh the practical considerations, such as job market demand and financial stability. 7.  Feel overwhelmed by the sheer number of possibilities and struggle to prioritize. 8.  Seek out mentors or advisors who can offer objective perspectives and help refine the decision-making process. 9.  Ultimately strive for a major that aligns with intellectual curiosity and long-term fulfillment."
+    },
+    {
+      "event": "Facing academic challenges",
+      "chain of thought": "1. Analyze the source of the difficulty, identifying specific knowledge gaps or areas for improvement. 2.  Explore different learning strategies, seeking efficient and effective methods to acquire the necessary knowledge. 3.  Break down complex concepts into smaller, manageable chunks. 4.  Feel frustrated by the lack of clear logical connections or the need for rote memorization. 5.  Seek to understand the underlying principles or theoretical frameworks that govern the subject matter. 6.  Engage in independent research and exploration beyond the curriculum to gain a deeper understanding. 7.  Feel motivated by the challenge to overcome obstacles and gain new insights. 8.  Utilize resources like online tutorials, textbooks, or peer collaboration to supplement their learning."
+    },
+    {
+      "event": "Setting personal goals",
+      "chain of thought": "1.  Define clear, specific, measurable, achievable, relevant, and time-bound (SMART) goals. 2.  Analyze the steps required to achieve each goal and break them down into manageable tasks. 3.  Consider the potential obstacles and develop contingency plans to address them. 4.  Feel a sense of satisfaction when making progress towards their goals and identifying new avenues for improvement. 5.  May become discouraged if faced with unexpected setbacks but are generally resilient and determined to find solutions. 6.  Continuously assess and adjust their goals based on new knowledge and experiences."
+    },
+    {
+      "event": "Dealing with social situations",
+      "chain of thought": "1. Analyze social dynamics and group interactions, seeking to understand underlying motivations and patterns of behavior. 2.  Feel uncomfortable with small talk or superficial interactions. 3.  Prefer deep, meaningful conversations and discussions that delve into complex ideas. 4.  May struggle to express emotions or convey their thoughts effectively in social settings. 5.  Focus on building genuine connections based on shared interests and intellectual curiosity. 6.  Feel more at ease in smaller groups or with individuals who share their intellectual interests."
+    },
+    {
+      "event": "Experiencing a major life change",
+      "chain of thought": "1.  Objectively analyze the situation and its potential impact on their life. 2.  Consider all possible scenarios and develop contingency plans for each outcome. 3.  Feel a sense of excitement about the possibilities for growth and exploration. 4.  May struggle to adapt to new routines or social dynamics. 5.  Seek to understand the underlying causes and implications of the change. 6.  Embrace challenges as opportunities for learning and self-improvement."
+    }
+  ]
+}
+```

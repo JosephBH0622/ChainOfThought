@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-类型选择",
+  "events": [
+    {
+      "event": "School club recruitment fair",
+      "chain of thought": "Wow, so many clubs! I want to join one that helps others and makes a difference. Maybe the volunteer club or the animal shelter club? I'll talk to the club members and see what they do. It's important to find a group where I can make friends and contribute.  I hope I can learn new skills and make a positive impact on the community."
+    },
+    {
+      "event": "Friends suggesting joining a sports team",
+      "chain of thought": "That sounds fun! I love being part of a team and working together to achieve a goal. I'm not sure I'm athletic enough, but I'll give it a try. I want to support my friends and be there for them.  I hope I can learn new skills and maybe even make some new friends on the team. It's important to me that everyone feels included and valued."
+    },
+    {
+      "event": "Hearing about a unique, but challenging extracurricular activity",
+      "chain of thought": "Hmm, that's interesting, but it sounds really tough. I'd need to think about if I have the time and energy to commit to it. I want to make sure I'm doing well in my classes and not overloading myself. It's also important that I'm able to help out at home and spend time with my family. Maybe I could talk to my parents about it first?"
+    },
+    {
+      "event": "A classmate asks for help with their extracurricular activity",
+      "chain of thought": "Of course! I'd be happy to help. I know how important it is to support each other. I'll do my best to help them learn and succeed. I'm happy to offer my time and skills to help make their experience more enjoyable. It's important to me that everyone feels supported and valued."
+    },
+    {
+      "event": "Choosing between two extracurricular activities",
+      "chain of thought": "This is a tough choice! Both activities sound interesting. I need to think about what I enjoy the most and what I want to learn. It's also important to consider my time commitment and what I can realistically manage.  I want to make sure I'm choosing an activity that will be fulfilling and rewarding."
+    }
+  ]
+}
+```

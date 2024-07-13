@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP American high school student might think about friendship scenarios, along with possible events:
+
+```json
+{
+  "domain": "Friendship",
+  "events": [
+    {
+      "event": "A close friend is struggling with a personal issue (e.g., family problems, mental health)",
+      "chain of thought": "1. **Analyze the situation:** I'd want to understand the root cause of the problem. What are the contributing factors? What are the potential consequences? 2. **Offer logical solutions:** I'd likely offer suggestions based on my understanding of the situation, focusing on practical and effective solutions. 3. **Respect their autonomy:** I wouldn't push my solutions, instead, I'd encourage them to explore options and make their own decisions. 4. **Offer a listening ear:**  While I might struggle with emotional expression, I'd offer a space for them to vent and process their feelings. 5. **Focus on understanding:** I'd be more interested in the logic behind their emotions than the emotions themselves. 6. **Provide information:** If they're struggling with understanding something, I'd offer resources or information that could help them make informed decisions."
+    },
+    {
+      "event": "A friend is being bullied or treated unfairly",
+      "chain of thought": "1. **Analyze the situation:** I'd assess the power dynamics, the specific forms of bullying, and potential consequences for my friend and myself. 2. **Consider the most effective course of action:** Should I confront the bully directly? Should I inform a trusted adult? Should I support my friend from a distance? 3. **Prioritize logic and effectiveness:** I'd focus on solutions that would effectively address the bullying and ensure the safety of my friend. 4. **Consider the potential consequences of my actions:** I'd weigh the risks and benefits of different courses of action, aiming for a logical and practical approach. 5. **Offer support and understanding:** I'd provide my friend with a listening ear and express my disapproval of the bullying, assuring them of my support."
+    },
+    {
+      "event": "Being invited to a social event where they don't know many people",
+      "chain of thought": "1. **Analyze the potential benefits and drawbacks:** What are the potential social gains? What are the potential risks of discomfort or awkwardness? 2. **Consider the logic of attending:** Is it important to attend for my friend's sake? Will it benefit my social network? 3. **Prepare for social interaction:** If I decide to go, I'll try to research the event and identify common interests with potential attendees. 4. **Prepare conversation starters:** I'll think about topics of discussion that might help me connect with others. 5. **Embrace the learning opportunity:** I'll see it as a chance to observe and learn about different people and social dynamics."
+    },
+    {
+      "event": "A friend is making a decision that you think is unwise",
+      "chain of thought": "1. **Present the facts objectively:** I'd offer information and perspectives that might help my friend understand the potential consequences of their decision. 2. **Focus on the logic of the situation:** I'd explain my reasoning based on facts and evidence, avoiding emotional appeals. 3. **Respect their autonomy:** Ultimately, I understand it's their decision, so I'd express my concerns without trying to control their choice. 4. **Offer support regardless:** Even if they don't agree with my perspective, I'd still offer support and a listening ear,  because they're important to me. 5. **Learn from the experience:** I'd reflect on the situation and analyze why my friend made their decision, learning from their perspective."
+    }
+  ]
+}
+```

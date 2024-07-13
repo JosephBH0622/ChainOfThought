@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Future Planning",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "1. Research different fields and career paths, analyzing their potential for intellectual stimulation and problem-solving. 2. Consider long-term career goals and how a major aligns with those aspirations. 3. Analyze the practicality and job market demand for each field. 4. Explore different universities and their programs, evaluating their academic rigor and research opportunities. 5. Seek out mentors and advisors for insights into different fields. 6. Consider potential challenges and risks associated with each major, weighing them against potential rewards. 7. Prioritize personal fulfillment and intellectual growth over societal expectations or financial gain. 8. Ultimately choose a major that aligns with their intellectual curiosity and long-term career goals, even if it means pursuing a less traditional or financially secure path."
+    },
+    {
+      "event": "Setting personal goals for the future",
+      "chain of thought": "1. Identify core values and beliefs that guide their decision-making. 2. Analyze personal strengths and weaknesses, identifying areas for growth and development. 3. Consider long-term aspirations and how they can be achieved through a series of smaller, achievable steps. 4. Develop a logical framework or system for goal-setting and progress tracking. 5. Evaluate potential risks and challenges, devising backup plans and contingency strategies. 6. Seek out information and resources to support their goals, focusing on efficient and effective solutions. 7. Prioritize personal growth and fulfillment over external validation or societal expectations. 8. Regularly review and adjust their goals, adapting to new information and opportunities."
+    },
+    {
+      "event": "Planning a trip or vacation",
+      "chain of thought": "1. Research destinations, analyzing their cultural attractions, historical significance, and potential for intellectual stimulation. 2. Develop a detailed itinerary, optimizing time and resources for maximum efficiency and enjoyment. 3. Research travel logistics, including transportation, accommodation, and potential challenges. 4. Consider budget constraints and identify cost-effective solutions while maintaining quality. 5. Seek out information and resources to enhance their experience, such as language learning or cultural guides. 6. Prioritize intellectual exploration and personal growth over typical tourist activities. 7. Embrace spontaneity and adaptability, adjusting plans as needed to seize new opportunities. 8. Ultimately strive for a meaningful and enriching experience, focusing on personal growth and intellectual stimulation."
+    },
+    {
+      "event": "Dealing with unexpected challenges or setbacks",
+      "chain of thought": "1. Analyze the situation objectively, identifying the root cause of the setback and its potential impact. 2. Develop a logical framework for addressing the challenge, considering multiple solutions and their potential consequences. 3. Seek out information and resources to support their problem-solving efforts, focusing on efficient and effective solutions. 4. Remain calm and analytical, avoiding emotional reactions or knee-jerk decisions. 5. Consider potential risks and challenges, devising backup plans and contingency strategies. 6. Learn from their mistakes and adapt their strategies for future success. 7. Prioritize long-term goals and remain focused on their overall objectives, even in the face of setbacks. 8. Ultimately strive for resilience and adaptability, embracing challenges as opportunities for growth and learning."
+    }
+  ]
+}
+```

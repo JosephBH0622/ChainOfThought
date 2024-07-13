@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ American high school student might think about "未来规划-规划动力" (future planning - planning motivation) scenarios:
+
+```json
+{
+  "domain": "未来规划-规划动力 (Future Planning - Planning Motivation)",
+  "events": [
+    {
+      "event": "College application deadline approaching",
+      "chain of thought": "Wow, the college application deadline is coming up fast! I need to start working on it right away.  I should talk to my parents and guidance counselor about what colleges would be a good fit for me. I'll make a list of schools I'm interested in and start researching their programs and requirements.  I want to pick a place that's a good fit for me academically and socially.  It would be great to visit some campuses and meet students. I want to make sure I get all my applications in on time.  I'm nervous, but I know I can do this! I want to make my family proud and have a bright future."
+    },
+    {
+      "event": "A friend is struggling with their future plans",
+      "chain of thought": "My friend seems really lost about what they want to do after graduation. I want to be supportive and help them figure things out. I'll ask them what they enjoy doing and what their strengths are. Maybe I can share some ideas about career paths or colleges they might like.  It's important to me that they find something that makes them happy and brings them fulfillment. I'll offer to help them brainstorm and research different options. I'm happy to be a listening ear and offer encouragement."
+    },
+    {
+      "event": "A new club forms with a goal of organizing a school fundraiser",
+      "chain of thought": "This sounds like a great opportunity to give back to the school and make a difference! I'd love to join this club. I'll offer to help plan the fundraiser and make sure it's organized and successful. We can all work together to reach our goals and make a positive impact on our community.  I know I can help with logistics, like contacting vendors or setting up the event.  I want to make sure we have a fun and successful fundraiser that everyone enjoys."
+    },
+    {
+      "event": "A teacher shares information about a scholarship opportunity",
+      "chain of thought": "This scholarship could be really helpful for college! I should definitely apply.  I'll make sure to gather all the necessary information and submit my application on time. I want to put my best foot forward and make a good impression.  It would be a great honor to be awarded this scholarship. It would help me focus on my studies and achieve my goals."
+    }
+  ]
+}
+```

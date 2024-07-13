@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach friendship scenarios, along with possible real-life events:
+
+```json
+{
+  "domain": "Friendship - Treating Friendship",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal issue.",
+      "chain of thought": "Oh no, this is so sad! My friend needs support right now. I'll definitely be there for them. I'll listen carefully and offer whatever practical help I can. I might make them their favorite meal or help with chores. I want them to know they're loved and not alone. I'll be patient and understanding, even if it takes time for them to feel better. I hope my support makes a difference."
+    },
+    {
+      "event": "A friend is being excluded by others in the group.",
+      "chain of thought": "This is terrible! No one should feel left out. I need to step up and include my friend. I'll make an effort to talk to them and spend time with them. I'll also try to talk to the others and encourage them to be kind.  Everyone deserves to feel welcomed. I'll make sure everyone feels included in group activities and try to create a harmonious environment where everyone feels valued."
+    },
+    {
+      "event": "A friend is planning a surprise party for another friend.",
+      "chain of thought": "This sounds like fun! I love helping out with celebrations. I'll do whatever I can to make it a success. I'll help with decorations, food, and anything else needed. I'll make sure everything runs smoothly and that everyone is having a good time. I hope the person being surprised is truly happy! I love making people feel special."
+    },
+    {
+      "event": "A friend is having a disagreement with another friend.",
+      "chain of thought": "Oh no, this is upsetting. I need to help them work things out. I'll try to talk to both of them separately and understand their perspectives. I'll encourage them to communicate calmly and respectfully. I'll try to find common ground and help them find a solution that works for everyone. I want them to be able to repair their friendship."
+    },
+    {
+      "event": "A close friend moves away.",
+      "chain of thought": "This is going to be so hard! I'm going to miss my friend terribly. I'll make sure to stay in touch regularly through phone calls, texts, and social media. I'll also try to visit them whenever I can. I know it's not the same, but I want them to know I'm still thinking of them and that our friendship is important to me. I'll treasure the memories we shared and look forward to being reunited someday."
+    }
+  ]
+}
+```

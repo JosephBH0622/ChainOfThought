@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "亲情-表达方式 (Family Affection - Expression Methods)",
+  "events": [
+    {
+      "event": "Parents are busy working late and rarely have time for family dinners.",
+      "chain of thought": "I understand that my parents are working hard to provide for us, but I miss spending quality time together.  I'll try to plan a family game night or movie night to make sure we can connect. I'll also make sure to tell them how much I appreciate their hard work and how much I love them. It's important to show them my love and support even when they are busy. Maybe I can offer to help with chores around the house so they can have some free time. Family is important, and I want to make sure we stay connected."
+    },
+    {
+      "event": "A family member is going through a difficult time.",
+      "chain of thought": "I want to be there for them and show them I care.  I'll try to be understanding and listen to their problems. Maybe I can offer to help with errands or chores to make their life a little easier. I know that a kind word and a hug can go a long way. I'll make sure to let them know that I'm there for them, no matter what. Even if I don't know what to say, simply being present and showing empathy can mean a lot."
+    },
+    {
+      "event": "A family member is celebrating a birthday or achievement.",
+      "chain of thought": "This is a great opportunity to celebrate and show my love. I'll plan a special surprise or a heartfelt card to express my feelings.  I'll make sure to be present and participate in the celebration. I want to make this occasion memorable for them. Maybe I can help bake a cake or organize a small gathering to make it extra special."
+    },
+    {
+      "event": "Sibling is having a disagreement with another family member.",
+      "chain of thought": "I want to help bring peace and harmony to the family. I'll try to be a mediator and listen to both sides of the story. Maybe I can suggest a compromise or a way to resolve the issue. I'll encourage them to talk it out and find a solution. Family is important, and I want to make sure everyone feels loved and supported."
+    }
+  ]
+}
+``` 

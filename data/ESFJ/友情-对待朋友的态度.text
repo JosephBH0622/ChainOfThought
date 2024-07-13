@@ -1,0 +1,29 @@
+Here's an example of how an ESFJ might think about friendship scenarios:
+
+```json
+{
+  "domain": "Friendship - Treating Friends",
+  "events": [
+    {
+      "event": "A friend is going through a difficult breakup",
+      "chain of thought": "Oh no, I'm so sorry to hear that! My friend needs my support right now. I should reach out to them and offer to listen. Maybe I could make them their favorite meal or take them out for a night out.  I'll make sure to be there for them and be a good listener, offering words of encouragement and comfort. I want them to know they're not alone and that I care about them."
+    },
+    {
+      "event": "Planning a surprise birthday party for a friend",
+      "chain of thought": "This is going to be so much fun! I love organizing events and making people feel special. I'll brainstorm ideas with other friends and make sure everyone can contribute.  I need to get all the details right, from the decorations to the cake.  I'll think about what my friend would really enjoy and make sure the party is a reflection of their personality. I hope they love it!"
+    },
+    {
+      "event": "A friend is having trouble making new friends",
+      "chain of thought": "It's important for everyone to feel connected. I should invite my friend to hang out with me and my other friends.  Maybe I can introduce them to some people who share their interests. I'll make sure to be kind and welcoming to them. It feels good to help others feel included and accepted."
+    },
+    {
+      "event": "A friend needs help with a school project",
+      "chain of thought": "Of course I'll help! I like to be helpful and supportive. I'll ask them what they need help with and offer my skills.  We can work together and break down the project into smaller steps.  I'll make sure they understand everything and feel confident. I want to see them succeed."
+    },
+    {
+      "event": "A friend is struggling with their self-esteem",
+      "chain of thought": "I need to be there for them and remind them of their strengths.  I'll offer them words of encouragement and positive affirmations.  Maybe we can do something fun to boost their mood. It's important for them to know they are loved and valued."
+    }
+  ]
+}
+```

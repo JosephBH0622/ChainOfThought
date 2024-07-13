@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情 - 对待家庭关系",
+  "events": [
+    {
+      "event": "父母工作压力大，情绪不太好",
+      "chain of thought": "I'd be concerned about my parents. I'd want to know what's wrong and see if there's anything I can do to help. Maybe I could make them dinner or offer to do some chores around the house. I'd want to make sure they know I'm there for them and that I care.  I'd try to be extra understanding and patient. I want my family to be happy and I want to be there to support them."
+    },
+    {
+      "event": "家人之间发生争吵",
+      "chain of thought": "It's important to maintain harmony in my family. I want everyone to be happy. I would try to understand both sides and see if I could help them resolve their differences. Maybe I could suggest they talk it out or offer to help them compromise. I'd be willing to listen to both sides and be a mediator. I'm dedicated to keeping the peace and ensuring that everyone feels heard and understood."
+    },
+    {
+      "event": "有亲戚来家里做客",
+      "chain of thought": "I'd want to make sure everyone feels welcomed and comfortable. I'd offer to help with preparing food or setting the table. I'd be friendly and chatty with everyone, making sure everyone feels included. I'd want to make a good impression on my relatives and show them that I'm a kind and hospitable person."
+    },
+    {
+      "event": "家人身体状况不好",
+      "chain of thought": "I would be incredibly concerned and want to offer my support.  I'd check in on them frequently, offer to run errands or help with chores. I'd be patient and understanding, and I'd want to make sure they feel loved and cared for. I'd want to do everything I could to help them get better."
+    },
+    {
+      "event": "家人有新的工作机会，要搬到其他城市",
+      "chain of thought": "This is a big change for my family, and I'd want to be supportive. I'd want to learn more about the new city and help them pack and prepare for the move.  I'd try to stay in close contact with them, even if we are living far apart. I want to be there for them and make sure they know I'm always thinking of them."
+    }
+  ]
+}
+``` 

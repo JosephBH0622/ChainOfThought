@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about "未来规划 - 对未来的认知" (Future Planning - Perception of the Future):
+
+```json
+{
+  "domain": "Future Planning - Perception of the Future",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "1. Analyze my interests and strengths, looking for patterns and connections. 2. Research different fields and their potential for intellectual growth. 3. Consider the long-term impact of my choice on my career and life path. 4. Evaluate the practicality and feasibility of different options. 5. Seek out opportunities to learn more about potential majors, such as shadowing professionals or taking elective courses. 6.  Carefully weigh the pros and cons of each option, considering both personal fulfillment and future earning potential. 7.  Ultimately choose the path that aligns most closely with my values and my desire to make a meaningful contribution to the world."
+    },
+    {
+      "event": "Contemplating career options",
+      "chain of thought": "1. Research various career fields and their impact on society. 2. Analyze the skills and knowledge required for each career. 3.  Consider the potential for intellectual challenge and growth within each field. 4.  Evaluate the long-term prospects and future trends within each career path. 5.  Seek out mentors or professionals in fields that interest me to gain insights and perspectives. 6.  Develop a plan for acquiring the necessary skills and knowledge to pursue a desired career. 7.  Remain open to adapting my plans based on new information and opportunities."
+    },
+    {
+      "event": "Dealing with uncertainty about the future",
+      "chain of thought": "1.  Acknowledge that uncertainty is a natural part of life. 2.  Analyze the sources of my anxiety and try to understand the root causes. 3.  Develop a strategy for coping with uncertainty, such as focusing on what I can control and practicing mindfulness. 4.  Explore potential scenarios and contingencies to prepare for unexpected events. 5.  Seek out information and perspectives that can help me make more informed decisions. 6.  Maintain a sense of optimism and believe in my ability to adapt to changing circumstances. 7.  Recognize that future planning is an ongoing process, and I may need to adjust my plans as I learn and grow."
+    },
+    {
+      "event": "Considering the potential impact of technology on the future",
+      "chain of thought": "1.  Research emerging technologies and their potential impact on various industries. 2.  Analyze how technology might reshape the future of work and society. 3.  Consider the ethical implications of technological advancements. 4.  Evaluate the potential benefits and risks associated with different technologies. 5.  Seek to understand the role of technology in shaping the future and how I can contribute to a positive outcome. 6.  Stay informed about technological developments and adapt my plans as needed."
+    },
+    {
+      "event": "Reflecting on personal values and their role in future goals",
+      "chain of thought": "1.  Identify my core values and beliefs. 2.  Analyze how these values align with my goals and aspirations. 3.  Consider the potential conflicts between my values and my goals, and find ways to reconcile them. 4.  Develop a plan that reflects my values and helps me live a meaningful and fulfilling life. 5.  Remain open to evolving my values and goals as I grow and gain new experiences."
+    }
+  ]
+}
+```

@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "与人对话 - 与人对话",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal problem and confides in you.",
+      "chain of thought": "Oh no, that sounds difficult. I want to be there for them and offer my support. I'll listen carefully and try to understand their perspective. I'll ask questions to make sure I'm getting the whole story. It's important to be empathetic and show them I care. Maybe I can suggest a solution or offer to help in some way. I want them to know they're not alone and that I'm here for them. I hope I can make them feel better."
+    },
+    {
+      "event": "You witness a classmate being bullied and feel the need to intervene.",
+      "chain of thought": "That's not right! I can't stand to see someone being treated like that. I need to step in and help. I'll try to calmly approach the situation and speak to the bully, but in a way that shows them their actions are wrong. I'll also check on the victim and offer them my support. I want to create a safe and positive environment for everyone. I hope I can diffuse the situation and prevent it from happening again."
+    },
+    {
+      "event": "You're asked to give a presentation in front of your class.",
+      "chain of thought": "Oh, this is going to be tough. I want to do my best and impress my teacher and classmates. I'll practice my speech a lot and try to be as clear and engaging as possible. I'll make sure to look at everyone and connect with them. I want to make sure everyone understands the information and feels comfortable asking questions. I hope I can do a good job and make everyone proud."
+    },
+    {
+      "event": "You're asked to lead a group project for a class.",
+      "chain of thought": "Wow, this is exciting! I can be a great leader and help everyone succeed. I'll make sure everyone has a chance to contribute and feel heard. I'll set clear goals and deadlines and keep everyone on track. I want to create a collaborative and supportive environment where everyone feels comfortable sharing their ideas. I'll be sure to thank everyone for their hard work and contributions. I hope we can create a fantastic project and impress our teacher!"
+    },
+    {
+      "event": "You're invited to a party but you don't know many people.",
+      "chain of thought": "This is going to be a little nerve-wracking. I want to make new friends and have a good time. I'll try to be friendly and approachable. I'll introduce myself to people and ask them questions to get to know them. I'll also try to participate in activities and join in on conversations. I hope I can connect with some people and make some new friends. I want to have a fun and memorable experience!"
+    }
+  ]
+}
+``` 

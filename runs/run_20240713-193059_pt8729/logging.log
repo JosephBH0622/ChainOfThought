@@ -1,0 +1,60 @@
+2024-07-13 19:31:29.000 | INFO     | agentscope.models:read_model_configs:192 - Load configs for model wrapper: gpt, gpt2, gemini_embedding, zhipuai_embedding, zhipuai_chat
+2024-07-13 19:31:29.009 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:396 - Init [monitor_metrics] as the monitor table
+2024-07-13 19:31:29.009 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:397 - Init [monitor_metrics_quota_exceeded] as the monitor trigger
+2024-07-13 19:31:29.010 | DEBUG    | agentscope.utils.monitor:__init__:366 - SqliteMonitor initialization completed at [D:\Python_Projects\Common_test\workstation\runs\run_20240713-193059_pt8729\agentscope.db]
+2024-07-13 19:31:29.020 | INFO     | agentscope.rag.knowledge_bank:__init__:48 - Loading configs from ./configs/knowledge.json
+2024-07-13 19:31:29.021 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:31:30.385 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:31:30.393 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:31:30.400 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:31:30.408 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:31:33.275 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\1
+2024-07-13 19:31:33.276 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:31:33.277 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:31:33.278 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 1 initialization completed!
+
+2024-07-13 19:31:33.278 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 1.
+2024-07-13 19:31:33.280 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:31:37.436 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\2
+2024-07-13 19:31:37.437 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:31:37.439 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:31:37.439 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 2 initialization completed!
+
+2024-07-13 19:31:37.440 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 2.
+2024-07-13 19:31:37.441 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:32:56.673 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\3
+2024-07-13 19:32:56.674 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:32:56.675 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:32:56.676 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 3 initialization completed!
+
+2024-07-13 19:32:56.676 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 3.
+2024-07-13 19:32:56.677 | INFO     | agentscope.rag.knowledge_bank:_init_knowledge:65 - knowledge bank initialization completed.
+ 
+2024-07-13 19:32:56.678 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:32:58.081 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:32:58.090 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:32:58.096 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:32:58.105 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:32:58.112 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:32:59.571 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 1.
+2024-07-13 19:32:59.572 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:01.140 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 2.
+2024-07-13 19:33:01.141 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:02.640 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:04.172 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:05.682 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:07.213 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:08.750 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:10.270 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:33:10.271 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:11.778 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:33:11.779 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:13.299 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:33:13.300 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:33:14.898 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:33:14.899 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+User: 请告诉我怎么打老虎
+2024-07-13 19:33:27.185 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+2024-07-13 19:33:27.186 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+Clarification: {'isComplete': False, 'suggestions': "Oh, good sir, merely asking 'how to fight a tiger' is as bold as facing a tiger unarmed! You need to specify what aspect you seek—self-defense strategies, historical techniques, or perhaps the methods of our ancestors. Provide more context and the level of detail you require, so I can equip you with the proper knowledge."}
+Analyzer: {'Main Task 1': {'Relationship level comparison': True, 'Question subjective/objective type': True, 'Topic relevance': True, 'Search query': '打老虎的方法'}, 'Main Task 2': {'Response': 'Response_4', 'Flag': ''}}

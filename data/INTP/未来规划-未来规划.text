@@ -1,0 +1,25 @@
+## INTP's Future Planning:
+
+```json
+{
+  "domain": "Future Planning",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "1. **Analyze interests and skills:** What am I genuinely passionate about? What am I naturally good at? 2. **Research potential career paths:** What jobs could I get with each major? What are the long-term prospects like? 3. **Evaluate potential universities:** What are the academic strengths of each university? What kind of environment do they offer? 4. **Consider the practicalities:** What is the cost of each option? How long will it take to graduate? 5. **Project future scenarios:** How would each major impact my life in the long run? What are the potential risks and rewards? 6. **Seek logical frameworks:** Is there a system or model I can use to make the best decision? 7. **Synthesize information and make a decision:**  Weighing the pros and cons of each option, I'll make a choice that feels logical and aligned with my values.  8. **Be open to adjustment:** This is a long-term decision, so I'm open to revising my plan as I learn more and grow."
+    },
+    {
+      "event": "Planning a career path",
+      "chain of thought": "1. **Identify my ideal work environment:** What kind of work culture do I thrive in? What kind of impact do I want to have? 2. **Explore different industries and roles:** What fields are growing? What skills are in demand? 3. **Develop a long-term vision:** Where do I see myself in 5, 10, 20 years? What are my goals for that time? 4. **Create a roadmap:** What steps should I take to achieve my goals? What skills do I need to develop?  5. **Anticipate potential challenges:** What obstacles might I encounter? How can I overcome them?  6. **Consider the personal impact:** How will this career path affect my lifestyle, relationships, and overall well-being? 7. **Be open to change and adaptation:** The future is unpredictable, so I need to be flexible and adapt my plan as needed." 
+    },
+    {
+      "event": "Setting personal goals",
+      "chain of thought": "1. **Identify core values:** What is most important to me in life? What principles guide my decisions? 2. **Set meaningful and specific goals:**  What do I want to achieve in the next year, five years, ten years? 3. **Break down goals into smaller steps:**  What are the individual actions I need to take to reach each goal? 4. **Create a system for tracking progress:** How can I measure my progress toward my goals? How can I stay motivated? 5. **Analyze potential obstacles:** What might prevent me from achieving my goals? How can I prepare for those challenges? 6. **Prioritize goals based on their impact:** Which goals will have the greatest positive impact on my life?  7. **Be realistic and adaptable:**  Not all goals will be achievable, but I can adjust my plans as I learn and grow."
+    },
+    {
+      "event": "Making a major life decision",
+      "chain of thought": "1. **Gather all relevant information:** What are the facts of the situation? What are the potential consequences of each option? 2. **Analyze the potential outcomes:**  What are the pros and cons of each choice? What are the risks and rewards? 3. **Consider the long-term impact:** How will this decision affect my future? How will it align with my values and goals? 4. **Seek diverse perspectives:**  What do others think about this decision? What insights can they provide? 5. **Develop a logical framework for decision-making:** Can I create a system to weigh the factors and make the best choice? 6. **Trust my intuition and gut feeling:**  While logic is important, my intuition can also guide me toward the best choice. 7. **Accept uncertainty and potential for change:** The future is uncertain, and I may need to adjust my plan based on new information."
+    }
+  ]
+}
+```

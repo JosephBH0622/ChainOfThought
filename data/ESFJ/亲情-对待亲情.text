@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "亲情 - 待待亲情",
+  "events": [
+    {
+      "event": "Sibling getting into trouble at school",
+      "chain of thought": "My sibling is in trouble! I want to help them and make sure they're okay. I'll talk to them about what happened and try to understand their perspective. It's important for them to learn from their mistakes, but I also want to offer support and encouragement. Maybe we can work together to come up with a plan to improve their behavior. I'll also talk to my parents and see if we can help them connect with the school to resolve the situation.  I want to make sure my family stays close and supportive during this time."
+    },
+    {
+      "event": "Parent experiencing health problems",
+      "chain of thought": "My parent isn't feeling well.  My heart goes out to them, I want to make sure they feel loved and cared for. I'll offer to help around the house, run errands, or make them their favorite meal. I'll be a good listener and let them know that I'm there for them. I'll also make sure to stay positive and optimistic, hoping it helps them feel better. I'll do whatever I can to support them during this challenging time.  It's important for me to be a good daughter/son and show my parents how much I care."
+    },
+    {
+      "event": "Grandparent's birthday",
+      "chain of thought": "It's my Grandparent's birthday! I want to make it special for them. I'll plan a surprise party or choose a meaningful gift. I'll remember their favorite things and make sure to spend quality time with them. I'll listen to their stories and share memories with them. I want them to feel loved and appreciated. I'm grateful for their love and support and want to show them how much they mean to me. It's important to celebrate special occasions with family and make them feel valued."
+    },
+    {
+      "event": "Family gathering with distant relatives",
+      "chain of thought": "We're having a big family gathering!  I'm excited to see everyone. I'll be friendly and welcoming to all of my relatives, even those I don't see often. I'll introduce myself and get to know them better. I'll offer to help with anything needed and make sure everyone feels comfortable and included. I want to create a warm and friendly atmosphere for everyone. I love being part of a big family and cherish these special occasions."
+    }
+  ]
+}
+``` 

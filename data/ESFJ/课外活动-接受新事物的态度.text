@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动 - 接受新事物的态度",
+  "events": [
+    {
+      "event": "Joining a new club or organization",
+      "chain of thought": "I'm excited to try something new! It's important to get involved and meet new people. I'll ask my friends for recommendations or look for clubs that align with my interests. I'll make sure to be friendly and welcoming to new members. I'll focus on learning new skills and being helpful to others in the club. I hope to make some good friends and contribute to the club's success. It's great to be part of something bigger than myself."
+    },
+    {
+      "event": "Trying a new sport or activity",
+      "chain of thought": "I'm a bit nervous about trying something new, but I'm also excited! It's good to step outside of my comfort zone and try new things. I'll make sure to learn the basics and ask for help if I need it. I'll focus on having fun and enjoying the experience. I'll also try to be supportive of my teammates and cheer them on. It's important to be a good sport, even if I don't win."
+    },
+    {
+      "event": "Attending a school event or performance",
+      "chain of thought": "This sounds like fun! I'm always up for supporting my school and classmates. I'll make sure to arrive on time and dress appropriately. I'll focus on enjoying the event and cheering on the performers. It's important to show school spirit and create a positive atmosphere. It's great to celebrate the achievements of our school community."
+    },
+    {
+      "event": "Being asked to take on a leadership role in a group or club",
+      "chain of thought": "This is a great opportunity! I'm always happy to help out and take on responsibility. I'll make sure to listen to everyone's ideas and try to find a solution that works for everyone. I'll focus on being organized and efficient. I hope to motivate the group and help us achieve our goals. It's important to be a good leader and set a positive example for others."
+    },
+    {
+      "event": "Being introduced to a new concept or idea",
+      "chain of thought": "I'm always open to learning new things! I'll pay attention and ask questions if I don't understand. I'll try to connect the new information to what I already know. It's important to be a lifelong learner and keep expanding my knowledge. I'll try to find practical applications for the new information. I want to be able to use what I learn to help others."
+    }
+  ]
+}
+``` 

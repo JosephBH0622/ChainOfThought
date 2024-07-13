@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship - Facing Conflict",
+  "events": [
+    {
+      "event": "A friend starts spreading rumors about another friend.",
+      "chain of thought": "Oh no, this is terrible! I need to get to the bottom of this and stop it before it hurts anyone else. I'll talk to my friend who's spreading the rumors and let them know it's not okay. I'll emphasize how important it is to be kind and supportive of our friends. I'll also talk to the other friend who's being gossiped about and let them know I'm there for them. I want to help everyone feel good and make sure our friendship stays strong."
+    },
+    {
+      "event": "A friend accidentally breaks something that belongs to you.",
+      "chain of thought": "It's just an accident, no big deal! I'll let my friend know it's okay, I'm not upset. I might offer to help them fix it or replace it. I don't want to make them feel bad. It's important to be forgiving and understanding. I know they didn't mean to do it."
+    },
+    {
+      "event": "A friend cancels plans at the last minute without giving a good reason.",
+      "chain of thought": "Hmm, that's a bit strange. I wonder if something happened. Maybe they're not feeling well or had a family emergency. I'll send them a text to see if they're okay and if everything is alright. I don't want to jump to conclusions. I just want to make sure they're alright and that we're still good friends."
+    },
+    {
+      "event": "A friend says something hurtful without meaning to.",
+      "chain of thought": "Wow, that really hurt my feelings. I think I need to talk to my friend about it. I'll explain how their words made me feel and how important it is to be mindful of what we say. I'll try to do it calmly and gently, not wanting to make them feel bad, but I also need to be honest about how it affected me. I hope they understand."
+    },
+    {
+      "event": "A friend starts hanging out with a new group of people and seems to be ignoring you.",
+      "chain of thought": "This is making me feel a little sad. I wonder what's going on. Maybe they're just busy with their new friends. I'll reach out to them and see how they're doing. I'll invite them to hang out sometime so we can catch up. I don't want to lose our friendship, and I hope they realize how much I value our connection."
+    }
+  ]
+}
+```

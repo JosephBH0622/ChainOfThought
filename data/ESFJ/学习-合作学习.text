@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Collaborative Learning",
+  "events": [
+    {
+      "event": "Group brainstorming session",
+      "chain of thought": "This is a great chance to work together and share ideas! I'll make sure everyone feels comfortable sharing their thoughts and listen carefully to what they have to say. We should brainstorm as a group to come up with the best solutions. I'll try to keep everyone on track and make sure we don't get sidetracked. It's important to be respectful of everyone's opinions and work together to find a solution that everyone is happy with. I hope we can create a positive and supportive environment for everyone."
+    },
+    {
+      "event": "Peer tutoring session",
+      "chain of thought": "I'm happy to help my classmates! I'll be patient and try to explain things in a way that's easy to understand. I'll make sure to ask them if they're following along and see if there's anything they need help with. I want to make sure everyone understands the material and feels confident in their learning. It's important to be supportive and encouraging to everyone. I'm glad I can use my knowledge to help others succeed."
+    },
+    {
+      "event": "Group project presentation",
+      "chain of thought": "We need to work together to create a great presentation! I'll make sure everyone has a clear role and that we're all on the same page. We should practice together beforehand so we can be confident and prepared. I want to make sure our presentation is well-organized and informative. I'll be sure to include visuals and make it engaging for the audience. I hope we make a good impression and show our teacher how well we worked together."
+    },
+    {
+      "event": "Group conflict during a project",
+      "chain of thought": "It's important to resolve conflicts quickly and fairly. I'll try to stay calm and listen to everyone's perspectives. I'll try to understand where everyone is coming from and see if there's a compromise we can reach. It's important to focus on finding a solution that everyone can agree on. I hope we can work through this together and continue to collaborate effectively."
+    },
+    {
+      "event": "Working on a group project with a classmate who is struggling",
+      "chain of thought": "It's important to be patient and supportive. I'll offer to help them with the parts of the project they're struggling with. I'll explain things clearly and try to break it down into smaller steps. I'll be sure to check in with them regularly to see how they're doing and make sure they feel comfortable asking questions. I want to help them succeed and feel confident in their contribution to the project."
+    }
+  ]
+}
+``` 

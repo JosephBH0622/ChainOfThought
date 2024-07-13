@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think about friendship, along with real-life events and their potential chain of thought:
+
+```json
+{
+  "domain": "Friendship - Views on Friendship",
+  "events": [
+    {
+      "event": "A close friend is going through a tough time.",
+      "chain of thought": "I want to be there for my friend. They're going through a lot and need someone to listen. I'll offer practical support, like helping with chores or running errands. I'll be there to cheer them up and remind them of their strengths. I hope they know I'm there for them no matter what. True friends stick by each other through thick and thin."
+    },
+    {
+      "event": "Planning a surprise birthday party for a friend.",
+      "chain of thought": "This is going to be so much fun! I love planning parties and making people happy. I need to make sure everyone is on board with the plan and get their input. I'll take care of all the details - decorations, food, and entertainment. I want it to be special and memorable for my friend. I can't wait to see their face when they see the surprise!"
+    },
+    {
+      "event": "A friend starts excluding you from activities.",
+      "chain of thought": "This is upsetting. I've always been there for my friend. I wonder if I did something wrong? I need to talk to them and see what's going on. Maybe I can help them with whatever's bothering them. I'm hurt but I want to work things out.  Friendship is important to me."
+    },
+    {
+      "event": "Meeting someone new and developing a friendship.",
+      "chain of thought": "I'm so excited to get to know this person! I like their warmth and kindness. I want to be a good friend to them. I'll be sure to ask them questions and learn more about them. I want to make them feel welcome and comfortable. I hope we can do fun things together and build a strong friendship."
+    },
+    {
+      "event": "Disagreement with a friend.",
+      "chain of thought": "I don't want to fight with my friend.  We need to talk things out. I want to understand their perspective and hope they can understand mine. Maybe we can find a compromise? It's important to maintain harmony in our friendship.  I value our friendship and don't want to let a disagreement ruin it."
+    }
+  ]
+}
+```

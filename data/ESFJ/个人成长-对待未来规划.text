@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "个人成长 - 对待未来规划",
+  "events": [
+    {
+      "event": "大学申请季到来，需要填写志愿和专业",
+      "chain of thought": "Wow, applying to college is a big step! I need to think carefully about what I want to study. What are my strengths and interests?  I should talk to my parents, teachers, and friends for advice. I want to choose a field that will make me happy and allow me to help others.  I should research different universities and their programs.  I'll also need to consider practical things like location and cost.  It's important to make a decision that I feel good about and that aligns with my values. I'm excited for this new chapter in my life!"
+    },
+    {
+      "event": "朋友分享了他们未来的职业规划",
+      "chain of thought": "It's great to hear about my friend's plans! I always love learning about what others are passionate about.  Maybe I can learn from their experience and see if their career path is something I could consider.  It's important to support each other and be there for each other throughout our journeys.  Maybe we can even help each other reach our goals."
+    },
+    {
+      "event": "参加职业生涯规划讲座",
+      "chain of thought": "This sounds helpful! I'm eager to learn more about different career options and how to prepare for the future.  It's important to be informed and to have a plan. I'll take notes and ask questions. I hope the speaker can provide some practical advice. I'll also ask my parents and teachers for their thoughts after the presentation."
+    },
+    {
+      "event": "遇到学习或生活上的挫折，感到迷茫和焦虑",
+      "chain of thought": "I'm feeling a bit lost right now, but that's okay. It's normal to experience challenges. I need to take some time to figure things out. I should talk to my parents, teachers, or friends for support. They've been through similar situations and can offer valuable advice. I'll try to stay positive and focus on what I can control. This experience is an opportunity to learn and grow. It will make me stronger in the long run.  I know I can overcome this."
+    }
+  ]
+}
+```

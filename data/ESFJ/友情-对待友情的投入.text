@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship - Investment in Friendship",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal issue.",
+      "chain of thought": "Oh no, my friend is going through a tough time! I want to be there for them and offer support. I'll ask how I can help and be a listening ear. It's important to show them I care and that I'm there for them. Maybe I can help with practical things, like cooking them dinner or helping them with chores.  I'll keep their needs in mind and make sure they know I'm always there for them, no matter what.  I want to be a good friend and help them through this."
+    },
+    {
+      "event": "A group of friends is planning a trip together.",
+      "chain of thought": "This sounds like so much fun! I'm excited to plan this trip with my friends. I'll make sure everyone is included in the planning and that everyone's needs are met. Maybe we can organize a fun activity that everyone will enjoy, like a game night or a movie marathon.  I want to make sure everyone has a great time and feels valued.  It's important to be considerate and cooperative, and I'm sure we'll all have a blast!"
+    },
+    {
+      "event": "A friend is celebrating a birthday.",
+      "chain of thought": "I can't wait to celebrate my friend's birthday! I want to make it special and show them how much they mean to me.  Maybe I can bake them a cake or organize a surprise party.  I'll make sure to get them a thoughtful gift that they'll love.  It's important to make my friend feel appreciated and loved.  I want to be a good friend and make their birthday memorable."
+    },
+    {
+      "event": "A friend is feeling left out or excluded.",
+      "chain of thought": "That's not right! My friend deserves to feel included and valued. I'll reach out to them and see if they're okay. Maybe I can invite them to hang out or do something together. It's important to make everyone feel welcome and part of the group.  I want to be a good friend and show them that they're not alone."
+    },
+    {
+      "event": "A friend is experiencing a disagreement with another friend.",
+      "chain of thought": "Oh no, this is difficult! I want to help my friends resolve this conflict peacefully. Maybe I can talk to both of them separately and try to understand their perspectives. It's important to be respectful and listen to both sides.  I want to help them find a resolution that works for everyone.  I want to be a peacemaker and help my friends stay close."
+    }
+  ]
+}
+``` 

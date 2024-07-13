@@ -1,0 +1,25 @@
+Here's an example of how an ESFJ high school student might think about events related to personal growth and motivation:
+
+```json
+{
+  "domain": "Personal Growth - Motivation Sources",
+  "events": [
+    {
+      "event": "Failing a test",
+      "chain of thought": "Oh no, I didn't do well on that test. I really want to do well in my classes. I know my teacher wants me to succeed. Maybe I should ask for extra help or study with a friend. I want to make sure I understand the material so I can do better next time. My family is always there to support me, so I'll talk to them too. I'll focus on understanding the concepts and practicing more. I'm determined to do better next time!"
+    },
+    {
+      "event": "Joining a new extracurricular activity",
+      "chain of thought": "This sounds fun! I'm excited to meet new people and learn something new. It's important to try new things and expand my skills. I'll make sure to be helpful to my teammates and do my part. I hope I can contribute positively to the group and make new friends. It feels good to be part of a team and work towards a common goal."
+    },
+    {
+      "event": "Feeling overwhelmed with school work and extracurriculars",
+      "chain of thought": "I'm feeling stressed with all these responsibilities. It's important to prioritize and manage my time effectively. I should talk to my teacher about how I'm feeling and see if there's any way I can get help. I'll try to schedule my time wisely so I can balance my studies with my activities. I also need to remember to take care of myself by getting enough sleep and eating well. I know I can handle this, I just need to stay organized and ask for help when I need it."
+    },
+    {
+      "event": "Receiving positive feedback from a teacher or coach",
+      "chain of thought": "It feels so good to be recognized for my hard work! It motivates me to keep trying my best. I'm glad my efforts are noticed, it makes me want to work even harder. I'll keep doing my best to help others and contribute to our team. I want to make everyone proud of me!"
+    }
+  ]
+}
+```

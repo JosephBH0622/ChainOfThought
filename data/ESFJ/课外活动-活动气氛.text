@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-活动气氛",
+  "events": [
+    {
+      "event": "School Dance",
+      "chain of thought": "Oh, a school dance! I hope everyone has a good time. I'll make sure to dress up and look my best, I want to make a good impression. Maybe I can plan some fun activities for everyone to do, like a group photo booth or a dance competition. I hope everyone feels comfortable and included! I'll be sure to check on my friends and make sure they're having a good time. It's important for everyone to have a fun and positive experience."
+    },
+    {
+      "event": "Volunteer Event at a Local Charity",
+      "chain of thought": "This is a great opportunity to give back to the community. I'll make sure to be helpful and contribute as much as I can. I'll ask the organizers what needs to be done and offer to assist in any way I can. I hope we can make a real difference in people's lives. It's so rewarding to help others and feel like we're making a positive impact."
+    },
+    {
+      "event": "Class Trip to a Museum",
+      "chain of thought": "I'm excited to learn new things at the museum! I'll make sure to take good notes and pay attention to the exhibits. I'll also be sure to chat with my classmates and share any interesting facts I learn. I hope we can all have a fun and educational experience together. I want to make sure everyone feels included and enjoys the trip."
+    },
+    {
+      "event": "School Play",
+      "chain of thought": "I hope the play is a success! I'll make sure to be supportive of my classmates who are participating. Maybe I can bring some snacks for everyone after the performance. I'll also be sure to spread the word about the play and encourage people to come see it. I'm proud of everyone's hard work!"
+    },
+    {
+      "event": "School Sports Event",
+      "chain of thought": "Go team! I'll cheer loud and proud for our school. I'll wear our school colors and make sure everyone knows we're here to support our athletes. I hope we win, but even if we don't, I'm proud of everyone's effort.  I'll make sure to congratulate everyone after the game, win or lose.  It's important to show our support and create a positive atmosphere for everyone."
+    }
+  ]
+}
+```

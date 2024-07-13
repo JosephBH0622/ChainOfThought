@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ American high school student might approach "未来规划-目标设定" (future planning and goal setting):
+
+```json
+{
+  "domain": "未来规划-目标设定 (Future Planning and Goal Setting)",
+  "events": [
+    {
+      "event": "College application deadlines approaching",
+      "chain of thought": "Wow, college applications are coming up! I need to figure out what I want to study. I'll talk to my parents, teachers, and friends about their experiences and what they think I'd be good at. I should start researching different colleges and programs. I'll make a list of deadlines and make sure I get everything submitted on time. I want to find a place where I can make new friends and be involved in activities I enjoy. I'm also looking for a college that has a good reputation and will help me get a good job after graduation. I'm a bit nervous, but I know I can do this with everyone's support."
+    },
+    {
+      "event": "Career Exploration Day at school",
+      "chain of thought": "This is a great opportunity to learn about different careers! I'll be sure to ask questions and talk to people who work in fields that interest me. Maybe I can shadow someone for a day to see what it's really like. I want to find a career that I'm passionate about and that will allow me to use my skills to help others. I also want a job that's stable and offers opportunities for growth. I'll take notes and research options later so I can make an informed decision about my future."
+    },
+    {
+      "event": "Setting personal goals for the upcoming school year",
+      "chain of thought": "I want to make the most of this year! I'll set some realistic goals for my academics, extracurricular activities, and personal life. I'll write them down and make a plan for achieving them. I'll also talk to my friends and family about my goals and ask for their support. I'm confident that I can accomplish anything I set my mind to, especially if I have a solid plan and the support of my loved ones."
+    },
+    {
+      "event": "Feeling overwhelmed by the amount of planning needed",
+      "chain of thought": "This is a lot to think about! I need to break it down into smaller, more manageable steps. I'll start by focusing on one task at a time and making a list of things I need to do. I can also ask for help from my parents or teachers if I'm feeling stuck. It's important to remember that I don't have to do everything all at once. Taking things slowly and staying organized will help me stay on track and avoid feeling overwhelmed."
+    }
+  ]
+}
+```

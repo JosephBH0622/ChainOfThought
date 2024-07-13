@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might think in "亲情-问题解决" scenarios, along with some real-life events:
+
+```json
+{
+  "domain": "亲情-问题解决 (Family - Problem Solving)",
+  "events": [
+    {
+      "event": "Sibling conflict over a shared room",
+      "chain of thought": "Ugh, this is stressful. My sibling and I need to find a way to share the room without fighting. I care about their feelings, so I'll talk to them calmly and see what they want.  Maybe we can compromise and create separate spaces. I'll try to be understanding and patient, and hopefully, we can work it out. I want our family to be happy and peaceful."
+    },
+    {
+      "event": "Parent is having a tough time at work and is stressed",
+      "chain of thought": "My parent seems really down. I want to help, but I'm not sure how. Maybe I can make them dinner or do some chores around the house to take some pressure off. It's important to show them I care and that I'm there for them. I hope I can make them feel a little better."
+    },
+    {
+      "event": "Grandparents are visiting and need help with something",
+      "chain of thought": "I'm so glad my grandparents are here! I love spending time with them. They're getting older, though, and sometimes need help. I'll make sure to offer assistance with whatever they need, whether it's getting things from the store, helping with technology, or just listening to them. I want to make them feel comfortable and loved."
+    },
+    {
+      "event": "Family member is struggling with their mental health",
+      "chain of thought": "This is really worrying me. I want to be supportive and understanding. I might not fully understand what they're going through, but I can be a good listener and offer a shoulder to cry on. I'll try to be patient and encouraging.  It's important for them to know they're loved and that I'm there for them."
+    },
+    {
+      "event": "Family disagreement about holiday plans",
+      "chain of thought": "Everyone has their own ideas about what we should do for the holidays, and I want everyone to be happy. I'll try to find a compromise that works for everyone, and I'll make sure to be respectful of everyone's opinions.  I want the holidays to be a special time for our family."
+    }
+  ]
+}
+```

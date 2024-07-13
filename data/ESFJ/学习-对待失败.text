@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Learning - Dealing with Failure",
+  "events": [
+    {
+      "event": "Failing a test despite studying hard",
+      "chain of thought": "I'm really disappointed with myself. I studied so hard, and I still didn't do well. I feel like I let myself and my family down. I need to figure out what went wrong. Maybe I didn't understand the material as well as I thought, or I didn't study the right things. I'll talk to my teacher and ask for advice on how to improve. I'm determined to do better next time! I know I can. My friends will probably be disappointed too, but I'll try my best to explain what happened. It's important to keep working hard and not give up."
+    },
+    {
+      "event": "Being criticized by a teacher for a project",
+      "chain of thought": "I feel bad that my teacher didn't like my project. I tried my best, and I really wanted to make them proud.  Maybe I didn't understand the instructions properly. I'm going to talk to them and ask for specific feedback on what I could improve. I'm determined to do better next time and show them what I'm capable of.  I know it's important to learn from mistakes, and I'll use this experience to grow.  My friends are always supportive, and I can talk to them about it. "
+    },
+    {
+      "event": "Struggling with a challenging concept in class",
+      "chain of thought": "I'm having a hard time understanding this concept. I'll ask my teacher for help during office hours. They're always patient and understanding. Maybe I can also ask a friend for help. It's okay to ask for help.  I'm determined to learn and understand everything. I won't give up!  It's important to learn from mistakes and keep working hard. I know I can do it. "
+    },
+    {
+      "event": "A group project fails to meet expectations",
+      "chain of thought": "I'm disappointed that our group project didn't get a good grade. We all worked hard, but it seems like we didn't get everything right. I'm going to talk to my group members to see if we can figure out what went wrong. Maybe we didn't communicate effectively or didn't manage our time well. We can learn from this experience and do better next time. It's important to be supportive of each other and to learn from our mistakes. We can do this! "
+    }
+  ]
+}
+```

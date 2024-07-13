@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might think about future planning and risk, along with specific events and their corresponding thought processes:
+
+```json
+{
+  "domain": "未来规划-对待风险 (Future Planning - Risk Management)",
+  "events": [
+    {
+      "event": "Choosing a College Major",
+      "chain of thought": "I want to choose a major that's practical and will lead to a good job. I'll talk to my parents, teachers, and guidance counselor to get their advice. They know me best and can help me find a career path that suits my skills and interests. I'll also research different colleges and programs to see which ones offer the best opportunities. It's important to choose something I'll enjoy doing and that will contribute to society in a positive way. Maybe I can even combine my passion with my future career! I'll consider the job market and make sure I'm setting myself up for success. "
+    },
+    {
+      "event": "Applying for Scholarships",
+      "chain of thought": "I'm a little nervous about applying for scholarships. I want to make sure I'm eligible and present my best self. I'll read the instructions carefully and make sure my application is neat and organized. I'll highlight my achievements and volunteer work to show my commitment. I hope I get selected and can ease the financial burden on my family. It's important to me that they don't have to worry too much about my education. "
+    },
+    {
+      "event": "Taking on a Leadership Role in a Club",
+      "chain of thought": "This could be a great opportunity to develop my leadership skills and help others. I'll need to make sure I'm organized and can effectively delegate tasks to the team. I want to be a supportive leader and encourage everyone to contribute.  We'll make sure we have clear goals and a plan to achieve them. I'll work hard to ensure that everyone feels valued and appreciated for their contributions.  It's important to me that we work together and create a positive and productive environment."
+    },
+    {
+      "event": "Considering a Part-Time Job",
+      "chain of thought": "A part-time job could help me gain experience and learn new skills. I'll look for something that aligns with my interests and doesn't interfere with my studies. I'll also factor in the time commitment and make sure I can balance work and school effectively. It's important to me that I can manage my time wisely and still maintain good grades. I hope the job is a good fit and allows me to contribute to my family's finances. "
+    },
+    {
+      "event": "Facing a Potential Rejection from a College or Scholarship",
+      "chain of thought": "It's okay to be disappointed if I don't get accepted or get a scholarship. I'll remember that there are many other options out there and that this isn't the end of the world. I'll learn from the experience and apply for other opportunities.  It's important to me to stay positive and keep pushing forward. I'll rely on my family and friends for support and encouragement. I'm sure I'll find a good fit somewhere else!"
+    }
+  ]
+}
+```

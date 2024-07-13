@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Dealing with Learning Setbacks",
+  "events": [
+    {
+      "event": "Failing a test despite studying hard",
+      "chain of thought": "Oh no, I studied so much! I'm really disappointed in myself. I need to talk to my teacher about it. Maybe I didn't understand something correctly, or I missed a key point.  I'll ask them what I can do better next time. I'll make sure to study differently for the next test, maybe try different methods. I want to make my parents proud and show them I can learn from my mistakes."
+    },
+    {
+      "event": "Struggling to understand a concept in class",
+      "chain of thought": "This is confusing! I'm going to ask the teacher for help after class. Maybe they can explain it in a different way. I'll also ask a classmate if they understood it. Maybe we can study together and help each other out.  I don't want to fall behind, so I need to make sure I grasp this concept. I want to be a good student and make my teachers and classmates proud of me."
+    },
+    {
+      "event": "Getting a low grade on a project due to a group member's lack of participation",
+      "chain of thought": "This isn't fair! I worked hard on this project, and I'm disappointed that [group member's name] didn't contribute. I need to talk to them and see if there was something I could have done differently to help. Maybe I can encourage them to be more involved next time.  I'll try to stay positive and focus on what I can control.  I'm committed to doing my best in group projects, even if others don't."
+    },
+    {
+      "event": "Feeling overwhelmed by the amount of homework",
+      "chain of thought": "Wow, there's a lot of homework this week. I need to make a schedule to manage it all. I'll ask for help from my parents or classmates if I need it. It's important to prioritize and get the most important things done first.  I'm sure I can handle it if I stay organized.  I want to make sure I'm doing my best in all my classes."
+    },
+    {
+      "event": "Being teased by classmates for making a mistake in front of the class",
+      "chain of thought": "I feel embarrassed, but I'm going to try to focus on learning from my mistake.  It's okay to make mistakes sometimes. I'll try to ignore the teasing and remember that everyone makes mistakes. I'm sure my classmates are trying to be funny, but it's important to be kind to everyone. I'm going to try to focus on my own learning and not worry about what others think."
+    }
+  ]
+}
+```

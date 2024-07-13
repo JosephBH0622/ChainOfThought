@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach extracurricular activity choices, along with potential scenarios:
+
+```json
+{
+  "domain": "课外活动 - 活动类型的选择 (Extracurricular Activities - Activity Type Selection)",
+  "events": [
+    {
+      "event": "School announces a new club for volunteering at a local animal shelter.",
+      "chain of thought": "Wow, that sounds amazing! I love animals and helping others.  I bet it would be so rewarding to spend time with the animals and provide them with care. I'm sure it would be a great way to meet new people who share my passion, too. I'll definitely sign up! I can also talk to my friends about joining - they might love it too!"
+    },
+    {
+      "event": "Friend suggests joining the school's debate team.",
+      "chain of thought": "Hmm, debating? I'm not sure about that. It seems a bit intense and maybe even competitive. I'd rather do something where I can work directly with people and make a difference in their lives. Plus, I'm not sure how good I'd be at public speaking. Maybe I should stick to activities that align more with my strengths and interests."
+    },
+    {
+      "event": "The school hosts a fundraiser for a local charity.",
+      "chain of thought": "This is fantastic! It's important to support our community. I'll definitely volunteer my time and help out in any way I can. I could help set up, bake some cookies for the event, or even help with publicity. I'll make sure to encourage my friends to contribute too!"
+    },
+    {
+      "event": "A classmate asks for help with a project for the school's annual talent show.",
+      "chain of thought": "Of course! I'd love to help. I'm happy to lend a hand with anything they need. We can brainstorm ideas, practice together, or even just offer moral support. It's important to support our classmates and make the event a success! It's great to see everyone's talents showcased."
+    },
+    {
+      "event": "The school announces a new academic competition in a subject the ESFJ struggles with.",
+      "chain of thought": "I'm not sure about this. I know I'm not the best at that subject. It might be too stressful and I don't want to let anyone down.  Maybe I should focus on activities where I can contribute with my strengths. However, I don't want to shy away from a challenge. Maybe I can ask for help from my teachers or classmates to improve my skills in that area."
+    }
+  ]
+}
+```

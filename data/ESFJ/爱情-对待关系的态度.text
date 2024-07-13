@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情-对待关系的态度 (Love and Relationships)",
+  "events": [
+    {
+      "event": "First date with someone they really like",
+      "chain of thought": "Oh my gosh, I'm so excited! I really want this to go well. I've been thinking about what to wear and what we could do. I'll make sure to ask them lots of questions about themselves so I can get to know them better. I want them to feel comfortable and relaxed. I'll try to make sure we have a good time and that they feel appreciated. I hope they like me too! I'd love to see them again."
+    },
+    {
+      "event": "Seeing their partner struggle with a personal issue",
+      "chain of thought": "Oh no, I'm so sorry they're going through this. How can I help? I'll make sure to be there for them and offer any support I can. I'll try to be understanding and patient. I know they're going through a tough time. I want them to feel loved and cared for. Maybe I can make them their favorite dinner or just spend time listening. I want to help them through this."
+    },
+    {
+      "event": "Disagreement with their partner",
+      "chain of thought": "Ugh, I hate conflict.  I need to try to stay calm and see things from their perspective.  Maybe we can talk about it calmly and try to find a solution that works for both of us.  I don't want to hurt their feelings or make them upset.  I want us to be happy and work things out. I'll do my best to understand their point of view and be willing to compromise." 
+    },
+    {
+      "event": "Being in a long-term relationship with someone who feels they are taken for granted",
+      "chain of thought": "I want them to know how much I appreciate them. Maybe I can plan a special date or do something nice for them. I want them to feel loved and valued. I want to make sure they know how much they mean to me. I'll be sure to express my gratitude and show my appreciation regularly. I hope they feel loved and appreciated!"
+    },
+    {
+      "event": "Seeing a friend struggling in a romantic relationship",
+      "chain of thought": "I want to be there for them! I'll listen to them without judgment and offer any advice they need. I'll try to be supportive and encouraging. I want them to know they're not alone and that I'm here for them. I hope they can work things out, but if not, I'll be there for them through the tough times. I want to be a good friend."
+    }
+  ]
+}
+```

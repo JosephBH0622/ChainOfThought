@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might think about future planning and dealing with setbacks, along with specific examples:
+
+```json
+{
+  "domain": "未来规划 - 应对挫折",
+  "events": [
+    {
+      "event": "Choosing a College Major",
+      "chain of thought": "I want to choose a major that will allow me to help people and make a difference in the world. Maybe something in healthcare like nursing or social work. I'll talk to my parents and teachers for advice, and maybe even shadow someone in those fields to see what it's really like. I also want to choose something that I'll be good at and enjoy. I'll research different colleges and programs to find the best fit for me. I know it's a big decision, but I'm confident I can find the right path."
+    },
+    {
+      "event": "Failing a Test",
+      "chain of thought": "I'm disappointed in myself. I really wanted to do well on that test. But it's okay, I can learn from this. I'll talk to my teacher and figure out what I can do to improve next time. Maybe I need to study differently or get extra help. I know I can do better, and I'm determined to succeed. I'll make sure to stay positive and keep working hard."
+    },
+    {
+      "event": "Being Rejected from a Dream College",
+      "chain of thought": "It's a hard pill to swallow, but I know there are other great colleges out there. I'll take some time to process my feelings, but I won't give up. I'll explore other options and focus on the positive aspects of those choices. Maybe this wasn't meant to be, and something even better is waiting for me. I'm grateful for the opportunities I have, and I'll keep my chin up."
+    },
+    {
+      "event": "Facing Bullying or Social Exclusion",
+      "chain of thought": "It's hurtful to be treated this way. I'll try to understand why they're behaving this way and see if I can do anything to resolve the situation. If not, I'll focus on my friends and the people who support me. I won't let their negativity bring me down. I know I'm a good person, and I deserve to be treated with kindness and respect. I'll try to stay positive and focus on the things that make me happy."
+    },
+    {
+      "event": "Getting Lost in a New City While Traveling",
+      "chain of thought": "Okay, I'm lost. But I won't panic. I'll try to find a map or ask someone for directions. I'm sure I can figure this out. I might have to change my plans a little, but I'm sure it'll be okay. I'll try to stay calm and focus on finding my way. It's all part of the adventure, right?"
+    }
+  ]
+}
+```

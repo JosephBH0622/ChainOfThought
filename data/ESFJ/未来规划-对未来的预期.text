@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "未来规划-对未来的预期 (Future Planning - Expectations for the Future)",
+  "events": [
+    {
+      "event": "College application process",
+      "chain of thought": "Oh, this is so exciting! I want to find the perfect college where I can make new friends and be involved in lots of clubs and activities. I'll do lots of research and ask my friends and family for their advice. I'll make sure to visit campuses and talk to current students. I want to find a place where I can feel like I belong and where I can make a positive impact. I'll also focus on my academics so I can get good grades and impress the admissions committee. I want to make everyone proud!"
+    },
+    {
+      "event": "Career exploration",
+      "chain of thought": "I want to find a job where I can help people and make a difference in the world. I'll look into different fields that seem interesting and talk to people who work in those areas. I'll also consider my strengths and interests. I like working with people, so maybe a career in healthcare or education would be a good fit. I'll volunteer in my community to gain experience and see what kind of work I enjoy. I want to find a career that feels fulfilling and where I can use my skills to make a positive contribution."
+    },
+    {
+      "event": "Financial planning",
+      "chain of thought": "I know it's important to be financially responsible. I'll start saving money now so I can be prepared for the future. I'll talk to my parents about their financial advice and maybe get a part-time job to help me learn about managing money. I want to be able to support myself and maybe even start a family one day. I'll also think about how to manage my finances responsibly so I can avoid debt and have peace of mind."
+    },
+    {
+      "event": "Personal goals and dreams",
+      "chain of thought": "I want to achieve my dreams and make the most of my life. I'll make a list of my goals and create a plan to achieve them. I'll stay organized and set realistic deadlines for myself. I'll also surround myself with supportive friends and family who believe in me. I want to live a happy and fulfilling life where I can contribute to the world and make a positive impact. I'll never give up on my dreams and I'll work hard to achieve them."
+    }
+  ]
+}
+```

@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP American high school student might approach friendship conflicts, along with specific events and their corresponding thought processes:
+
+```json
+{
+  "domain": "Friendship-Conflict Resolution",
+  "events": [
+    {
+      "event": "A friend starts spreading rumors about you",
+      "chain of thought": "1. **Analyze the situation:**  Why is my friend spreading rumors? What are their motives? Is there something I did or said that triggered this? 2. **Gather information:** Talk to other friends to see if they've heard anything similar.  Assess the credibility of the information. 3. **Consider potential solutions:**  a) Ignore it and hope it dies down. b) Confront my friend directly but calmly, using logic to explain why their actions are hurtful. c)  Explain to others what happened and try to counter the rumors with the truth.  4. **Evaluate the risks and benefits of each option:**  What are the potential consequences of each solution? Which one is most likely to resolve the situation effectively? 5. **Choose a course of action:**  Based on my analysis, I'll choose the solution that feels most logical and likely to maintain my values and friendship."
+    },
+    {
+      "event": "You accidentally say something hurtful to a close friend",
+      "chain of thought": "1. **Acknowledge the mistake:** I immediately recognize the impact of my words and feel genuinely bad.  2. **Analyze the situation:** What specifically caused me to say that? Did I misunderstand something? Was it an emotional reaction? 3. **Focus on understanding:** I want to truly understand why my friend is upset and what their perspective is.  4. **Apologize sincerely:**  I will express regret for the hurt I caused and explain my perspective without making excuses. 5. **Seek a resolution:**  I'll try to understand what steps I can take to repair the damage and rebuild trust."
+    },
+    {
+      "event": "Your friend is constantly late, disrupting plans",
+      "chain of thought": "1. **Observe patterns:**  Is this a consistent issue? Is it a specific situation that causes them to be late? 2. **Consider the impact:**  How does this affect our plans and my own time management?  3. **Communicate directly:**  I'll explain how their lateness affects me and suggest solutions, such as setting clear expectations or communicating when they're running late. 4. **Focus on logic:**  I'll approach the conversation with a calm, rational tone, avoiding blame or judgment. 5. **Respect their perspective:**  I want to understand if there are factors beyond their control causing this issue, and find a solution that works for both of us."
+    },
+    {
+      "event": "You disagree with your friend on a major issue like politics",
+      "chain of thought": "1. **Acknowledge the differences:** I recognize that our perspectives are different and I'm not going to try to force them to agree with me. 2. **Seek understanding:**  I want to hear their perspective and understand their reasoning, even if I disagree. 3. **Focus on shared values:**  We may disagree on the details, but do we share underlying values? Can we find common ground? 4. **Agree to disagree:**  If we can't find common ground, it's okay to agree to disagree.  5. **Maintain respect:**  I will respect their right to their own opinion, even if I disagree with it.  6. **Avoid heated arguments:**  I want to keep the conversation respectful and avoid getting into a debate that could damage the friendship."
+    }
+  ]
+}
+```

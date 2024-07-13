@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情-家庭互动",
+  "events": [
+    {
+      "event": "Family dinner",
+      "chain of thought": "I love family dinners! It's a chance to connect with everyone and share stories. I'll make sure to ask everyone how their day was and listen attentively. Maybe I can help set the table or prepare a dish - it's important to contribute. I hope everyone feels comfortable and enjoys each other's company. I want to create a warm and harmonious atmosphere."
+    },
+    {
+      "event": "Family member is going through a difficult time",
+      "chain of thought": "Oh no, I need to be supportive! I'll reach out and ask how they are, offering a listening ear and a shoulder to cry on. I'll make sure to be understanding and compassionate. Maybe I can help with chores or errands to take some pressure off. I want to show them I care and be there for them during this tough time."
+    },
+    {
+      "event": "Family conflict arises",
+      "chain of thought": "This is stressful! I need to try to calm the situation down.  I'll listen to everyone's perspective and try to understand their feelings.  Maybe I can suggest a compromise or a way to resolve the issue peacefully. I want everyone to feel heard and respected. I hope we can work together to find a solution that works for everyone."
+    },
+    {
+      "event": "Celebrating a family milestone",
+      "chain of thought": "This is so exciting! I want to make sure the celebration is special. I'll help with the preparations, whether it's decorating, cooking, or planning activities. I'll make sure everyone feels included and appreciated. I want to create a memorable experience for everyone and celebrate this important moment together."
+    },
+    {
+      "event": "Family member needs help with a task",
+      "chain of thought": "Of course I'll help! I want to be there for my family. I'll gladly lend a hand and offer my support. Maybe I can provide practical help or just offer encouragement. I want to make sure they know I'm there for them and that they can count on me."
+    }
+  ]
+}
+```

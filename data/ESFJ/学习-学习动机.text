@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Learning Motivation",
+  "events": [
+    {
+      "event": "A new and challenging class starts",
+      "chain of thought": "I'm excited to learn something new! It might be tough, but I'm determined to do my best. I'll make sure to attend all the classes and participate actively. I want to understand the material well so I can help my classmates if they struggle. I hope the teacher makes it interesting and engaging. I'm looking forward to feeling a sense of accomplishment once I master the subject."
+    },
+    {
+      "event": "Receiving a good grade on a challenging assignment",
+      "chain of thought": "Wow! I'm so happy I did well. All those late nights studying paid off. My teacher must be proud of me. I'll share my success with my friends and family, they'll be happy for me too.  It's great to know that hard work really does lead to positive results. I'm motivated to keep studying and doing my best in all my classes."
+    },
+    {
+      "event": "Struggling to understand a difficult concept",
+      "chain of thought": "Oh no, this is tough. I need to figure out how to grasp this concept. Maybe I can ask the teacher for extra help after class. Or, perhaps I can study with a classmate who seems to understand it better. I'm sure if I work hard enough, I'll eventually understand it.  It's important to keep trying and not give up.  It’s great to have supportive friends and a teacher who can help me."
+    },
+    {
+      "event": "Seeing a classmate struggling in the same class",
+      "chain of thought": "It’s tough to see my classmate struggling. I want to help them! I can offer to explain the material to them, or maybe study with them.  It’s important to be there for each other.  I feel good when I can help someone else succeed."
+    },
+    {
+      "event": "Teacher assigns a group project where some classmates aren't participating",
+      "chain of thought": "This isn’t fair. I’m worried we won’t do well if everyone doesn’t pull their weight.  I’ll talk to my group and see if we can figure out how to motivate everyone to contribute. I want to make sure everyone feels valued and that we all work together as a team.  It’s important to be a good team player and help others succeed."
+    }
+  ]
+}
+``` 

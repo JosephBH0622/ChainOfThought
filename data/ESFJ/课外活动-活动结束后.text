@@ -1,0 +1,29 @@
+Here's a breakdown of possible events in the "课外活动-活动结束后" domain and how an ESFJ might react:
+
+```json
+{
+  "domain": "课外活动-活动结束后 (Extracurricular Activities - After Event)",
+  "events": [
+    {
+      "event": "Cleaning up after a school event (e.g., dance, play, sports game)",
+      "chain of thought": "It's important we tidy up after ourselves. I'll start by gathering any trash and organizing the chairs. I'll encourage everyone to help out and make sure no one is left doing everything. We should try to leave the space better than we found it. It shows respect for the venue and our school. I want to make sure we create a positive impression."
+    },
+    {
+      "event": "Meeting with the club/team to discuss feedback/improvements",
+      "chain of thought": "It's good to get feedback and learn from our experiences. I'll listen carefully to everyone's thoughts and try to offer constructive suggestions. I want to make sure everyone feels heard and that we can work together to improve for next time. I'm always happy to help out in any way I can. It's important to keep the team/club strong and positive."
+    },
+    {
+      "event": "Socializing with friends after the event (e.g., grabbing snacks, talking about the experience)",
+      "chain of thought": "It's nice to relax and chat with friends after all the hard work. I'll ask everyone about their experience and share my own thoughts. Maybe we can all grab a bite to eat together and enjoy the company. It's important to build strong relationships and celebrate our successes. I want to make sure everyone is happy and feels included."
+    },
+    {
+      "event": "A group member expresses disappointment or negativity about the event's outcome",
+      "chain of thought": "It's important to be understanding and supportive. I'll try to see things from their perspective and offer words of encouragement. I'll remind them that we all put in effort and that there's always room for improvement. We should learn from our mistakes and keep moving forward as a team. I want everyone to feel valued and positive about our efforts."
+    },
+    {
+      "event": "A fellow student starts a rumor or gossip about the event or someone involved",
+      "chain of thought": "That's not fair to spread rumors. I'll try to calmly address the situation and remind everyone to be respectful. I'll try to steer the conversation towards positivity and focus on the good things that happened. It's important to build a supportive and kind community. I want to create a positive atmosphere for everyone."
+    }
+  ]
+}
+```

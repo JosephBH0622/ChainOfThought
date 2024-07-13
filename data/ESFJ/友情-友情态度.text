@@ -1,0 +1,29 @@
+Here's a breakdown of "Friendship - Friendship Attitudes" scenarios for an ESFJ high school student, along with their potential chain of thoughts:
+
+```json
+{
+  "domain": "Friendship - Friendship Attitudes",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal issue.",
+      "chain of thought": "Oh no, I need to be there for my friend! I'll ask them if they want to talk, and listen without judgment. I'll try to offer practical help if they need it, like running errands or making them a meal. If they don't want to talk, I'll respect their space but let them know I'm there for them when they're ready. I just want them to know I care and that I'm here to support them. I'll also encourage them to talk to a trusted adult if things get too tough."
+    },
+    {
+      "event": "A group of friends has a disagreement.",
+      "chain of thought": "Uh oh, this doesn't feel good. I want everyone to get along. I'll try to understand each person's perspective and see if there's a way to find common ground. It's important to be respectful even when we disagree. I'll try to mediate the conversation and help them find a solution that works for everyone. It's important to keep the peace and maintain a positive atmosphere in our group."
+    },
+    {
+      "event": "A new student arrives and seems lonely.",
+      "chain of thought": "I want to make the new student feel welcome! I'll introduce myself and try to learn their name. I'll invite them to sit with us at lunch and introduce them to others. It's important to be kind and welcoming to everyone. I hope they feel included and that they make friends. I want to create a positive and inclusive environment for everyone."
+    },
+    {
+      "event": "A friend makes a hurtful comment about another friend.",
+      "chain of thought": "That's not okay. It's important to be kind and respectful towards others. I'll talk to my friend privately and express my concern about their comment. I'll remind them that words can hurt and that it's important to be mindful of how our actions affect others. I want them to understand that it's not okay to talk about others in a negative way. I hope they apologize to the other friend and that we can move forward together."
+    },
+    {
+      "event": "A group of friends wants to go to a party, but you don't feel comfortable going.",
+      "chain of thought": "I want to be with my friends, but I don't feel good about going to that party. I'll be honest with them and explain why I'm not comfortable going. I'll try to find an alternative activity that we can all enjoy, maybe a movie night or dinner at someone's house. It's important to stand up for what I believe in and to choose activities that make me feel comfortable and safe. I'll also try to be respectful of their decision if they still want to go to the party."
+    }
+  ]
+}
+```

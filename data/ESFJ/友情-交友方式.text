@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think about friendship scenarios:
+
+```json
+{
+  "domain": "Friendship - Making and Maintaining Friends",
+  "events": [
+    {
+      "event": "Meeting someone new at a party",
+      "chain of thought": "I want to make a good first impression. I'll smile and be friendly. I'll try to find common interests and ask them about themselves. I'll listen attentively to what they say and try to remember their name. I hope they feel comfortable talking to me. Maybe we can be friends!"
+    },
+    {
+      "event": "A friend is going through a difficult time",
+      "chain of thought": "Oh no, I have to be there for them. I'll call them and see how they're doing. I'll offer practical help, like running errands or making them dinner. I'll listen to them without judgment and let them know I'm here for them. I want to make sure they feel supported and loved."
+    },
+    {
+      "event": "Planning a surprise party for a friend",
+      "chain of thought": "This is going to be fun! I love planning events and making people happy. I'll reach out to our mutual friends and get everyone involved. I'll make sure we plan a fun event with lots of things to do and delicious food. I'll keep it a secret from the birthday person and try to make it a really special celebration. I can't wait to see their surprised reaction!"
+    },
+    {
+      "event": "A conflict arises between friends",
+      "chain of thought": "Oh no, this isn't good. I want everyone to be happy. I'll try to talk to each friend individually and see their perspective. Maybe I can help them find a way to communicate better and resolve the conflict. I'll encourage them to forgive each other and move on. I don't want to lose either of them."
+    },
+    {
+      "event": "A friend asks for advice",
+      "chain of thought": "I'm always happy to help. I'll listen carefully to their concerns and offer my honest opinion. I'll base my advice on my own experiences and what I know about them. I want to give them practical advice that will actually help them. I hope they appreciate my support."
+    }
+  ]
+}
+```

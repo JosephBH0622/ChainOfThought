@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship",
+  "events": [
+    {
+      "event": "A close friend is going through a difficult time and needs support.",
+      "chain of thought": "1. Analyze the situation objectively, trying to understand the root of the problem and its potential impact on my friend. 2.  Consider how my friend's emotional state might be affecting their decision-making and how I can best support them. 3.  Look for logical solutions or resources that could help them navigate their situation. 4.  Offer practical assistance and advice, focusing on tangible solutions rather than emotional platitudes. 5.  Be a patient listener and a source of calm and logic, providing a safe space for them to express their feelings without judgment. 6.  Respect their boundaries and avoid overwhelming them with unwanted advice. 7.  Be mindful of my own emotional limitations and avoid getting overly involved in their emotional turmoil.  8.  Maintain a consistent level of support without being overly intrusive. 9.  If necessary, I might suggest professional help if the situation seems beyond my capacity to assist."
+    },
+    {
+      "event": "A friend is acting out of character and causing problems within the friend group.",
+      "chain of thought": "1. Analyze the situation and try to identify any patterns or underlying factors contributing to my friend's behavior. 2.  Consider if there are any external stressors or personal issues that might be influencing their actions. 3.  Avoid jumping to conclusions or making assumptions, instead opting to gather more information. 4.  Attempt to understand the situation from my friend's perspective, but also acknowledge the impact their behavior is having on others. 5.  Communicate with my friend directly about my concerns in a calm and respectful manner, focusing on the specific behaviors and their consequences. 6.  Encourage them to seek help if they are struggling with personal issues. 7.  If the behavior continues despite my attempts to address it, I might consider adjusting my interactions with them, prioritizing the well-being of the friend group and my own mental health."
+    },
+    {
+      "event": "A friend is spreading rumors about another friend, causing conflict within the group.",
+      "chain of thought": "1. Analyze the situation and gather information from all parties involved, ensuring I am not relying solely on hearsay. 2.  Determine if the rumors are true or false and consider their potential impact on the individuals involved. 3.  Confront the friend spreading the rumors in private, emphasizing the harm their actions are causing and the importance of honesty and respect within the group. 4.  Encourage them to apologize to the person they are gossiping about and to refrain from similar behavior in the future. 5.  Attempt to mediate the situation between the friends involved, promoting open communication and understanding. 6.  If the situation escalates or the friend refuses to acknowledge the harm they are causing, I might consider distancing myself from them or even removing myself from the friend group altogether to protect my own mental well-being."
+    },
+    {
+      "event": "A friend is making choices that I believe are harmful to themselves.",
+      "chain of thought": "1.  Carefully consider the situation and assess the potential risks and consequences of my friend's choices. 2.  Attempt to understand the reasoning behind their actions and address any underlying issues or emotional needs. 3.  Communicate my concerns directly with my friend in a supportive and non-judgmental manner, focusing on the potential negative outcomes of their actions. 4.  Offer alternative solutions or perspectives, but ultimately respect their right to make their own choices, even if I disagree with them. 5.  Set clear boundaries and communicate my own limits regarding their actions, ensuring I am not enabling unhealthy behavior. 6.  If my friend's actions continue to cause significant harm, I may need to distance myself from the situation to protect my own mental well-being and prioritize my own values."
+    },
+    {
+      "event": "A friend's values clash with my own, leading to disagreements and tension.",
+      "chain of thought": "1.  Analyze the underlying principles and values driving the disagreement, trying to identify any common ground or areas of compromise. 2.  Consider the potential consequences of maintaining the friendship despite the differences in values. 3.  Communicate my perspectives clearly and respectfully, focusing on the reasons behind my beliefs and seeking to understand my friend's point of view. 4.  Be willing to listen and acknowledge their perspective, even if I disagree with it. 5.  If the differences are irreconcilable or are causing significant tension, I might consider limiting my interactions with the friend or seeking a mutually agreeable way to manage the differences. 6.  Ultimately, I would prioritize my own values and sense of self-respect, even if it means accepting that some friendships may not be sustainable in the long term."
+    }
+  ]
+}
+```

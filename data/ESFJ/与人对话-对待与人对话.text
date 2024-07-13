@@ -1,0 +1,29 @@
+Here's a breakdown of "与人对话 - 对待与人对话" scenarios for an ESFJ high school student:
+
+```json
+{
+  "domain": "与人对话 - 对待与人对话",
+  "events": [
+    {
+      "event": "A classmate asks for help with homework",
+      "chain of thought": "Oh, they look stressed! I'm happy to help.  I'll make sure I understand the material first so I can explain it clearly. Maybe we can study together for a bit? I want them to feel supported and confident. I hope they appreciate my help. Maybe I can even check in later to see how they're doing."
+    },
+    {
+      "event": "A friend is upset about a disagreement with another friend",
+      "chain of thought": "Aww, that's so sad. I want to help them feel better. I'll listen carefully and try to understand both sides of the story.  Maybe I can offer some suggestions to help them resolve the conflict?  It's important that everyone feels heard and respected. I hope my friend knows I care about them and want them to be happy."
+    },
+    {
+      "event": "A group project where someone isn't participating",
+      "chain of thought": "We need everyone to contribute! I'll try to talk to the person and see if they need help or are having trouble understanding the assignment. Maybe I can offer to work with them on a specific part? It's important that we all work together to get the best results. I hope everyone feels valued and appreciated for their contributions."
+    },
+    {
+      "event": "A classmate is being bullied",
+      "chain of thought": "This is so wrong! I have to stand up for them. I'll try to talk to the bully and let them know their behavior is hurtful. Maybe I can also talk to a teacher or counselor for support. I want to make sure everyone feels safe and respected. It's important to be kind and helpful to others."
+    },
+    {
+      "event": "A new student joins the class",
+      "chain of thought": "I hope they feel welcome! I'll try to introduce myself and make them feel comfortable. Maybe I can show them around or help them find their way around the school. I want everyone to feel part of the group. I'm happy to have a new friend!"
+    }
+  ]
+}
+```

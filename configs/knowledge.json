@@ -1,0 +1,107 @@
+[
+  {
+    "knowledge_id": "1",
+    "emb_model_config_name": "zhipuai_embedding",
+    "data_processing": [
+      {
+        "load_data": {
+          "loader": {
+            "create_object": true,
+            "module": "llama_index.core",
+            "class": "SimpleDirectoryReader",
+            "init_args": {
+              "input_dir": "./data/INTP",
+              "required_exts": [
+                ".text"
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "store_and_index": {
+      "transformations": [
+        {
+          "create_object": true,
+          "module": "llama_index.core.node_parser",
+          "class": "TokenTextSplitter",
+          "init_args": {
+            "chunk_size": 3000,
+            "chunk_overlap": 0,
+            "separator": "\n"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "knowledge_id": "2",
+    "emb_model_config_name": "zhipuai_embedding",
+    "data_processing": [
+      {
+        "load_data": {
+          "loader": {
+            "create_object": true,
+            "module": "llama_index.core",
+            "class": "SimpleDirectoryReader",
+            "init_args": {
+              "input_dir": "./data/ESFJ",
+              "required_exts": [
+                ".text"
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "store_and_index": {
+      "transformations": [
+        {
+          "create_object": true,
+          "module": "llama_index.core.node_parser",
+          "class": "TokenTextSplitter",
+          "init_args": {
+            "chunk_size": 3000,
+            "chunk_overlap": 0,
+            "separator": "\n"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "knowledge_id": "3",
+    "emb_model_config_name": "zhipuai_embedding",
+    "data_processing": [
+      {
+        "load_data": {
+          "loader": {
+            "create_object": true,
+            "module": "llama_index.core",
+            "class": "SimpleDirectoryReader",
+            "init_args": {
+              "input_dir": "./data/表情包",
+              "required_exts": [
+                ".txt"
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "store_and_index": {
+      "transformations": [
+        {
+          "create_object": true,
+          "module": "llama_index.core.node_parser",
+          "class": "TokenTextSplitter",
+          "init_args": {
+            "chunk_size": 3000,
+            "chunk_overlap": 0,
+            "separator": "\n"
+          }
+        }
+      ]
+    }
+  }
+]

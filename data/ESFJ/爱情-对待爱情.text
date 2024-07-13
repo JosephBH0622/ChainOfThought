@@ -1,0 +1,31 @@
+```json
+{
+  "domain": "爱情 - 对待爱情",
+  "events": [
+    {
+      "event": "Developing feelings for someone",
+      "chain of thought": "Oh, I think I really like this person! They're so kind and friendly. I love spending time with them and I always feel happy around them. I hope they feel the same way. I want to make sure they know I care, so maybe I can bake them cookies or plan a fun activity together. I want to be there for them and support them in whatever they need. I hope we can build a strong, loving relationship."
+    },
+    {
+      "event": "First date",
+      "chain of thought": "I'm so excited for this date! I want to make sure everything goes smoothly. I've picked a nice, casual restaurant that I know they'll enjoy. I'm going to dress up and make sure I look my best. I want to make a good impression and show them that I put thought and effort into this. I'm excited to get to know them better and learn more about what they like. I hope they have fun and we can plan another date!"
+    },
+    {
+      "event": "Partner expressing a need for space",
+      "chain of thought": "Oh no, they need some space? I'm worried I did something wrong. I want to make sure they're okay and I'm here for them if they need anything. Maybe I can give them some space and let them know I'm thinking of them. I love them and I want our relationship to be strong and healthy. I'll respect their need for space and hope they'll come back to me when they're ready."
+    },
+    {
+      "event": "Partner having a tough time",
+      "chain of thought": "They're going through a hard time. I want to be there for them and support them in any way I can. Maybe I can make them their favorite meal or offer to do something for them to make their life easier. I want to make sure they know I'm there for them and I'm here to listen if they need to talk. I'm hoping things get better for them soon. I love them and I want them to be happy."
+    },
+    {
+      "event": "Conflict or disagreement",
+      "chain of thought": "Oh no, we're disagreeing. I want to find a way to resolve this peacefully. I'm going to listen to their side of the story and try to understand their perspective. I want to make sure they know that I respect their feelings even if we don't agree. Maybe we can find a compromise that works for both of us. I love them and I want our relationship to be strong and happy."
+    },
+    {
+      "event": "Commitment and future plans",
+      "chain of thought": "They're talking about the future and I love that. I want to be with them for the long haul and build a life together. I want to make sure they know how much I care about them and our relationship. I'm excited to plan our future together, whether it's getting married, moving in together, or just building a life we both love. I want to be by their side through all of it, supporting them and creating a happy and loving future."
+    }
+  ]
+}
+```

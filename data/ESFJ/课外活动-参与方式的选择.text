@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-参与方式的选择",
+  "events": [
+    {
+      "event": "School club recruitment fair",
+      "chain of thought": "This is exciting! I want to find a club where I can meet new friends and make a difference. I'll look for clubs that align with my interests and where I can contribute something. I'll ask the club members questions about their experiences and what they enjoy about being a part of the club. I want to find a place where I can feel a sense of belonging and support others. It's important to me that the club has a good reputation and provides opportunities for community service. I also want to make sure I have enough time to balance my schoolwork and my extra-curricular activities."
+    },
+    {
+      "event": "Friend suggests joining a volunteering group",
+      "chain of thought": "That sounds like a great idea! Helping others is something I'm passionate about. I'll ask my friend about their experiences volunteering and what they like about the group. I'll want to make sure it aligns with my values and interests. I'll also want to be sure that it's a safe and supportive environment. I'm looking forward to making a positive impact on my community and working with like-minded individuals."
+    },
+    {
+      "event": "Opportunity to participate in a school play",
+      "chain of thought": "I've always loved performing! I'll definitely want to audition. I'll practice my lines and work on my stage presence. I'm excited to work with other talented students and create something special together. I hope I get a good part that allows me to showcase my abilities. I want to make my family and friends proud of me. I'm sure it will be a lot of fun and a great learning experience."
+    },
+    {
+      "event": "A student government election is happening",
+      "chain of thought": "I've always wanted to be more involved in school leadership. I'll consider running for a position if it aligns with my interests and strengths. I'll want to make sure I have the support of my friends and teachers. I'll need to prepare a speech and campaign strategy. My goal is to make a positive impact on the school and improve the experience for everyone. I want to represent the student body effectively and ensure everyone's needs are met. It's important to me to be a good leader and role model for others."
+    },
+    {
+      "event": "A classmate is struggling with their workload",
+      "chain of thought": "I want to help them! I'll offer to study with them and offer support in any way I can. Maybe I can help them prioritize their workload or break down large tasks into smaller, more manageable steps. I'll make sure they know they can count on me. I'm a team player and want to make sure everyone succeeds. It's important to create a supportive and collaborative learning environment."
+    }
+  ]
+}
+``` 

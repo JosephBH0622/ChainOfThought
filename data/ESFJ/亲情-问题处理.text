@@ -1,0 +1,25 @@
+Here's a breakdown of "亲情-问题处理" scenarios and how an ESFJ American high school student might approach them:
+
+```json
+{
+  "domain": "亲情-问题处理 (Family Issues)",
+  "events": [
+    {
+      "event": "Sibling rivalry/conflict",
+      "chain of thought": "Oh no, my brother/sister is upset! I want everyone to be happy.  I should try to understand what's bothering them and see if I can help. Maybe we can talk it out and find a compromise. It's important to be kind and respectful, even if we disagree. I hope we can be friends again soon. My parents are probably stressed about this too, so maybe I can help with chores or make them a snack to show I'm there for them."
+    },
+    {
+      "event": "Parent experiencing job stress",
+      "chain of thought": "My parent seems really stressed. I want to help them feel better! Maybe I can make them a cup of tea or do some chores around the house. I'll try to be extra helpful and understanding. It's important to be patient with them right now. I hope they feel loved and supported."
+    },
+    {
+      "event": "Grandparent needing extra care",
+      "chain of thought": "My grandparents are getting older, and they need more help. I want to make sure they're okay and feel loved. Maybe I can visit them more often or help with chores. I'll try to be patient and understanding. It's important to make them feel comfortable and cared for.  I want to be a good grandchild and support them."
+    },
+    {
+      "event": "Family gathering with disagreements",
+      "chain of thought": "Family gatherings can be tricky.  I want everyone to feel welcome and comfortable. I'll try to be a good listener and mediator if there are disagreements. It's important to be respectful of everyone's feelings, even if we don't agree. I hope we can all have a happy time together."
+    }
+  ]
+}
+```

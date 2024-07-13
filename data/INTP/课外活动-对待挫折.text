@@ -1,0 +1,21 @@
+Here's a possible breakdown of how an INTP American high school student might think about extracurricular activities and dealing with setbacks:
+
+```json
+{
+  "domain": "Extracurricular Activities - Dealing with Setbacks",
+  "events": [
+    {
+      "event": "Failing to make the school's debate team",
+      "chain of thought": "1. Analyze why I didn't make the team, focusing on my performance and the criteria used for selection. 2. Question the logic of the selection process, looking for possible flaws or biases. 3. Consider the strengths and weaknesses of my arguments, seeking areas for improvement. 4. Explore alternative ways to engage in debate, perhaps joining a club or starting a debate group with friends. 5. Research effective debate strategies and techniques to strengthen my skills. 6. View this as a learning experience and an opportunity to develop my analytical and critical thinking abilities. 7. Stay focused on the long-term goal of becoming a skilled debater, recognizing that setbacks are a part of the journey."
+    },
+    {
+      "event": "Not getting chosen for a lead role in the school play",
+      "chain of thought": "1. Objectively assess my performance at the audition, identifying areas where I could have done better. 2. Consider the director's perspective and the criteria for choosing the lead role. 3. Research different acting techniques and explore how they might enhance my performance. 4. Reflect on my passion for acting and whether it aligns with the specific role I auditioned for. 5. Investigate opportunities to participate in other aspects of theater production, such as stage management or technical design. 6. View this as an opportunity to develop different skills and gain a broader understanding of theater. 7. Remain committed to developing my acting skills and exploring future opportunities."
+    },
+    {
+      "event": "A project for a club or organization failing to meet expectations",
+      "chain of thought": "1. Analyze the reasons behind the project's failure, focusing on logistical, organizational, and strategic aspects. 2. Evaluate the effectiveness of the team's approach and communication, identifying potential areas for improvement. 3. Brainstorm solutions and alternative approaches to address the identified problems. 4. Research best practices and effective project management techniques for future endeavors. 5. Consider the long-term goals of the club or organization and how this setback can be used to learn and grow. 6.  Stay optimistic and focused on finding a way to achieve the desired outcomes, even if it requires adjustments or a new strategy."
+    }
+  ]
+}
+```

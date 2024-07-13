@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "个人成长 - 对待挫折",
+  "events": [
+    {
+      "event": "Failing a test after putting in a lot of effort",
+      "chain of thought": "Oh no, I studied so hard for this test! I'm disappointed in myself, but I know I can do better next time. Maybe I need to study differently or ask for help from my teacher or classmates. I'm going to talk to my friends and see how they studied, maybe we can study together next time. I know I'm capable of getting good grades, I just need to figure out what went wrong and adjust my approach."
+    },
+    {
+      "event": "Being rejected for a leadership position in a school club",
+      "chain of thought": "I really wanted to be the president of the club, but it's okay. Maybe I wasn't ready for that much responsibility yet. I'll focus on being a good member and supporting the new president. Maybe next year I'll be ready to try again. I'll ask the president for advice on how I can improve my leadership skills. It's important to me that everyone feels included and happy in the club, so I'll continue to be a supportive and helpful member."
+    },
+    {
+      "event": "Having a disagreement with a friend and feeling hurt",
+      "chain of thought": "I'm really upset about this fight with my friend. I need to talk to them and try to understand their perspective. I want to keep our friendship strong, so I'll be open to hearing their side of the story. It's important to me that we can both apologize and move on. I value our friendship and I don't want to let this hurt our relationship."
+    },
+    {
+      "event": "Feeling overwhelmed with homework and extracurricular activities",
+      "chain of thought": "I'm feeling so stressed right now. I need to create a schedule to manage my time better. I should talk to my parents and teachers about how I'm feeling. They can help me prioritize and find ways to reduce my workload. It's important to be organized and ask for help when I need it. I know I can do it, but I need to be realistic about how much I can handle."
+    }
+  ]
+}
+```

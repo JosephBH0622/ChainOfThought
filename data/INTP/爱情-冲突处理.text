@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情-冲突处理 (Love-Conflict Resolution)",
+  "events": [
+    {
+      "event": "A significant other expresses a need for more emotional connection",
+      "chain of thought": "1. Analyze the request for more emotional connection, seeking to understand the underlying needs and motivations. 2. Consider how my own emotional expression aligns (or doesn't) with their expectations. 3. Question the efficiency of expressing emotions verbally, considering alternative forms of communication (e.g., acts of service, thoughtful gestures). 4. Struggle with translating abstract feelings into tangible actions. 5. Feel pressure to adapt my communication style to meet their needs, potentially sacrificing my own comfort level. 6. Seek to understand the emotional logic behind their request, even if it seems irrational or illogical. 7. Brainstorm potential solutions or compromises that involve both emotional expression and logical analysis."
+    },
+    {
+      "event": "A conflict arises due to differing values or beliefs",
+      "chain of thought": "1. Analyze the root of the conflict, identifying the specific values or beliefs in contention. 2. Explore different perspectives, seeking to understand the logical reasoning behind their position. 3. Evaluate the validity of both viewpoints based on objective criteria. 4. Feel a need to find a solution that respects both sets of values, even if it requires compromise or adaptation. 5. Struggle with reconciling emotional attachment to certain beliefs with the need for logical understanding and compromise. 6. Seek to create a system or framework for resolving future conflicts based on mutual respect and understanding."
+    },
+    {
+      "event": "A partner engages in behavior that contradicts agreed-upon boundaries",
+      "chain of thought": "1. Analyze the situation objectively, identifying the specific behavior that violates boundaries. 2. Evaluate the logical consequences of the action, considering both the immediate impact and the potential for future harm. 3. Feel a sense of betrayal and a need to assert my own values and boundaries. 4. Consider the effectiveness of different communication strategies (e.g., direct confrontation, passive-aggressive behavior, emotional appeal). 5. Struggle with balancing the desire to maintain the relationship with the need to uphold my own integrity and autonomy. 6. Seek to establish clear and logical boundaries that are understood and respected by both parties."
+    },
+    {
+      "event": "A partner criticizes or invalidates your opinions or ideas",
+      "chain of thought": "1. Analyze the criticism, identifying the specific points of disagreement and the underlying reasons. 2. Evaluate the validity of their criticism, considering the logical soundness of their arguments. 3. Feel a sense of intellectual frustration and a need to defend my own ideas. 4. Consider the effectiveness of different responses (e.g., reasoned argumentation, withdrawal from the conversation, emotional response). 5. Struggle with the emotional impact of feeling invalidated or misunderstood. 6. Seek to engage in respectful dialogue, focusing on logic and evidence, to reach a mutually acceptable understanding."
+    },
+    {
+      "event": "A disagreement arises regarding future plans or goals",
+      "chain of thought": "1. Analyze the different goals and aspirations, identifying the points of divergence. 2. Explore the logical implications of each path, considering the potential benefits and drawbacks. 3. Feel a need to find a solution that aligns with both sets of goals, even if it requires compromise or adaptation. 4. Struggle with balancing individual ambitions with the desire for shared success. 5. Seek to create a plan that incorporates the strengths and interests of both individuals, leading to a mutually beneficial outcome."
+    }
+  ]
+}
+```

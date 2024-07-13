@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "个人成长-适应变化",
+  "events": [
+    {
+      "event": "Moving to a new city for college",
+      "chain of thought": "1. Analyze the pros and cons of moving, considering factors like academic opportunities, cost of living, and social life. 2. Research the city thoroughly, focusing on its culture, demographics, and resources for INTPs (libraries, museums, tech communities). 3.  Develop a system for navigating the new environment, including routines, transportation options, and potential social groups. 4. Feel overwhelmed by the sheer volume of new information and experiences. 5. Seek out opportunities for intellectual stimulation and challenge. 6. Embrace the opportunity to learn new things and develop new skills. 7. Remain open to adapting and revising plans as needed. 8.  Use the change as a catalyst for personal growth and self-discovery."
+    },
+    {
+      "event": "Experiencing a significant personal loss",
+      "chain of thought": "1. Process the event logically, analyzing the cause and consequences. 2. Seek to understand the emotional impact of the loss, both on oneself and others involved. 3. Struggle with the uncertainty and ambiguity of grief. 4.  Desire to find meaning and purpose in the face of loss. 5.  Reflect on one's values and priorities in light of the event. 6.  Seek support from trusted individuals or professionals, but prefer to process emotions independently. 7.  Use the experience as a catalyst for personal growth and self-reflection."
+    },
+    {
+      "event": "Facing a major academic challenge",
+      "chain of thought": "1.  Analyze the challenge objectively, breaking it down into smaller, manageable steps. 2. Research and explore different approaches to solving the problem. 3. Develop a logical framework or system for understanding the concepts involved. 4.  Seek out intellectual stimulation and challenge. 5.  Embrace the opportunity to learn new things and develop new skills. 6.  Feel frustrated by ambiguity and lack of clarity. 7.  Remain open to revising strategies and adapting to new information. 8.  Use the challenge as an opportunity to enhance critical thinking and problem-solving skills."
+    },
+    {
+      "event": "Dealing with unexpected changes in plans",
+      "chain of thought": "1.  Analyze the impact of the change on existing plans and goals. 2. Develop alternative solutions and contingencies. 3.  Remain flexible and adaptable, willing to adjust plans as needed. 4.  Seek to understand the reasons behind the change. 5.  Feel frustrated by disruptions to established routines and systems. 6.  Embrace the opportunity for new experiences and possibilities. 7.  Use the change as a catalyst for creative problem-solving and strategic thinking."
+    }
+  ]
+}
+```

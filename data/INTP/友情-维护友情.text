@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship-Maintaining Friendship",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal problem.",
+      "chain of thought": "1. Analyze the situation objectively, seeking to understand the underlying causes and potential solutions. 2. Consider the friend's personality and values to determine the most effective approach. 3. Offer logical support and advice, focusing on practical solutions and strategies. 4. May struggle to understand the emotional aspect of the problem, but strive to be empathetic and offer a listening ear. 5. Encourage the friend to explore their options and make their own decisions, respecting their autonomy. 6. Worry about potentially intruding on the friend's space or offering unsolicited advice. 7. Ultimately want to provide genuine support and assistance, even if it's through simply being there to listen and offer a neutral perspective."
+    },
+    {
+      "event": "A friend is being bullied or mistreated.",
+      "chain of thought": "1. Analyze the situation, identifying patterns of behavior and power dynamics. 2. Develop a strategic plan to address the bullying, considering legal and ethical implications. 3. Advocate for the friend, using logic and reason to confront the bully or authorities. 4. May feel uncomfortable with emotional confrontation, but prioritize fairness and justice. 5. Seek to empower the friend by helping them understand their rights and options. 6.  May research and suggest coping mechanisms and support systems to help the friend deal with the situation. 7.  Ultimately want to protect the friend and promote a just and equitable environment."
+    },
+    {
+      "event": "A disagreement arises between friends.",
+      "chain of thought": "1. Analyze the source of the disagreement, identifying logical inconsistencies or misunderstandings. 2. Seek to understand both perspectives, considering the underlying values and motivations of each friend. 3.  May feel uncomfortable with emotional conflict, but strive to find a logical and fair resolution. 4. Encourage open communication and a focus on finding common ground. 5.  May suggest compromises or alternative solutions based on objective reasoning. 6.  Ultimately value the friendship and desire to find a solution that respects the needs of both parties."
+    },
+    {
+      "event": "A friend is making choices that are detrimental to themself.",
+      "chain of thought": "1. Analyze the friend's behavior and choices, identifying patterns and potential consequences. 2.  Seek to understand the underlying motivations and values driving these choices. 3.  May struggle to directly confront the friend due to fear of judgment or conflict. 4.  Consider offering indirect support by sharing relevant information or resources. 5.  Ultimately hope to guide the friend towards a path that aligns with their values and promotes their well-being, but understand that ultimately the choice is theirs."
+    },
+    {
+      "event": "A friend is going through a significant life change.",
+      "chain of thought": "1. Analyze the implications of the life change, considering potential benefits and challenges. 2.  Offer practical support and advice based on logical reasoning and experience. 3.  May struggle to express emotional support, but demonstrate care through actions and thoughtful gestures. 4.  Encourage the friend to explore their options and make informed decisions. 5.  Ultimately want to be a source of stability and guidance during this transitional period."
+    }
+  ]
+}
+```

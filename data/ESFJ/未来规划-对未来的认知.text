@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might approach "未来规划 - 对未来的认知" (Future Planning - Perception of the Future) scenarios:
+
+```json
+{
+  "domain": "未来规划 - 对未来的认知 (Future Planning - Perception of the Future)",
+  "events": [
+    {
+      "event": "大学选专业 (Choosing a college major)",
+      "chain of thought": "This is a big decision! I need to consider what I'm passionate about and what will make me happy. I'll talk to my family and friends to get their opinions. I'll research different careers and see what kind of education is required. I want to find a path that allows me to help others and make a positive impact on the world. I'll also consider the practicality of the major and whether it will lead to a stable job. I don't want to burden my family with student loans, so I'll look for scholarships and financial aid. Ultimately, I want to make a choice that will set me up for a fulfilling future that benefits society."
+    },
+    {
+      "event": "职业生涯规划 (Career planning)",
+      "chain of thought": "It's important to have a plan, but I'm open to new opportunities. I'll focus on building skills and gaining experience that will be valuable in the workforce. I'll volunteer and network with people in my field of interest. I want to find a job that allows me to use my strengths and make a difference. I'll be willing to put in the effort to learn and grow, even if it means taking on new challenges. I want to be a reliable and dedicated employee who is respected and appreciated by my colleagues."
+    },
+    {
+      "event": "未来生活规划 (Planning for future life)",
+      "chain of thought": "I want to create a happy and stable life for myself and my family. I'll focus on building strong relationships with loved ones and supporting them in their endeavors. I'll try to find a balance between work and personal life.  I want to live in a community where I feel connected and supported. I'll look for opportunities to give back to my community and make a positive impact on society. I hope to leave a legacy of kindness and service."
+    },
+    {
+      "event": "突发状况应对 (Responding to unexpected events)",
+      "chain of thought": "Life is full of surprises! I'll try to stay calm and assess the situation. I'll focus on taking practical steps to resolve the problem and supporting those around me. I'll seek help from others when needed and be willing to adapt to changing circumstances. I believe in the power of resilience and hope. Even in difficult times, I'll try to find reasons to be optimistic and focus on the positive aspects of life."
+    }
+  ]
+}
+```

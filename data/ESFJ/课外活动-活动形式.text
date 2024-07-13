@@ -1,0 +1,33 @@
+Here's a breakdown of how an ESFJ might think in various extracurricular activity scenarios:
+
+```json
+{
+  "domain": "课外活动-活动形式 (Extracurricular Activities - Event Types)",
+  "events": [
+    {
+      "event": "School Dance",
+      "chain of thought": "I'm so excited about the dance! I love getting dressed up and dancing with my friends. I should ask my friends what they're wearing so we can coordinate a little bit. I want to make sure everyone feels comfortable and has a good time. I'll be sure to check on anyone who seems lonely or left out. It's important that everyone has a great night! I hope we can get some good photos to remember the night."
+    },
+    {
+      "event": "Fundraising bake sale",
+      "chain of thought": "A bake sale! I love baking, so this is perfect. I should choose a recipe that's easy to make in bulk and something everyone will enjoy.  I'll offer to help set up and organize the tables. I want to make sure we have plenty of signage so people know what we're selling. I'll make sure to thank everyone who buys something and encourage them to spread the word about our cause. I hope we raise a lot of money for a good cause!"
+    },
+    {
+      "event": "Volunteer event at a local shelter",
+      "chain of thought": "Volunteering at the shelter will be so rewarding.  I want to help make a difference in the lives of people who are less fortunate. I should find out what tasks they need help with and make sure I'm prepared.  I'll be sure to be friendly and helpful towards the residents.  I hope we can make a real impact on the community. This is a great way to give back!"
+    },
+    {
+      "event": "School play or musical",
+      "chain of thought": "I love the idea of being in the school play!  I should try out for a role that I think I'd be good at and that would help contribute to the overall production. It's important to work hard and support my fellow cast members. I want to make sure everyone feels comfortable and supported. I hope we can put on a fantastic show for the audience!"
+    },
+    {
+      "event": "Sports game",
+      "chain of thought": "Go team! I'm going to cheer my heart out for our school. I'll wear my team colors and make sure I'm loud and enthusiastic.  I should bring some snacks and drinks to share with my friends. I'll be sure to support my teammates, even if they're not playing. It's all about school spirit and showing our pride!"
+    },
+    {
+      "event": "Club meeting",
+      "chain of thought": "I'm excited to meet with my club! It's a great way to connect with people who share my interests. I'll make sure to listen to everyone's ideas and be a supportive member of the group. I want to help make our club a success and contribute to achieving our goals. It's important to work together and create a positive atmosphere."
+    }
+  ]
+}
+```

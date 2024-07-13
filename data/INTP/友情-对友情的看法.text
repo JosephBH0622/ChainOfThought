@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Friendship - Perspectives on Friendship",
+  "events": [
+    {
+      "event": "Witnessing a close friend being excluded from a social group",
+      "chain of thought": "1. Analyze the situation objectively: What are the facts? Who is involved? What are their motivations? 2. Consider the social dynamics at play: Are there unspoken rules or hierarchies? 3. Question the value of social belonging: Does it align with my friend's values and goals? 4.  Explore potential solutions: Can I help my friend understand the social dynamics? Could I advocate for their inclusion? 5. Assess the potential consequences of different actions: What are the risks and benefits for everyone involved? 6.  Ultimately, prioritize my friend's well-being and encourage them to pursue friendships that are genuinely fulfilling."
+    },
+    {
+      "event": "A friend confides in you about a personal struggle",
+      "chain of thought": "1.  Actively listen and try to understand the situation from my friend's perspective.  2.  Avoid offering unsolicited advice unless specifically asked.  3.  Focus on providing support and empathy.  4.  Help my friend explore different perspectives and potential solutions.  5.  Encourage my friend to seek professional help if necessary. 6.  Respect their privacy and discretion about the shared information."
+    },
+    {
+      "event": "Disagreement with a friend about a shared project or activity",
+      "chain of thought": "1.  Identify the root of the disagreement: What are the different perspectives? What are the conflicting values? 2.  Analyze the pros and cons of each perspective. 3.  Seek a logical solution that addresses everyone's concerns: Is there a compromise that can be reached? 4.  Maintain a respectful and open dialogue, focusing on finding common ground. 5.  Acknowledge and respect my friend's point of view, even if I disagree. 6.  Ultimately, aim for a resolution that is fair and beneficial to everyone involved."
+    },
+    {
+      "event": "Observing a friend engaging in unhealthy or destructive behavior",
+      "chain of thought": "1.  Analyze the situation objectively: What is the specific behavior? What are the potential consequences?  2.  Consider the underlying reasons for the behavior: Are there any personal struggles or challenges? 3.  Approach the topic with empathy and sensitivity. 4.  Express concerns and offer support, focusing on helping my friend make positive changes. 5.  Set boundaries if necessary to protect myself from harmful behavior. 6.  Encourage my friend to seek professional help if needed."
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+Here's a breakdown of "亲情-对待家庭成员" scenarios and how an ESFJ high school student might think about them:
+
+```json
+{
+  "domain": "亲情 - 对待家庭成员",
+  "events": [
+    {
+      "event": "Family dinner with extended relatives",
+      "chain of thought": "I love family gatherings! I'll make sure to help set the table and make everyone feel welcome. I'll ask about their lives and try to remember details so I can ask them about it later. I want everyone to have a good time and feel connected. Maybe I can help with the dishes later too - I like to be helpful."
+    },
+    {
+      "event": "Sibling is struggling with a personal issue",
+      "chain of thought": "Oh no, I'm so worried about my sibling! I want to be there for them and offer support. I'll ask them what's wrong and try to understand their perspective. Maybe I can help them find solutions or just be a shoulder to cry on. I'll try to be patient and understanding, even if I don't fully understand what they're going through. I want them to know I love them and am always there for them."
+    },
+    {
+      "event": "Parents are going through a stressful time (e.g., job loss, health issues)",
+      "chain of thought": "My parents are going through a lot right now. I need to be there for them and help out in any way I can. Maybe I can do more chores around the house or help with errands. I'll try to be positive and offer encouragement. I want to make sure they know that I'm there for them and that I love them. It's important for our family to stay strong and supportive during this difficult time."
+    },
+    {
+      "event": "Family disagreement over a significant decision",
+      "chain of thought": "It's important for our family to stay united. I'll listen carefully to everyone's opinions and try to understand their perspectives. Maybe I can suggest a compromise or a solution that everyone can agree on. I'll try to be respectful and calm, even if things get heated. I want us to find a way to work together and make a decision that works for everyone."
+    },
+    {
+      "event": "Celebrating a family member's achievement",
+      "chain of thought": "Wow, I'm so proud of [family member]! I'll make sure to show them how much I care and congratulate them. Maybe I can help plan a celebration or make a special card. I want to share their joy and celebrate their success with them. I'm so glad to be part of this family."
+    }
+  ]
+}
+```

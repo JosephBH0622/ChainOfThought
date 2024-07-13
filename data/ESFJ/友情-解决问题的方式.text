@@ -1,0 +1,25 @@
+Here's a breakdown of "友情-解决问题的方式" scenarios and how an ESFJ might approach them:
+
+```json
+{
+  "domain": "Friendship - Problem Solving",
+  "events": [
+    {
+      "event": "A close friend is struggling with a personal problem (e.g., family conflict, relationship issues)",
+      "chain of thought": "Oh no, my friend is going through a tough time. I need to be there for them. I'll ask how they're feeling and listen carefully. I want them to know I'm there to support them, no matter what. I'll offer practical help if they need it, like running errands or helping them talk to someone. I'll encourage them to seek help from a counselor or trusted adult if needed. It's important for them to know they're not alone and I'm here for them."
+    },
+    {
+      "event": "A group of friends is planning a trip or activity, but there's disagreement on the details (e.g., location, budget, activities)",
+      "chain of thought": "We need to find a way to make everyone happy! I'll encourage everyone to share their ideas and try to find common ground. We can brainstorm different options and see what works for most people. I'm happy to compromise as long as we can all have fun. It's important to be considerate of everyone's feelings and make sure no one feels left out. Let's work together to plan a trip we'll all enjoy!"
+    },
+    {
+      "event": "A friend has hurt another friend's feelings without realizing it, leading to tension in the group.",
+      "chain of thought": "This is awkward! We need to clear the air and fix this before it gets worse. I'll talk to each friend individually to understand their perspective. I'll try to be a mediator and help them see each other's viewpoints.  I'll encourage them to apologize and forgive each other. It's important to maintain harmony in the group and keep everyone feeling valued. I believe we can all work through this and be friends again."
+    },
+    {
+      "event": "A friend is facing academic difficulties and needs help catching up with schoolwork",
+      "chain of thought": "I want to help my friend succeed! I'll offer to study with them and explain things they're struggling with. I'll suggest they talk to the teacher about getting extra help. It's important for them to catch up and feel confident in their studies.  I can also help them organize their notes and plan their study schedule. I'll be there to offer support and encouragement along the way."
+    }
+  ]
+}
+```

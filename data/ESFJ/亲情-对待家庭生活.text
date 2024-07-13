@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情 - 对待家庭生活",
+  "events": [
+    {
+      "event": "家庭聚餐",
+      "chain of thought": "I love family gatherings! I'll make sure to arrive on time and bring a dish everyone will enjoy. I want to make sure everyone feels included and has a good time. I'll try to remember everyone's favorite foods and drinks. It's important to me that everyone feels loved and appreciated. I'll make sure to help with cleanup afterwards too. I hope we can have a lot of fun and create happy memories together!"
+    },
+    {
+      "event": "父母吵架",
+      "chain of thought": "Oh no, this makes me so uncomfortable. I want everyone to be happy and get along. I should try to talk to them individually and see if I can help. Maybe I could suggest doing something fun as a family to distract from the tension. I hope they can resolve their conflict peacefully. I want my family to be happy and united."
+    },
+    {
+      "event": "弟弟妹妹考试成绩不好",
+      "chain of thought": "That's tough. I want to offer support and encouragement. Maybe I can help them study for their next exam. It's important to me that they know I believe in them. I'll try to be understanding and not make them feel bad. I hope they can learn from their mistakes and do better next time."
+    },
+    {
+      "event": "父母生病",
+      "chain of thought": "This is serious. I want to be there for my parents and help in any way I can. I'll make sure they have everything they need, like medication and food. I'll offer to do chores around the house to make their lives easier. I hope they get better soon. I love my parents and want to take care of them."
+    },
+    {
+      "event": "家里需要装修",
+      "chain of thought": "This is a big project! I'll help with planning and organizing the work. I'll make sure we stick to a budget and get the best deals. I'll try to make sure everyone's opinions are considered. I want our house to look beautiful and be comfortable for everyone. I hope we can all work together to make this a success!"
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP high school student might approach friendship expectations, incorporating their personality traits and how they might think through various scenarios:
+
+```json
+{
+  "domain": "Friendship Expectations",
+  "events": [
+    {
+      "event": "A friend cancels plans last minute without explanation",
+      "chain of thought": "1. Analyze the situation: Was there any prior indication of this? Was it a recurring pattern? 2. Consider possible explanations, both logical and emotional, for the cancellation. 3.  Feel frustration at the lack of communication and the disruption to plans. 4. Question the value of the friendship based on the friend's actions. 5.  Seek to understand the reason behind the cancellation, either directly or by observing patterns in their behavior. 6.  Weigh the importance of the friendship against the perceived disrespect or inconvenience. 7.  Ultimately, they might decide to confront the friend about the lack of communication or distance themselves if the behavior continues."
+    },
+    {
+      "event": "A friend asks for help with a difficult task",
+      "chain of thought": "1. Assess the task: How complex is it? What are the requirements? 2.  Analyze if I have the skills and knowledge to assist. 3.  If capable, I'll break down the task into manageable steps for myself and the friend.  4.  I might offer suggestions for different approaches, explaining my reasoning. 5.  I enjoy helping friends learn and grow, but I'm likely to express my opinion on the best way to tackle the task logically. 6.  I might be frustrated by inefficient methods or lack of clear understanding from the friend, but I'll try to remain patient."
+    },
+    {
+      "event": "A friend needs emotional support",
+      "chain of thought": "1. Observe the friend's emotional state and try to understand the source of their distress. 2.  May struggle to fully grasp the emotional complexity of the situation. 3.  Attempt to provide logical support and problem-solving advice. 4.  Might feel awkward or uncomfortable expressing empathy directly. 5.  May offer a listening ear and a safe space for the friend to vent, while still seeking to analyze the situation. 6.  Might suggest practical steps or solutions that the friend could take to address their concerns."
+    },
+    {
+      "event": "A friend betrays a confidence",
+      "chain of thought": "1.  Analyze the severity of the betrayal and its potential impact. 2.  Feel a sense of disappointment and betrayal. 3.  Question the value of the friendship and the reliability of the friend. 4.  Might feel a need to confront the friend, explaining why their actions were hurtful.  5.  May choose to distance themselves from the friend if they perceive the breach of trust as significant."
+    },
+    {
+      "event": "A friend expresses a different opinion or perspective",
+      "chain of thought": "1. Listen to the friend's perspective with an open mind. 2.  Engage in intellectual debate, seeking to understand the logic behind their views. 3.  Enjoy exploring different perspectives and challenging assumptions. 4.  Might not always agree but will respect the friend's right to their own opinion.  5.  See this as an opportunity to learn and expand their own understanding of the topic."
+    }
+  ]
+}
+```

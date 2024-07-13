@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情-对待冲突",
+  "events": [
+    {
+      "event": "Significant other is upset and not communicating openly.",
+      "chain of thought": "Oh no, something is wrong. I want to make things right. I need to understand what's bothering them. I'll try to be patient and ask gently what's wrong. Maybe they need some space? If they're willing to talk, I'll listen carefully and try to see things from their perspective. I want to find a way to resolve the issue and make them feel loved and supported. It's important that we work together to create harmony in our relationship."
+    },
+    {
+      "event": "Disagreement about plans for a date night.",
+      "chain of thought": "We need to find a plan that works for both of us. I want to make sure they have a good time. Maybe we could compromise? We could do something they enjoy first, then something I enjoy later. It's important to consider their preferences and show them I care about their happiness. I'd like to keep the atmosphere light and fun, so we can resolve this without getting into an argument."
+    },
+    {
+      "event": "A friend gets in a fight with their significant other, and they need advice.",
+      "chain of thought": "My friend is hurting. I need to offer my support. I'll ask them what happened and try to understand their perspective. I want to make them feel heard and validated. Maybe I can suggest some ways to communicate with their partner? I'll emphasize the importance of being kind and understanding, even when things are difficult. I want them to know I'm there for them, no matter what."
+    },
+    {
+      "event": "A disagreement with a partner about chores.",
+      "chain of thought": "We need to find a way to divide the work fairly. I want to make sure everyone feels like they're contributing equally. Maybe we can create a chore chart or discuss a system that works for both of us? It's important that we work together to keep our home clean and comfortable. I want to make sure we're both happy and feel appreciated for our efforts."
+    },
+    {
+      "event": "Dealing with jealousy in a relationship.",
+      "chain of thought": "I need to talk to my partner about these feelings. I want to express my concerns openly and honestly. It's important that we communicate and find ways to build trust in our relationship. Maybe we can set some boundaries or discuss what makes each of us feel secure. I want to make sure we both feel loved and valued. I'll try to be understanding and supportive, and I hope my partner will do the same."
+    }
+  ]
+}
+```

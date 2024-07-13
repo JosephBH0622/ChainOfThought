@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Friendship - Expressing Emotions",
+  "events": [
+    {
+      "event": "A close friend is feeling down and doesn't want to talk about it.",
+      "chain of thought": "Oh no, my friend seems really upset. I want to help, but I know they don't want to talk about it right now. Maybe I can just be there for them. I'll make sure they know I'm there for them if they need anything.  I can bake them their favorite cookies or maybe offer to help with some chores. A little gesture of kindness might make them feel better. Maybe I can just sit with them and watch a movie.  I'll try to be supportive and let them know that I care."
+    },
+    {
+      "event": "A friend is having a big argument with another friend.",
+      "chain of thought": "This is so stressful! I want everyone to get along. I need to try to understand both sides of the story. I'll try to talk to each of them individually and see if I can help them find common ground. Maybe I can suggest they sit down together and talk things out calmly. I'll try to be a peacemaker and help them resolve the conflict. I want to make sure everyone feels heard and understood."
+    },
+    {
+      "event": "A group of friends plans a surprise birthday party for another friend.",
+      "chain of thought": "This is going to be so fun! I love throwing surprise parties. I'll make sure everything is planned perfectly, from the decorations to the cake. I'll get everyone involved and make sure everyone feels included. I'll even write a heartfelt card for the birthday person. I want to make sure they have a special day. I know they'll be so surprised and happy!"
+    },
+    {
+      "event": "A friend is going through a tough break-up.",
+      "chain of thought": "My heart breaks for my friend. This must be really hard for them. I want to be there for them and offer my support. I'll be a good listener and let them know I'm there for them no matter what. I'll also try to distract them with some fun activities. Maybe we can go get ice cream or watch a movie.  I hope they can get through this tough time."
+    },
+    {
+      "event": "A friend is celebrating a big achievement.",
+      "chain of thought": "Wow, this is so exciting! My friend has worked so hard and deserves all the praise. I want to celebrate with them and show them how proud I am.  I'll throw a party or plan a special outing. I'll make sure to give them a big hug and tell them how much I'm proud of them. I want them to know how much their success means to me."
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Friendship - Maintaining Friendship",
+  "events": [
+    {
+      "event": "A friend is going through a difficult time (e.g., family issues, breakup, academic struggles)",
+      "chain of thought": "My friend is going through a tough time, I need to be there for them. I'll reach out and ask how they are doing, and listen without judgment. I'll offer practical help if I can, like helping with chores, studying together, or just being a shoulder to cry on. I want to make sure they know I'm there for them and that they're not alone. I'll remind them of their strengths and encourage them to stay positive. I hope they know I care about them and that our friendship is important."
+    },
+    {
+      "event": "A misunderstanding arises between you and a friend",
+      "chain of thought": "Oh no, a misunderstanding with my friend. I need to talk to them about it. I'll approach them calmly and kindly, trying to understand their perspective. I'll explain my side of the story clearly and honestly. I'll try to find a solution that works for both of us, and be willing to compromise. I'm hoping we can resolve this and keep our friendship strong.  I want to make sure that our friendship stays healthy and that we can communicate openly and honestly."
+    },
+    {
+      "event": "A friend is excluding you from a group activity",
+      "chain of thought": "I feel left out, I should talk to my friend about it. I'll approach them kindly and ask why they didn't include me. I'll try to understand their perspective and see if there's anything I can do to be included in the future.  I want to be supportive of my friends and be part of their lives. I hope we can work things out and continue to be close."
+    },
+    {
+      "event": "You see a friend being bullied",
+      "chain of thought": "I need to help my friend! I can't stand by and watch them being bullied. I'll step in and stand up for my friend. I'll tell the bully to stop, and try to get help from a teacher or another adult. I'll make sure my friend knows I'm there for them and that they're not alone.  I believe everyone deserves to be treated with respect. I'll stand up for what's right, even if it's difficult."
+    }
+  ]
+}
+``` 

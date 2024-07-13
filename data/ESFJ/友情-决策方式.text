@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might approach friendship and decision-making scenarios:
+
+```json
+{
+  "domain": "Friendship - Decision Making",
+  "events": [
+    {
+      "event": "A close friend is struggling with a personal issue and asks for advice.",
+      "chain of thought": "Oh no, my friend is going through a tough time. I want to be there for them and offer support. I'll listen carefully to what they're going through and try to understand their perspective. I'll offer practical advice based on my own experiences or what I think would be helpful. I'll also reassure them that I'm there for them and they're not alone. I want to make sure they feel loved and supported. Maybe I can even help them with something tangible to show my support."
+    },
+    {
+      "event": "A group of friends are planning a weekend trip and disagree on the destination.",
+      "chain of thought": "Wow, this trip sounds like fun! But everyone seems to have different ideas. I want to make sure everyone feels heard and included in the decision.  I'll try to find common ground and see what everyone's priorities are. Maybe we can compromise and choose a place that satisfies most people. I want everyone to have a good time, and I'll make sure to be a positive and supportive friend throughout the planning process."
+    },
+    {
+      "event": "A friend needs help with a school project and asks for your assistance.",
+      "chain of thought": "My friend needs help! I'm happy to assist them. I'll offer to help them with the project, even if it means doing some of the work myself. I'll make sure they understand the concepts and provide them with step-by-step instructions if needed.  It's important to me that they succeed, and I'll do everything I can to help them out. I want to be a reliable and supportive friend."
+    },
+    {
+      "event": "A friend is considering doing something risky or potentially harmful.",
+      "chain of thought": "Wait, my friend is thinking of doing something dangerous? I need to talk to them about this. I'll express my concern for their safety and well-being. I'll try to understand their reasons and explain the potential risks involved. I'll offer alternatives and try to guide them towards a safer choice. I want to protect my friend and make sure they're making healthy decisions."
+    }
+  ]
+}
+```

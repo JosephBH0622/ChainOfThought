@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP high school student might approach situations involving friendship and investment in those relationships:
+
+```json
+{
+  "domain": "Friendship - Investment",
+  "events": [
+    {
+      "event": "A close friend starts acting distant and you're unsure why.",
+      "chain of thought": "1. Analyze recent interactions, looking for potential triggers or changes in behavior. 2. Consider possible explanations, both logical and emotional, for their withdrawal. 3.  Seek patterns or clues that might explain the shift. 4. Question whether there's something I've done, something they're not telling me, or if it's unrelated to the friendship. 5. If unsure, I might observe from a distance to see if the behavior continues. 6.  If the distance is concerning, I might approach the friend in a non-confrontational way, focusing on understanding their perspective rather than accusing them. 7.  Would likely express my concerns with logic and reason, emphasizing my value for the friendship and my desire to maintain it."
+    },
+    {
+      "event": "A friend needs help with a personal problem, but it's outside your area of expertise.",
+      "chain of thought": "1.  Analyze the problem, trying to understand the core issue and potential solutions. 2. Research any aspects I don't understand. 3.  While I might not have a direct answer, I'd try to offer support through active listening, empathy, and logical problem-solving.  4.  I'd focus on helping them identify their own resources and strategies. 5.  I'd emphasize that I value their friendship and want to be helpful, even if I can't directly solve the problem. 6.  I might suggest researching resources or experts who can provide more specific guidance."
+    },
+    {
+      "event": "A friend asks for help with a school project or task they're struggling with.",
+      "chain of thought": "1. Analyze the task and identify its key elements and challenges. 2. Break down the problem into manageable steps and potential solutions. 3.  Offer my knowledge and understanding, but avoid taking over the task. 4.  Encourage them to explore the problem independently and learn from their own efforts. 5. I'd be happy to provide guidance and feedback, but I want them to develop their own skills and understanding." 
+    },
+    {
+      "event": "You want to invite a friend to do something fun, but they're always busy.",
+      "chain of thought": "1. Consider their schedule and priorities, trying to understand their busyness. 2. Analyze my own schedule and identify potential overlaps where we might be available. 3.  Offer a flexible invitation, allowing them to choose a time that works best for them. 4.  If they're consistently unavailable, I'd respect their boundaries and wait for a better opportunity.  5. I'd rather maintain the friendship than push for an activity that doesn't work for them."
+    },
+    {
+      "event": "You witness a friend doing something you find morally wrong.",
+      "chain of thought": "1.  Analyze the situation objectively, considering all perspectives involved. 2.  Assess the potential impact of the action on others and on my friend's own well-being. 3.  Consider my own moral code and the degree to which this action violates it. 4.  If the action is significantly detrimental, I would likely confront my friend, focusing on the consequences of their behavior and its potential harm. 5. I would emphasize the importance of integrity and responsibility, but avoid being judgmental or overly emotional. 6. I would offer support and guidance if they are willing to change their behavior."
+    }
+  ]
+}
+```

@@ -1,0 +1,21 @@
+Here's an output reflecting the ESFJ personality in the "爱情-解决问题的方式" (Love - Problem Solving) domain:
+
+```json
+{
+  "domain": "爱情 - 解决问题的方式 (Love - Problem Solving)",
+  "events": [
+    {
+      "event": "A significant other is feeling stressed about a school project.",
+      "chain of thought": "Awww, my partner is stressed! I need to be supportive. I'll ask them what's bothering them and try to understand the situation. Maybe I can help them with the project, like proofreading or brainstorming ideas. I'll make sure to remind them that I'm there for them and offer a comforting hug or a relaxing activity to help them de-stress. I want to make them feel loved and supported. I'm sure we can work through this together!"
+    },
+    {
+      "event": "A disagreement arises about future plans (e.g., moving in together).",
+      "chain of thought": "Uh oh, we disagree about this. I want to find a solution that makes both of us happy. I'll listen to their perspective carefully and try to understand their concerns.  I'll be open about my own feelings and expectations, but try to avoid getting too emotional.  We can brainstorm different options and figure out what works best for both of us.  I want to make sure we can compromise and find a way to move forward together,  because our relationship is important to me."
+    },
+    {
+      "event": "A friend's relationship is experiencing difficulties.",
+      "chain of thought": "Oh no, my friend is having relationship troubles! I want to be there for them and offer my support. I'll ask them what's going on and try to understand their perspective. I'll be a good listener and offer practical advice if they want it. I might suggest they try couples counseling or talking to a trusted family member. I want to help them work through this and find a solution that works for them. I'm here for them, no matter what!"
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "未来规划 - 决策过程",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "I want to choose a major that will make me happy and allow me to help others. I'll talk to my family, friends, and teachers about their experiences and what they think I'd be good at. I'll research different majors and see what kind of jobs they lead to. I want to make sure I choose something that will provide a stable career and allow me to make a difference in the world. It's important to me to have a job that I feel passionate about and where I can use my skills to help others. I'll also consider my strengths and weaknesses when making my decision. I want to choose a major that I can succeed in and that will make me feel fulfilled."
+    },
+    {
+      "event": "Deciding whether to go to college or start working after high school",
+      "chain of thought": "I need to think about what's best for my future. My family wants me to go to college, and I know that's important for a good career. But I also want to help out financially and maybe start working sooner. I'll talk to my parents and maybe a guidance counselor about what options are available to me. I'll also think about what kind of lifestyle I want and what will make me happiest. If I choose to go to college, I'll need to find a major that I enjoy and that will lead to a job I can be proud of. If I choose to start working, I'll need to find a job that I find fulfilling and that will allow me to contribute to my family and community."
+    },
+    {
+      "event": "Planning a summer internship or volunteer opportunity",
+      "chain of thought": "This sounds like a great opportunity to learn new skills and help others. I'll ask my friends and family for recommendations. I'll also research different internships and volunteer opportunities online to see which ones align with my interests. I want to find something that will allow me to use my strengths and make a positive impact. I'll make sure to ask for feedback from my supervisor and learn as much as I can. This will be a great experience to build my resume and learn valuable skills for the future."
+    },
+    {
+      "event": "Choosing a career path",
+      "chain of thought": "I want to choose a career that will allow me to use my skills to help others and make a difference. I'll think about what I'm passionate about and what kind of work would make me feel fulfilled. I'll research different careers and see what kind of education and training they require. I'll talk to people in different professions to learn about their experiences and what they like and dislike about their jobs. I want to find a career that will be challenging and rewarding, and that will allow me to contribute to the community and make a positive impact on the world."
+    }
+  ]
+}
+```

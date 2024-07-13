@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-反馈和满足感",
+  "events": [
+    {
+      "event": "Receiving positive feedback on a project after putting in a lot of effort",
+      "chain of thought": "1. Analyze the feedback, identifying specific strengths and areas for improvement. 2. Appreciate the recognition for the effort invested. 3. Consider how the feedback aligns with my own internal assessment of the project. 4. Evaluate the usefulness of the feedback for future projects. 5. Experience a sense of satisfaction from completing a challenging task and receiving positive recognition. 6. May reflect on the process and explore alternative approaches for future similar projects. 7. Feel motivated to continue pursuing projects that align with my interests and strengths."
+    },
+    {
+      "event": "Receiving constructive criticism on a project, even though it's not what I wanted to hear",
+      "chain of thought": "1. Analyze the criticism objectively, focusing on the logic and reasoning behind it. 2. Consider the validity of the criticism and how it aligns with my understanding of the project. 3. May feel frustrated if the criticism seems subjective or irrelevant to my goals. 4. Seek to understand the rationale behind the criticism, even if I disagree with it. 5. Analyze my own role in the project and identify potential areas for improvement. 6. May use the criticism as an opportunity to refine my approach and learn from my mistakes. 7. Strive to remain objective and focused on improving my skills and understanding."
+    },
+    {
+      "event": "Participating in a group project where I feel my contributions are not fully appreciated",
+      "chain of thought": "1. Analyze the dynamics of the group and identify potential reasons for the lack of appreciation. 2. Consider whether my contributions are being communicated effectively or if there are misunderstandings. 3. May feel frustrated by the lack of recognition for my efforts, especially if I believe I've made significant contributions. 4. Seek to understand the perspectives of other group members and their understanding of the project. 5. May try to find ways to better articulate my contributions and their impact on the project. 6. Strive to maintain a positive and collaborative attitude, focusing on the overall success of the project."
+    },
+    {
+      "event": "Witnessing a friend's success in an extracurricular activity that I'm also involved in",
+      "chain of thought": "1. Analyze the friend's success, identifying the factors that contributed to it. 2. Consider how my friend's approach differs from my own and what I can learn from their experience. 3. May feel motivated to improve my own skills and performance, seeking to achieve similar success. 4. Appreciate my friend's achievements while also acknowledging my own strengths and areas for improvement. 5. Use the experience as an opportunity to reflect on my own goals and motivations in the extracurricular activity."
+    },
+    {
+      "event": "Feeling a sense of accomplishment after overcoming a challenge in an extracurricular activity",
+      "chain of thought": "1. Analyze the challenge, identifying the specific obstacles overcome and the strategies used. 2. Experience a sense of satisfaction from successfully applying my skills and knowledge to a challenging situation. 3. Reflect on the process and the lessons learned from the experience. 4. May feel motivated to continue pursuing similar challenges in the future. 5. Appreciate the personal growth and development that comes from pushing myself beyond my comfort zone."
+    }
+  ]
+}
+```

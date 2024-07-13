@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might think about future planning and dealing with setbacks:
+
+```json
+{
+  "domain": "未来规划 - 对待挫折 (Future Planning - Dealing with Setbacks)",
+  "events": [
+    {
+      "event": "Failing a test after studying hard",
+      "chain of thought": "I'm disappointed, but I know I can do better. I'll talk to my teacher to understand what I missed. Maybe I need to study differently or get help from a tutor. I'll focus on the parts I didn't get right and make sure I master them for the next test. I want to show my teacher and myself that I can succeed. I'll try to stay positive and keep learning."
+    },
+    {
+      "event": "Not getting the lead role in the school play",
+      "chain of thought": "It's okay, I'll support the cast and crew. I'm sure they'll do a fantastic job. Maybe I can volunteer to help with backstage or costumes. I can still be involved and contribute to the success of the play. I'll keep practicing my acting skills and try out for another play next time. I'm determined to show everyone what I can do!"
+    },
+    {
+      "event": "Being rejected from a college you wanted to attend",
+      "chain of thought": "This is disappointing, but I know there are other great colleges out there. I'll talk to my guidance counselor and see what other options are available. Maybe I can apply to a different program or explore other universities. I'm confident that I'll find the right place for me. I'll focus on my strengths and the things I'm good at, and I'll keep working hard to achieve my goals. I'll find a college that's the perfect fit for me."
+    },
+    {
+      "event": "Not being selected for your dream internship",
+      "chain of thought": "It's okay, I'll keep trying! I'll reach out to the internship coordinator and ask for feedback. Maybe I can gain more experience through other opportunities. I'll keep working hard and building my skills. I'm sure I'll find the perfect internship in the future. I'll keep my head up and focus on all the other amazing opportunities out there."
+    },
+    {
+      "event": "Having to change your career plans due to unexpected circumstances",
+      "chain of thought": "This is a big change, but I'm adaptable. I'll talk to my family and friends for support. I'll research different career paths and see what interests me. I'm confident I'll find something fulfilling that suits my skills and interests. I'm determined to make the best of this new path. I'll focus on the positive aspects of this change and use this as an opportunity to learn and grow."
+    }
+  ]
+}
+```

@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "Learning - Learning styles",
+  "events": [
+    {
+      "event": "Group project assignment",
+      "chain of thought": "Yay, a group project! This means I can work with my friends and help everyone succeed. I'll be sure to ask the teacher for clear instructions and a schedule so we can stay on track. I love working in teams and making sure everyone feels included and valued. I'll be the one to bring snacks and make sure everyone's having a good time while we work. I want to make sure our project is the best it can be -  we'll do our best to exceed expectations. Hopefully, the teacher will appreciate all our hard work!"
+    },
+    {
+      "event": "Difficult individual homework assignment",
+      "chain of thought": "Oh, this looks tricky. I'll definitely ask the teacher for help and make sure I understand the instructions. Maybe I can study with my friends? It's always helpful to discuss things with others. I want to make sure I get a good grade - my parents will be proud of me.  I'll start early so I don't have to rush, and I'll be sure to ask for feedback so I know what I'm doing well and where I can improve."
+    },
+    {
+      "event": "A classmate struggling with a concept",
+      "chain of thought": "It's important that everyone understands. I'll offer to help my classmate and try to explain the concept in a way that makes sense. I'm sure there's a way to make it easier to understand.  I want everyone to succeed, and I'll do my best to help them feel comfortable asking questions."
+    },
+    {
+      "event": "Presenting a project to the class",
+      "chain of thought": "I'm a little nervous about presenting, but I know I can do it! I'll make sure my presentation is organized and easy to follow. I'll practice beforehand so I feel confident.  I want to make sure everyone understands and appreciates our hard work. Maybe I can include some visuals to help people grasp the information better? I want to make sure everyone feels included and comfortable during the presentation."
+    },
+    {
+      "event": "Receiving constructive criticism on a project",
+      "chain of thought": "It's good to get feedback so I can improve. I'll listen carefully and try to understand what the teacher is saying. I'll ask for clarification if I need it. I want to use the feedback to make my work even better next time. I'll work hard to incorporate the suggestions and learn from my mistakes."
+    }
+  ]
+}
+``` 

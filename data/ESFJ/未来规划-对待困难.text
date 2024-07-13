@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might think about future planning and dealing with difficulties, along with example events:
+
+```json
+{
+  "domain": "Future Planning - Dealing with Difficulties",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "I want to choose a major that will help me find a job I love and where I can use my skills to help others. I'll talk to my parents, teachers, and guidance counselor to get their advice. I should research different careers and see what interests me. I'll also think about what I'm good at and what I enjoy doing. Maybe I can volunteer in a field that I'm interested in to see if it's a good fit. I want to make a decision that I'm happy with and that will help me reach my goals."
+    },
+    {
+      "event": "Failing a test",
+      "chain of thought": "Oh no, I'm disappointed in myself. I need to figure out what went wrong. Maybe I didn't study enough or I didn't understand the material. I'll talk to my teacher and ask for their advice. I'll also see if I can get extra help from a tutor or classmate. I'm determined to improve my understanding and do better next time. I want to make my parents and teacher proud."
+    },
+    {
+      "event": "Dealing with a difficult classmate",
+      "chain of thought": "This is tough. I want everyone to get along and feel comfortable. Maybe I can talk to this classmate and see if I can understand their point of view. I'll try to be kind and understanding. I can also talk to a trusted teacher or friend about how to handle the situation. I'll try to find a way to resolve the conflict peacefully and keep the classroom environment positive."
+    },
+    {
+      "event": "Being rejected from a college or activity",
+      "chain of thought": "This is disappointing, but I know there are other opportunities out there. Maybe there are other colleges or activities that would be a better fit for me. I'll talk to my parents and guidance counselor for their support. I'll keep looking for options and won't give up. I'm determined to find a place where I can thrive."
+    },
+    {
+      "event": "Having to give a presentation",
+      "chain of thought": "I'm a little nervous about speaking in front of everyone, but I want to do a good job. I'll practice my presentation and ask for feedback from friends or family. I'll also try to stay calm and focus on the information I want to share. I want to be confident and clear, and I hope the audience finds my presentation interesting and informative."
+    }
+  ]
+}
+```

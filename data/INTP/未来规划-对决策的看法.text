@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP American high school student might approach "未来规划-对决策的看法" (future planning and decision-making) scenarios, along with examples of specific events:
+
+```json
+{
+  "domain": "Future Planning and Decision-Making",
+  "events": [
+    {
+      "event": "Choosing a College Major",
+      "chain of thought": "1. Research various fields, analyzing their strengths, weaknesses, and potential career paths. 2. Explore the logical and practical implications of each major, considering long-term career prospects and earning potential. 3. Assess my own interests and skills, identifying areas where I excel and could contribute meaningfully. 4. Consider the theoretical framework of each field, analyzing its internal consistency and potential for future advancements. 5. Feel overwhelmed by the sheer number of options, seeking to reduce complexity through a systematic approach. 6. Seek out mentors or professionals in different fields to gain insights and perspectives. 7. Ultimately, strive to choose a path that aligns with my intellectual curiosity and long-term goals, even if it's unconventional or less popular."
+    },
+    {
+      "event": "Deciding on a Summer Internship",
+      "chain of thought": "1. Analyze my existing skills and knowledge, identifying areas where I can develop and gain valuable experience. 2. Research different internship opportunities, evaluating the company's reputation, projects offered, and potential learning outcomes. 3. Consider the practical implications of each internship, such as location, schedule, and potential compensation. 4. Seek out information about the company's culture and values, ensuring alignment with my own. 5. Analyze the potential impact of the internship on my future career goals, considering how it could enhance my skillset and open doors. 6. Weigh the pros and cons of each opportunity, striving for a logical and well-informed decision. 7. Ultimately, choose the internship that offers the most compelling learning opportunities and potential for growth, even if it requires some sacrifices."
+    },
+    {
+      "event": "Dealing with Peer Pressure to Participate in a Popular Activity",
+      "chain of thought": "1. Analyze the underlying motivations and social dynamics behind the pressure to conform. 2. Consider the potential benefits and drawbacks of participating, weighing the social advantages against my personal interests and values. 3. Question the logic and efficiency of following the crowd, seeking to understand the underlying reasons for the activity's popularity. 4. Reflect on my own values and goals, ensuring that my actions align with my personal beliefs and aspirations. 5. Explore alternative activities that align more closely with my interests, even if they are less mainstream. 6. Communicate my decision to peers honestly and respectfully, explaining my reasoning and respecting their choices. 7. Ultimately, strive to be true to myself and make decisions that are consistent with my own values and aspirations, even if it means going against the flow."
+    },
+    {
+      "event": "Facing a Difficult Decision with Multiple Uncertain Outcomes",
+      "chain of thought": "1. Gather all available information, analyzing potential outcomes and their respective probabilities. 2. Develop a decision tree, mapping out different scenarios and their potential consequences. 3. Seek out expert opinions and insights to gain a broader understanding of the situation. 4. Consider the long-term implications of each choice, weighing the risks and rewards involved. 5. Feel uncomfortable with the inherent uncertainty, seeking to reduce ambiguity through meticulous analysis and planning. 6. Ultimately, make a decision that minimizes risk and maximizes the potential for a positive outcome, even if it's not perfect."
+    }
+  ]
+}
+```

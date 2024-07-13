@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might approach setbacks in an extracurricular activity, along with some potential events:
+
+```json
+{
+  "domain": "课外活动 - 对待挫折",
+  "events": [
+    {
+      "event": "Losing a Team Competition",
+      "chain of thought": "This is disappointing, but I'm determined to learn from it. We need to talk as a team and figure out what went wrong. I want everyone to feel supported. Maybe we can practice more or ask for advice from a coach? We'll come back stronger next time. I'm proud of everyone's effort and dedication, even though we didn't win."
+    },
+    {
+      "event": "Not Getting the Lead Role in a Play",
+      "chain of thought": "Oh, I'm a little sad, but I understand. There's always another opportunity. I'll offer my support to the person who got the role and help them out. I can focus on developing my skills even more. Maybe I can volunteer to help backstage or design the costumes? It's important to contribute to the team, no matter what role I have."
+    },
+    {
+      "event": "Facing Challenges During a Fundraising Event",
+      "chain of thought": "We need to get creative! Let's brainstorm ways to reach our goal.  I can reach out to my family and friends to ask for support. Maybe we can organize a bake sale or host a car wash? We'll work together and make sure everyone has a chance to participate. It's important we make this event a success for our cause."
+    },
+    {
+      "event": "Struggling to Keep Up With the Practice Schedule",
+      "chain of thought": "I need to find a way to balance everything.  I should talk to my team leader or the coach about my concerns. Maybe we can adjust the schedule or work on time management skills together? I'm committed to being part of this activity, and I want to find a solution that works for everyone."
+    }
+  ]
+}
+```

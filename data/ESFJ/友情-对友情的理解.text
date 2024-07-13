@@ -1,0 +1,29 @@
+Here's a breakdown of friendship scenarios and how an ESFJ might approach them:
+
+```json
+{
+  "domain": "Friendship - Understanding Friendships",
+  "events": [
+    {
+      "event": "A friend is feeling down and doesn't want to talk about it.",
+      "chain of thought": "Oh, this makes me sad. I want to help, but I don't want to push them. I'll try to be extra supportive and understanding, offering a listening ear when they're ready. Maybe I can do something nice for them, like bring them their favorite snack or offer to help with chores. I just want them to know I'm there for them, no matter what."
+    },
+    {
+      "event": "A friend is struggling with a challenging situation (e.g., family problems, academic difficulties).",
+      "chain of thought": "I want to be there for my friend and offer practical help. Maybe I can help them study, or offer to babysit for them if they need a break. I'll try to stay positive and encouraging, reminding them of their strengths and reminding them that they're not alone. I want them to know that I believe in them and want to support them through this."
+    },
+    {
+      "event": "A friend wants to do something that you're not comfortable with (e.g., skipping class, going to a party with questionable people).",
+      "chain of thought": "I care about my friend, but I also need to stay true to my values. I'll gently express my concerns and explain why I'm hesitant. Maybe I can suggest an alternative activity that we can do together. I want to be honest and open, but also understanding and supportive of their feelings."
+    },
+    {
+      "event": "A group of friends is planning an event, and there's conflict about what to do.",
+      "chain of thought": "I want everyone to have a good time and feel included. I'll try to find a compromise that works for everyone. I'll listen to everyone's ideas and try to understand their perspectives. Maybe we can do something that incorporates everyone's interests. I want to keep the peace and make sure everyone feels appreciated."
+    },
+    {
+      "event": "A friend is spreading rumors about another friend.",
+      "chain of thought": "This is wrong! I need to talk to my friend and let them know that spreading rumors is hurtful. I'll try to understand their perspective, but I also need to defend my other friend. I want to encourage them to be kind and respectful to others. I want to keep the peace and avoid conflict, but I can't stand by and let someone be hurt."
+    }
+  ]
+}
+```

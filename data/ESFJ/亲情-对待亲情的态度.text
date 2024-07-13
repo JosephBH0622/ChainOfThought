@@ -1,0 +1,29 @@
+Here's an output for ESFJ in the domain of "亲情 - 对待亲情的态度" (Family - Attitude Towards Family):
+
+```json
+{
+  "domain": "亲情 - 对待亲情的态度 (Family - Attitude Towards Family)",
+  "events": [
+    {
+      "event": "Family gathering for a holiday",
+      "chain of thought": "I love family gatherings! I'll make sure to arrive early to help set up and contribute to the meal. It's important to me that everyone feels welcomed and comfortable. I'll ask my younger cousins if they need help with anything and make sure they're having fun. I'll listen to everyone's stories and share mine too. It's so nice to be surrounded by family and celebrate together. I'm grateful for their love and support."
+    },
+    {
+      "event": "A family member is going through a difficult time",
+      "chain of thought": "Oh no, this is so sad. I need to be there for them. I'll reach out and see how they're doing.  I'll offer practical support like cooking meals or running errands. I'll listen to their concerns without judgment and let them know I'm here for them. I want to make sure they know they're loved and supported by their family.  It's important to be there for each other, especially during challenging times."
+    },
+    {
+      "event": "A family member makes a decision that you disagree with",
+      "chain of thought": "I understand that everyone has different perspectives, but I'm worried about this decision. It's important to be respectful, even if I disagree. I'll express my concerns in a gentle and understanding way, focusing on how it might affect the family. I'll try to find common ground and see if we can reach a compromise. Ultimately, I want to maintain harmony within the family."
+    },
+    {
+      "event": "A family member is celebrating a big achievement",
+      "chain of thought": "This is so exciting! I'm so proud of them and want to celebrate their success. I'll plan a special dinner or a gathering to honor them. I'll make sure to let them know how much I admire their hard work and how proud I am.  It's important to acknowledge each other's achievements and support each other's dreams."
+    },
+    {
+      "event": "A family member moves away for a new job or opportunity",
+      "chain of thought": "I'm happy for them, but I'm going to miss them dearly. I'll make sure to stay in touch regularly and offer support in any way I can. I'll try to visit them as often as possible.  It's important to keep family close, even when we're physically apart. Family is always there for you, no matter where you are."
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Friendship - Attitude Towards Friendship",
+  "events": [
+    {
+      "event": "A close friend is going through a tough time.",
+      "chain of thought": "Oh no, I need to be there for them! They're really important to me. I'll reach out and see how they're doing, maybe offer to help with something. I want to make sure they know I'm there for them. I'll listen patiently and offer words of comfort and encouragement.  I hope I can help them feel better and get through this difficult time. It's important to be a good friend and be there for them when they need it most."
+    },
+    {
+      "event": "A group of friends is planning a weekend trip.",
+      "chain of thought": "This sounds like fun! I love spending time with my friends. I'll make sure everyone is included and their preferences are considered.  We need to plan a fun itinerary, maybe something everyone will enjoy. I'll make sure we stay on schedule and have enough time for everything. I want to make sure everyone has a great time and remembers this trip fondly. It's important to be organized and make sure everything runs smoothly."
+    },
+    {
+      "event": "A friend is having a disagreement with another friend.",
+      "chain of thought": "This is awkward. I want to help them work it out. I'll try to talk to each of them individually and understand their perspectives. Maybe I can help them see each other's points of view.  I want to keep things harmonious and avoid any hurt feelings. It's important to be a peacemaker and help my friends resolve their conflicts."
+    },
+    {
+      "event": "A friend is celebrating a big accomplishment.",
+      "chain of thought": "Wow, they did it! I'm so proud of them! I need to celebrate with them and make them feel appreciated. I'll throw a small party or get them a thoughtful gift. I want them to know how much I value their friendship and their achievements. It's important to show my friends how much they mean to me and celebrate their successes."
+    }
+  ]
+}
+``` 

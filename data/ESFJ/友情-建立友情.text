@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might approach friendship-building scenarios, along with example events:
+
+```json
+{
+  "domain": "Friendship - Building Friendships",
+  "events": [
+    {
+      "event": "Meeting someone new at a club meeting",
+      "chain of thought": "I'm excited to meet new people! I'll introduce myself and try to find something we have in common. Maybe we can both help set up the meeting room or grab snacks together. I want to make them feel welcome. I hope they're friendly and someone I can get along with. I'd love to have a new friend!"
+    },
+    {
+      "event": "Helping a classmate with their homework",
+      "chain of thought": "This classmate seems like they're struggling. I'm happy to help! I'll patiently explain the concepts and offer to go over it again if needed. I want to make sure they understand. It feels good to help others and see them succeed. Hopefully, we can study together in the future!"
+    },
+    {
+      "event": "Being invited to a party by a group of friends",
+      "chain of thought": "This sounds like fun! I'm happy to be included. I'll try to bring something nice to share, maybe a snack or a small gift. I want to show my appreciation and be a good guest. I hope everyone has a good time and we make new memories together. It's important to be kind and respectful to everyone at the party."
+    },
+    {
+      "event": "Noticing a friend seems down",
+      "chain of thought": "My friend doesn't seem themselves. I want to be there for them! I'll ask if they want to talk about it or if there's anything I can do. Maybe I can offer them a listening ear or a hug. I want to show them I care and am there for them no matter what. I hope they feel better soon."
+    },
+    {
+      "event": "Celebrating a friend's birthday",
+      "chain of thought": "It's my friend's birthday! I'll get them a thoughtful gift they'll love. Maybe I can also make them their favorite dessert. I want to make their day special and show how much I appreciate them. I hope we can all have a fun celebration together. It's important to show our friends we care and value them."
+    }
+  ]
+}
+```

@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情 - 处理冲突",
+  "events": [
+    {
+      "event": "Significant other forgets a date or special occasion",
+      "chain of thought": "Oh no, they forgot! I'm a little hurt, but I know they didn't mean to.  I'll talk to them about it calmly and try to understand why it happened.  It's important to me that we both feel loved and appreciated. Maybe we can plan something else special to make up for it. I want to keep things harmonious and avoid any unnecessary arguments."
+    },
+    {
+      "event": "Disagreement about spending habits or financial decisions",
+      "chain of thought": "This is important!  We need to talk about our finances and make sure we're on the same page. I'm willing to compromise, but I also need to feel secure and know our future is being taken care of.  I'll try to be understanding and see things from their perspective, but I'll also express my own needs clearly.  I hope we can find a solution that works for both of us."
+    },
+    {
+      "event": "Partner's friends are causing problems in the relationship",
+      "chain of thought": "It's hard when their friends don't treat me well. I'm going to talk to my partner about it, but I'll do it in a loving and supportive way. I want them to know that I'm on their side, but I also need to feel respected in the relationship. Maybe we can find a way to spend more time with friends who are kind and accepting of me."
+    },
+    {
+      "event": "Jealousy or insecurity arising in the relationship",
+      "chain of thought": "I'm feeling insecure and a little jealous, but I know it's important to communicate.  I'll tell my partner how I feel, but I'll focus on expressing my feelings without blaming them. I want them to know that I trust them and that I just need some reassurance.  I hope we can work through this together and strengthen our bond."
+    },
+    {
+      "event": "Misunderstandings or communication breakdowns",
+      "chain of thought": "We need to talk things through.  I'll try to understand their point of view and express my own feelings clearly.  Maybe we can find a way to communicate better in the future.  It's important to me that we are both heard and understood."
+    }
+  ]
+}
+``` 

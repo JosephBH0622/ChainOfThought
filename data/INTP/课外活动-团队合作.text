@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP might approach extracurricular team activities, with a focus on their thought process:
+
+```json
+{
+  "domain": "Extracurricular Teamwork",
+  "events": [
+    {
+      "event": "Brainstorming for a school project",
+      "chain of thought": "1. Analyze the project requirements and objectives, breaking them down into smaller, manageable tasks. 2.  Consider different approaches and potential solutions, exploring both conventional and unconventional ideas. 3.  Seek to understand the underlying logic and principles behind each approach. 4.  Evaluate the efficiency and effectiveness of each strategy, prioritizing solutions with the strongest logical foundation. 5.  May feel impatient with brainstorming sessions that lack clear direction or focus. 6.  Might prefer to work independently or in small groups to develop ideas before presenting them to the larger team. 7.  Look for opportunities to contribute their unique insights and analytical skills. 8.  Value constructive criticism and feedback, focusing on improving the logical soundness and practical application of ideas."
+    },
+    {
+      "event": "Working on a team project with diverse personalities",
+      "chain of thought": "1.  Observe the team dynamics and identify individual strengths and weaknesses. 2.  Analyze how each team member's personality type might contribute to or hinder the project's success. 3.  Strategize how to best leverage each team member's unique skills and perspectives. 4.  May struggle with group dynamics that are driven by emotions or social pressures rather than logic and efficiency. 5.  Focus on clear communication and collaborative problem-solving to ensure everyone understands the project goals and responsibilities. 6.  Seek to build trust and respect among team members by demonstrating fairness and objectivity. 7.  Value intellectual stimulation and collaboration, particularly with individuals who share their passion for logic and analysis."
+    },
+    {
+      "event": "Dealing with conflict within the team",
+      "chain of thought": "1.  Analyze the root cause of the conflict, identifying the underlying issues and perspectives involved. 2.  Seek to understand the logical reasoning behind each team member's point of view, even if it differs from their own. 3.  Prioritize finding a solution that is both logically sound and fair to all parties involved. 4.  May struggle with emotional conflicts that are driven by personal feelings rather than objective facts. 5.  Focus on clear communication and open dialogue to resolve the conflict through a rational and constructive approach. 6.  Value honesty and integrity in conflict resolution, avoiding manipulative or deceptive tactics."
+    },
+    {
+      "event": "Presenting the team's work to others",
+      "chain of thought": "1.  Organize the presentation in a logical and structured manner, focusing on key points and supporting evidence. 2.  Analyze the audience and anticipate potential questions or concerns. 3.  Prepare clear and concise explanations, avoiding jargon or technical terms that might confuse the audience. 4.  May feel nervous or uncomfortable with public speaking, preferring to focus on the content of the presentation rather than the social aspects. 5.  Value feedback and constructive criticism, using it to refine the presentation and improve future communication."
+    }
+  ]
+}
+```

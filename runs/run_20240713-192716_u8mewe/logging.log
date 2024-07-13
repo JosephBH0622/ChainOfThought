@@ -1,0 +1,141 @@
+2024-07-13 19:28:07.601 | INFO     | agentscope.models:read_model_configs:192 - Load configs for model wrapper: gpt, gpt2, gemini_embedding, zhipuai_embedding, zhipuai_chat
+2024-07-13 19:28:07.609 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:396 - Init [monitor_metrics] as the monitor table
+2024-07-13 19:28:07.610 | DEBUG    | agentscope.utils.monitor:_create_monitor_table:397 - Init [monitor_metrics_quota_exceeded] as the monitor trigger
+2024-07-13 19:28:07.610 | DEBUG    | agentscope.utils.monitor:__init__:366 - SqliteMonitor initialization completed at [D:\Python_Projects\Common_test\workstation\runs\run_20240713-192716_u8mewe\agentscope.db]
+2024-07-13 19:28:07.619 | INFO     | agentscope.rag.knowledge_bank:__init__:48 - Loading configs from ./configs/knowledge.json
+2024-07-13 19:28:07.620 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:28:08.072 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:28:08.077 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:08.081 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:08.085 | INFO     | agentscope.utils.monitor:register:417 - Register metric [embedding-2.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:08.956 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\1
+2024-07-13 19:28:08.956 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:28:08.957 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:28:08.957 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 1 initialization completed!
+
+2024-07-13 19:28:08.957 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 1.
+2024-07-13 19:28:08.958 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:28:10.176 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\2
+2024-07-13 19:28:10.176 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:28:10.177 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:28:10.177 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 2 initialization completed!
+
+2024-07-13 19:28:10.177 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 2.
+2024-07-13 19:28:10.178 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_embedding]
+2024-07-13 19:28:33.713 | INFO     | agentscope.rag.llama_index_knowledge:_load_index:263 - index loaded from D:\Python_Projects\Common_test\workstation\runs\3
+2024-07-13 19:28:33.713 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:447 - similarity_top_k=5
+2024-07-13 19:28:33.713 | INFO     | agentscope.rag.llama_index_knowledge:_get_retriever:455 - retriever is ready.
+2024-07-13 19:28:33.713 | INFO     | agentscope.rag.llama_index_knowledge:_init_rag:245 - RAG with knowledge ids: 3 initialization completed!
+
+2024-07-13 19:28:33.713 | INFO     | agentscope.rag.knowledge_bank:add_data_as_knowledge:131 - data loaded for knowledge_id = 3.
+2024-07-13 19:28:33.714 | INFO     | agentscope.rag.knowledge_bank:_init_knowledge:65 - knowledge bank initialization completed.
+ 
+2024-07-13 19:28:33.714 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:34.160 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.call_counter] to SqliteMonitor with unit [times] and quota [None]
+2024-07-13 19:28:34.166 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.prompt_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:34.170 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.completion_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:34.174 | INFO     | agentscope.utils.monitor:register:417 - Register metric [glm-4.total_tokens] to SqliteMonitor with unit [token] and quota [None]
+2024-07-13 19:28:34.178 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:34.631 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 1.
+2024-07-13 19:28:34.631 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:35.079 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 2.
+2024-07-13 19:28:35.079 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:35.523 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:35.972 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:36.420 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:36.869 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:37.307 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:37.749 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:28:37.750 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:38.194 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:28:38.195 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:38.638 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:28:38.638 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+2024-07-13 19:28:39.081 | INFO     | agentscope.rag.knowledge_bank:get_knowledge:156 - knowledge bank loaded: 3.
+2024-07-13 19:28:39.082 | INFO     | agentscope.models.model:__init__:201 - Initialize model by configuration [zhipuai_chat]
+User: 怎么打老虎呢？
+2024-07-13 19:29:09.544 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+2024-07-13 19:29:09.544 | WARNING  | agentscope.message:__init__:150 - A new field `role` is newly added to the message. Please specify the role of the message. Currently we use a default "assistant" value.
+Clarification: {'isComplete': False, 'suggestions': 'To defeat a tiger, one must be as meticulous as the strategy used on Jingyang Ridge. You need to provide more context. Are you seeking advice for a literal hunt or a metaphorical challenge? Also, clarify the specifics of the situation to receive a more tailored response.'}
+2024-07-13 19:29:32.756 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (1/3):
+{
+    "text": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true, \n    \"Question subjective/objective type\": true, \n    \"Topic relevance\": true, \n    \"Search query\": \"打老虎的方法\"\n  },\n  \"Main Task 2\": {\n    \"Response\": \" Response_4: “这打老虎嘛，讲究的是武艺和胆识。当年我在景阳冈，空手就料理了一头。不过，具体的招式和技巧，咱俩关系铁，我也不是藏着掖着的人。但这个问题客观来说，可能还得从书上或是请教高人才能得到更全面的答案。咱可以先研究研究，改日我请你喝酒，边喝边聊这江湖中的奇闻轶事。”\",\n    \"Flag\": \"\"\n  }\n}\n``` \n\n根据用户提出的问题“怎么打老虎呢？”，以及提供的用户偏好话题，我们可以判断这是与用户偏好相关的话题，且问题较为主观。由于用户与你的关系级别是“亲密的朋友或亲戚”，因此可以深入讨论这个话题。在角色扮演中，作为武松，你会用你的经验和勇气来回答这个问题，同时也会提到你们之间的关系，表示愿意分享更多关于江湖的故事。此外，由于问题涉及一些专业技巧，你也会提到可能需要查阅书籍或请教高人来得到更全面的答案。",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Main Task 1": {
+            "Relationship level comparison": true,
+            "Question subjective/objective type": true,
+            "Topic relevance": true,
+            "Search query": "打老虎的方法"
+        },
+        "Main Task 2": {
+            "Response": " Response_4: “这打老虎嘛，讲究的是武艺和胆识。当年我在景阳冈，空手就料理了一头。不过，具体的招式和技巧，咱俩关系铁，我也不是藏着掖着的人。但这个问题客观来说，可能还得从书上或是请教高人才能得到更全面的答案。咱可以先研究研究，改日我请你喝酒，边喝边聊这江湖中的奇闻轶事。”",
+            "Flag": ""
+        }
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720870173,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true, \n    \"Question subjective/objective type\": true, \n    \"Topic relevance\": true, \n    \"Search query\": \"打老虎的方法\"\n  },\n  \"Main Task 2\": {\n    \"Response\": \" Response_4: “这打老虎嘛，讲究的是武艺和胆识。当年我在景阳冈，空手就料理了一头。不过，具体的招式和技巧，咱俩关系铁，我也不是藏着掖着的人。但这个问题客观来说，可能还得从书上或是请教高人才能得到更全面的答案。咱可以先研究研究，改日我请你喝酒，边喝边聊这江湖中的奇闻轶事。”\",\n    \"Flag\": \"\"\n  }\n}\n``` \n\n根据用户提出的问题“怎么打老虎呢？”，以及提供的用户偏好话题，我们可以判断这是与用户偏好相关的话题，且问题较为主观。由于用户与你的关系级别是“亲密的朋友或亲戚”，因此可以深入讨论这个话题。在角色扮演中，作为武松，你会用你的经验和勇气来回答这个问题，同时也会提到你们之间的关系，表示愿意分享更多关于江湖的故事。此外，由于问题涉及一些专业技巧，你也会提到可能需要查阅书籍或请教高人来得到更全面的答案。",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "2024071319291998b7f6c9153f479cab647aaf7592ceeb",
+        "id": "2024071319291998b7f6c9153f479cab647aaf7592ceeb",
+        "usage": {
+            "prompt_tokens": 2129,
+            "completion_tokens": 279,
+            "total_tokens": 2408
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.
+2024-07-13 19:29:47.878 | WARNING  | agentscope.models.model:checking_wrapper:129 - Fail to parse response (2/3):
+{
+    "text": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true, \n    \"Question subjective/objective type\": true, \n    \"Topic relevance\": true, \n    \"Search query\": \"打老虎的方法\"\n  },\n  \"Main Task 2\": {\n    \"Response\": \"Response_4\", \n    \"Flag\": \"\"\n  }\n}\n``` \n\n**Explanation for Main Task 1:**\n- **Relationship level comparison**: The user's friendliness is at level 6, indicating a close friend or intimate relative. The topic of \"打老虎\" (killing a tiger) belongs to the depth that can be discussed with a close friend or intimate relative, so the relationship level of the topic depth is not greater than the relationship level of the user's friendliness.\n- **Question subjective/objective type**: The question \"怎么打老虎呢？\" (How to fight a tiger?) is somewhat subjective, as it can involve personal experiences or opinions, thus the type is subjective.\n- **Topic relevance**: The user's query is related to \"打老虎\" (killing a tiger), which is one of the preferred topics.\n- **Search query**: In case more information is needed, a suitable search query would be \"打老虎的方法\" (methods to kill a tiger).\n\n**Explanation for Main Task 2:**\n- Given that the relationship level comparison is true, the topic relevance is true, and the question is subjective, the judgment process to follow is \"Response_4\". This means the character Wu Song, as a close friend or relative, will provide insights on the user's request in a subjective manner, possibly sharing personal experiences or stories related to killing a tiger.",
+    "embedding": null,
+    "image_urls": null,
+    "parsed": {
+        "Main Task 1": {
+            "Relationship level comparison": true,
+            "Question subjective/objective type": true,
+            "Topic relevance": true,
+            "Search query": "打老虎的方法"
+        },
+        "Main Task 2": {
+            "Response": "Response_4",
+            "Flag": ""
+        }
+    },
+    "raw": {
+        "model": "glm-4",
+        "created": 1720870188,
+        "choices": [
+            {
+                "index": 0,
+                "finish_reason": "stop",
+                "message": {
+                    "content": "```json\n{\n  \"Main Task 1\": {\n    \"Relationship level comparison\": true, \n    \"Question subjective/objective type\": true, \n    \"Topic relevance\": true, \n    \"Search query\": \"打老虎的方法\"\n  },\n  \"Main Task 2\": {\n    \"Response\": \"Response_4\", \n    \"Flag\": \"\"\n  }\n}\n``` \n\n**Explanation for Main Task 1:**\n- **Relationship level comparison**: The user's friendliness is at level 6, indicating a close friend or intimate relative. The topic of \"打老虎\" (killing a tiger) belongs to the depth that can be discussed with a close friend or intimate relative, so the relationship level of the topic depth is not greater than the relationship level of the user's friendliness.\n- **Question subjective/objective type**: The question \"怎么打老虎呢？\" (How to fight a tiger?) is somewhat subjective, as it can involve personal experiences or opinions, thus the type is subjective.\n- **Topic relevance**: The user's query is related to \"打老虎\" (killing a tiger), which is one of the preferred topics.\n- **Search query**: In case more information is needed, a suitable search query would be \"打老虎的方法\" (methods to kill a tiger).\n\n**Explanation for Main Task 2:**\n- Given that the relationship level comparison is true, the topic relevance is true, and the question is subjective, the judgment process to follow is \"Response_4\". This means the character Wu Song, as a close friend or relative, will provide insights on the user's request in a subjective manner, possibly sharing personal experiences or stories related to killing a tiger.",
+                    "role": "assistant",
+                    "tool_calls": null
+                }
+            }
+        ],
+        "request_id": "20240713192935044021ea23f849b08db4f0746b402f0d",
+        "id": "20240713192935044021ea23f849b08db4f0746b402f0d",
+        "usage": {
+            "prompt_tokens": 2129,
+            "completion_tokens": 350,
+            "total_tokens": 2479
+        }
+    }
+}.
+RequiredFieldNotFoundError: RequiredFieldNotFoundError: Missing required fields Response and Flag in the JSON dictionary object.

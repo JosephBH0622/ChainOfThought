@@ -1,0 +1,19 @@
+```json
+{
+  "domain": "课外活动-风险承受力 (Extracurricular Activities - Risk Tolerance)",
+  "events": [
+    {
+      "event": "Joining a new club or team that involves a challenging skill (e.g., debate, coding, sports)",
+      "chain of thought": "1. **Analyze the potential benefits and risks.** What are the skills I can learn? How much time commitment is required? What are the chances of success? 2. **Research the club/team thoroughly.** Look for information about the group's past performance, coaching style, and overall culture. 3. **Consider my existing skills and strengths.**  How does this align with my existing knowledge and interests?  4. **Evaluate my ability to handle failure.** Am I comfortable with potentially failing and learning from mistakes? 5. **Assess the level of risk.** Is this a safe and controlled environment for learning?  6. **Balance the desire to learn with the potential time commitment.** Will joining this club impact my other commitments? 7. **Consider the social aspects.** Do I have any friends in this club? Will I be comfortable interacting with new people? 8. **Ultimately, make a decision based on a logical analysis of the pros and cons.** If the potential benefits outweigh the risks and the activity aligns with my interests, I'm more likely to join."
+    },
+    {
+      "event": "Volunteering for a project that involves a lot of uncertainty (e.g., fundraising, organizing an event)",
+      "chain of thought": "1. **Evaluate the project's goals and objectives.** What problem does it aim to solve? What are the potential outcomes? 2. **Analyze the risks and challenges.** What are the potential obstacles? How likely are they to occur? 3. **Assess my skills and resources.** Do I have the skills and knowledge needed to contribute effectively?  4. **Consider the potential for learning and growth.** What new skills can I develop? What opportunities for networking and leadership can I take advantage of? 5. **Evaluate the time commitment.** How much time can I realistically dedicate to this project? 6. **Weigh the benefits against the risks.** Is the potential impact on the community worth the effort and uncertainty? 7. **Consider the potential impact on my academic commitments.**  Will this project affect my schoolwork? 8. **Ultimately, decide based on a logical assessment of the risks and potential rewards.** If the project aligns with my values and I can contribute effectively, I'm more likely to volunteer."
+    },
+    {
+      "event": "Participating in a competition that involves public speaking or presenting (e.g., science fair, debate, public speaking contest)",
+      "chain of thought": "1. **Analyze the competition rules and requirements.** What are the expectations for the presentation? What are the criteria for judging? 2. **Assess my strengths and weaknesses.**  How comfortable am I with public speaking? What are my areas of expertise?  3. **Consider the potential impact on my social anxiety.** How much anxiety will I experience? How can I manage it? 4. **Evaluate the potential benefits.**  What skills can I develop? What opportunities for networking and exposure can I gain? 5. **Consider the time commitment.** How much preparation is required? 6. **Weigh the risks and rewards.**  Is the potential for success worth the effort and potential discomfort? 7. **Practice thoroughly.**  Rehearse my presentation multiple times and seek feedback from others. 8. **Ultimately, decide based on a logical assessment of my preparedness and the potential benefits.** If I can adequately prepare and believe in my ability to perform well, I'm more likely to participate."
+    }
+  ]
+}
+``` 

@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ high school student might think about "亲情 - 承担责任" situations, along with some real-life event examples:
+
+```json
+{
+  "domain": "亲情 - 承担责任 (Family - Responsibility)",
+  "events": [
+    {
+      "event": "Sibling needs help with college applications",
+      "chain of thought": "My sibling is stressing about college applications. I know how important this is, and I want to help them succeed. I'll offer to proofread their essays, brainstorm ideas with them, and even help them research colleges. I'll be patient and supportive throughout the process. My family is important, and I want to be there for my sibling, even if it means putting in extra effort.  I'll make sure we stay on top of deadlines and celebrate their accomplishments along the way. Hopefully, my help will make them feel loved and supported!"
+    },
+    {
+      "event": "Grandparent needs help with errands and chores",
+      "chain of thought": "My grandparents are getting older, and I want to make sure they feel cared for.  I'll offer to help them with errands, grocery shopping, or even just running a few chores around their house.  I'll ask them what they need and try my best to accommodate their requests.  It's important for me to show them how much I love and appreciate them.  A little bit of help goes a long way, and I want to make their lives a bit easier."
+    },
+    {
+      "event": "Family member facing a difficult time (job loss, illness, etc.)",
+      "chain of thought": "I'm so sorry to hear about what [family member] is going through. I want to be there for them in any way I can. I'll offer a listening ear, provide emotional support, and offer practical help with tasks like childcare or errands.  I'll check in regularly and let them know I'm thinking of them.  Family is important, and I want to be a source of strength and comfort during tough times."
+    },
+    {
+      "event": "Taking on extra responsibility at home (babysitting, helping with younger siblings)",
+      "chain of thought": "My parents are busy, and I want to help out where I can.  I'm happy to take on some extra responsibilities around the house like babysitting my younger siblings or helping with chores. I'll make sure things get done on time and to the best of my ability.  I want my parents to know that I'm a responsible member of the family and that I can be trusted.  I'll also try to find time for fun activities with my siblings so we can all bond as a family."
+    }
+  ]
+}
+```

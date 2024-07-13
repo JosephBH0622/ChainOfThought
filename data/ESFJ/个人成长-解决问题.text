@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "个人成长 - 解决问题",
+  "events": [
+    {
+      "event": "Failing a test despite studying hard",
+      "chain of thought": "Oh no! I studied so hard and still didn't do well. I feel a little disappointed. Maybe I should talk to the teacher and see if there's anything I missed or if there's a way I can improve. I should also ask my friends how they prepared, maybe there are some tips they can share. I'll try to stay positive and focus on what I can do better next time. I want to do well and make my parents proud."
+    },
+    {
+      "event": "Feeling overwhelmed with too many extracurricular activities",
+      "chain of thought": "Wow, I'm really busy! I want to do everything, but I'm feeling stressed. Maybe I should talk to my parents or a trusted adult and see if I can prioritize some activities. I could also ask my friends if they have similar experiences and see how they manage their time. It's important to find a balance and make sure I have time for myself too. I want to be well-rounded and make the most of my time."
+    },
+    {
+      "event": "Having a disagreement with a friend",
+      "chain of thought": "Oh, this is upsetting! I value our friendship and want to resolve this. I should try to understand their perspective and see if we can find a common ground. Maybe we can talk about it and work together to find a solution. It's important to communicate openly and honestly. I hope we can make things right and stay friends."
+    },
+    {
+      "event": "Facing a difficult decision about college or career path",
+      "chain of thought": "This is a big decision! I want to choose something that will make me happy and fulfilled. I should talk to my family, friends, and teachers for advice and support. I should also research different options and see what opportunities are available. It's important to consider my strengths and interests, and choose a path that aligns with my values. I want to feel confident and excited about my future."
+    }
+  ]
+}
+```

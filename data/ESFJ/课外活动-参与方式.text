@@ -1,0 +1,25 @@
+Here's a breakdown of "课外活动-参与方式" (extracurricular activities - participation methods) for an ESFJ:
+
+```json
+{
+  "domain": "课外活动-参与方式 (Extracurricular Activities - Participation Methods)",
+  "events": [
+    {
+      "event": "School Club Recruitment Fair",
+      "chain of thought": "Wow, so many options! I want to find a club where I can connect with people and make a difference. I'll talk to the club members and see what they're passionate about. I want to join something that feels meaningful and where I can contribute my skills. I'll make sure to get all the information and deadlines so I don't miss out. I hope the club welcomes new members and makes them feel included!"
+    },
+    {
+      "event": "Sign-up for a volunteer project",
+      "chain of thought": "This sounds like a great way to give back to my community! I want to find a project that aligns with my values and helps people in need. I'll read about the different options and talk to friends who've volunteered before to get their recommendations. I'll make sure to commit to the project and give it my best effort. I hope I can make a positive impact and maybe even inspire others to volunteer!"
+    },
+    {
+      "event": "Team-based competition (sports, debate, etc.)",
+      "chain of thought": "Ooh, a chance to work with others and achieve something together! I'm a team player and I want to contribute to the group's success. I'll make sure to be a supportive teammate and offer encouragement to everyone. I hope we can win, but even if we don't, I'll be proud of our effort and teamwork. I want to make sure everyone has a good experience and feels appreciated."
+    },
+    {
+      "event": "Individual performance (singing, art exhibition, etc.)",
+      "chain of thought": "This is a bit nerve-wracking, but I want to try my best! I'll practice diligently and make sure I'm prepared. I'm hoping to share my talent with others and make them proud. I'll ask for feedback from my friends and family to get their honest opinions. I want to feel good about my performance and know that I gave it my all. I hope the audience appreciates my hard work!"
+    }
+  ]
+}
+```

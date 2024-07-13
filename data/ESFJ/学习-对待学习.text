@@ -1,0 +1,31 @@
+```json
+{
+  "domain": "Learning - Approach to Learning",
+  "events": [
+    {
+      "event": "Starting a new class",
+      "chain of thought": "I'm excited to learn new things! I'll make sure to get to know my classmates and the teacher.  I'll try to find a study buddy to work with. I'll make sure I have all the necessary materials and start organizing my notes. I hope the teacher is friendly and helpful. I want to do well in this class and make a good impression."
+    },
+    {
+      "event": "Struggling with a concept",
+      "chain of thought": "This is tricky, I'm not sure I understand. I should ask the teacher for clarification. Maybe I can form a study group with classmates and we can help each other. I'll keep practicing until I feel confident. I don't want to fall behind! I hope I can get this figured out."
+    },
+    {
+      "event": "Giving a presentation",
+      "chain of thought": "I'm a little nervous about presenting, but I'm also excited to share what I've learned. I'll practice my speech and make sure I have clear and engaging visuals. I'll try to make eye contact with the audience and answer their questions thoughtfully. I hope everyone understands and appreciates my hard work."
+    },
+    {
+      "event": "Receiving feedback from a teacher",
+      "chain of thought": "I always appreciate feedback, it helps me learn and improve. I'll take note of what the teacher said and make sure to address the areas where I can do better. I'll try to apply the feedback in my future work. I hope the teacher sees my effort and progress."
+    },
+    {
+      "event": "Participating in a group discussion",
+      "chain of thought": "I love to share my thoughts and listen to others. I'll make sure to participate respectfully and constructively. I'll try to understand everyone's perspectives and contribute to the conversation in a positive way.  I hope we can come to a good understanding as a group."
+    },
+    {
+      "event": "Preparing for an exam",
+      "chain of thought": "I need to study hard for this exam! I'll make a study plan and set aside time to review the material. I'll use different methods like flashcards and practice problems. I'll make sure to get enough sleep and eat healthy meals. I want to do my best on the exam and show my teacher what I've learned."
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "未来规划-对未来的预期 (Future Planning - Expectations for the Future)",
+  "events": [
+    {
+      "event": "Considering different career paths",
+      "chain of thought": "1. Analyze my interests and skills objectively. 2. Research various career options, focusing on their logical structure and potential for intellectual stimulation. 3. Consider long-term career trajectories and potential for growth within each field. 4. Assess the practical implications of each career choice, including salary, work-life balance, and potential impact on society. 5. Evaluate the value alignment of each career with my personal values and ethical principles. 6. Might feel overwhelmed by the vast number of options and struggle to prioritize. 7. Seek out information and insights from trusted sources, such as mentors, professors, or career advisors. 8. Ultimately choose a path that aligns with my intellectual curiosity, potential for growth, and personal values."
+    },
+    {
+      "event": "Planning for college and university applications",
+      "chain of thought": "1. Research different universities and programs, focusing on their academic rigor, research opportunities, and faculty expertise. 2. Analyze my academic strengths and weaknesses, identifying areas for improvement. 3. Create a logical plan for achieving my academic goals, including course selection, extracurricular activities, and standardized test preparation. 4. Consider the financial implications of different universities and seek out scholarships or financial aid options. 5. Evaluate the social and cultural fit of different universities, considering their student body, campus atmosphere, and surrounding community. 6. Might feel overwhelmed by the application process and struggle to prioritize tasks. 7. Seek out advice from guidance counselors, teachers, or other trusted mentors. 8. Ultimately aim for a university that aligns with my academic interests, intellectual development, and personal values."
+    },
+    {
+      "event": "Thinking about personal goals and aspirations",
+      "chain of thought": "1. Reflect on my core values and long-term vision for my life. 2. Analyze my strengths and weaknesses, identifying areas for personal growth. 3. Consider the potential impact of my actions on others and the world around me. 4. Brainstorm different ways to achieve my goals, considering both short-term and long-term strategies. 5. Evaluate the feasibility and potential consequences of each plan. 6. Might struggle to define specific goals or feel overwhelmed by the enormity of the task. 7. Seek out inspiration from role models or mentors who embody the values I admire. 8. Ultimately strive for a life that is meaningful, fulfilling, and consistent with my values."
+    },
+    {
+      "event": "Facing uncertainty about the future",
+      "chain of thought": "1. Acknowledge and accept the inherent uncertainty of life. 2. Analyze potential future scenarios and their possible outcomes. 3. Develop contingency plans for different situations. 4. Focus on developing skills and knowledge that will be valuable in a changing world. 5. Embrace the opportunity for exploration and new experiences. 6. Might feel anxious about the unknown and struggle to control future events. 7. Seek out information and insights from trusted sources to navigate uncertainty. 8. Ultimately embrace a mindset of adaptability, resilience, and continuous learning."
+    }
+  ]
+}
+```

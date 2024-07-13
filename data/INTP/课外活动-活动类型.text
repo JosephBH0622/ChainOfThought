@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-活动类型",
+  "events": [
+    {
+      "event": "Being asked to lead a group project for a school club",
+      "chain of thought": "1. Analyze the project goals and objectives. 2. Identify the strengths and weaknesses of each team member. 3. Devise a logical and efficient plan for achieving the project goals, prioritizing efficiency and effectiveness. 4. Delegate tasks based on individual skills and interests. 5.  Embrace the intellectual challenge of strategizing and optimizing the project process. 6.  Seek to understand the motivations and perspectives of each team member to foster collaboration. 7.  Feel a sense of responsibility for the success of the project and the team's overall learning experience. 8.  Potential for frustration if team members struggle to understand the logic behind the plan or fail to adhere to established processes."
+    },
+    {
+      "event": "Attending a debate club meeting",
+      "chain of thought": "1.  Analyze the topic of the debate, seeking to understand the logical arguments for both sides. 2.  Research and gather information to support a well-reasoned perspective. 3.  Develop a strategy for presenting arguments in a clear and concise manner, focusing on logic and evidence. 4.  Enjoy the intellectual challenge of engaging with opposing viewpoints and exploring different perspectives. 5.  Potential for frustration if arguments are based on emotion or personal opinions rather than logic and evidence. 6.  Find satisfaction in engaging in intellectually stimulating discussions with like-minded individuals." 
+    },
+    {
+      "event": "Joining a science club and participating in a science fair",
+      "chain of thought": "1.  Excited by the opportunity to explore scientific concepts and conduct experiments. 2.  Seek to understand the underlying principles and mechanisms of the chosen scientific topic. 3.  Develop a logical and systematic approach to research and experimentation. 4.  Embrace the challenge of analyzing data and drawing conclusions based on evidence. 5.  Potential for frustration if the experiment doesn't yield the expected results or if there are technical difficulties. 6.  Find satisfaction in the process of discovery and the application of logical reasoning to solve problems."
+    },
+    {
+      "event": "Being asked to give a presentation on a topic of interest",
+      "chain of thought": "1.  Analyze the audience and their potential interests in the topic. 2.  Research and organize information in a logical and coherent manner, prioritizing clarity and comprehensiveness. 3.  Develop a clear and concise presentation structure, using visual aids to enhance understanding. 4.  Practice the presentation to ensure smooth delivery and effective communication of key points. 5.  Potential for anxiety regarding public speaking, but strive to maintain composure and focus on conveying information effectively. 6.  Find satisfaction in sharing knowledge and insights with others, fostering intellectual engagement."
+    },
+    {
+      "event": "Being part of a school play or musical",
+      "chain of thought": "1.  Analyze the script or musical score, understanding the plot, characters, and themes. 2.  Focus on the logical progression of the story and the motivations behind characters' actions. 3.  Potential for struggle with expressing emotions and understanding social dynamics. 4.  Enjoy the challenge of memorizing lines and developing a believable character portrayal. 5.  Find satisfaction in contributing to the artistic process and the collaborative effort of creating a performance."
+    }
+  ]
+}
+```

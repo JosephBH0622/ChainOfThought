@@ -1,0 +1,29 @@
+Here's a possible output based on your instructions:
+
+```json
+{
+  "domain": "课外活动 - 活动类型 (Extracurricular Activities - Activity Types)",
+  "events": [
+    {
+      "event": "School Dance",
+      "chain of thought": "A school dance! I'm so excited! I can't wait to see everyone dressed up and having fun. I'll make sure to talk to everyone and make sure they're having a good time. I might even help decorate the gym or plan some fun activities. I hope everyone enjoys it and has a memorable night.  I want to make sure everyone feels included and welcome."
+    },
+    {
+      "event": "Sports Team Tryouts",
+      "chain of thought": "This is a bit nerve-wracking, but I'm going to give it my best shot!  I'll make sure to practice beforehand and show everyone I'm dedicated and a team player.  I'll be supportive of everyone trying out, even if it's stressful. I hope I make the team, but even if I don't, I'll be there to cheer everyone on.  I want to support my friends and be part of the team spirit."
+    },
+    {
+      "event": "Volunteer Event for a Local Charity",
+      "chain of thought": "This is so important!  I love helping others, and this is a great opportunity to give back. I'll make sure to be a good listener and offer whatever help is needed. I hope we can make a real difference and bring some joy to the people we're helping. I want to be a part of something meaningful."
+    },
+    {
+      "event": "School Play Auditions",
+      "chain of thought": "I'm a bit nervous about auditions, but I'm excited for the opportunity to be involved in the play. I'll make sure to practice my lines and put in the effort.  I'll support everyone auditioning and hope they get the parts they want. It would be so much fun to work together and put on a great show for everyone to enjoy. I want everyone to feel proud of our hard work."
+    },
+    {
+      "event": "School Club Meeting",
+      "chain of thought": "Club meetings are a great way to connect with people who share my interests.  I'll make sure to arrive on time and participate actively. I hope we can come up with fun and interesting activities for the club. I want to be a positive influence and contribute to the success of the club."
+    }
+  ]
+}
+```

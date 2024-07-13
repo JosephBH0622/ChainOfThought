@@ -1,0 +1,25 @@
+Here's a breakdown of how an INTP American high school student might think about "课外活动-活动内容" (extracurricular activities) scenarios:
+
+```json
+{
+  "domain": "Extracurricular Activities",
+  "events": [
+    {
+      "event": "Choosing an extracurricular activity",
+      "chain of thought": "1. Analyze my interests and skills. Which ones align with my strengths and potential for growth? 2. Research different activities and their requirements.  I need to understand the rules, commitment level, and potential benefits. 3. Consider the practical aspects: time commitment, transportation, and potential conflicts with other activities. 4. Assess the intellectual challenge and learning opportunities. Does this activity stimulate my curiosity and analytical mind? 5. Seek out activities that allow for independent thought and problem-solving. 6.  Evaluate the potential for contributing something unique or insightful. 7.  Ultimately, I want to find an activity that fosters intellectual growth, challenges me, and allows me to learn new things."
+    },
+    {
+      "event": "Participating in a group project for an extracurricular club",
+      "chain of thought": "1. Identify the goals and objectives of the project. What are we trying to achieve, and how can we measure success? 2. Analyze the strengths and weaknesses of the group members. How can we best leverage each person's talents? 3.  Develop a logical plan and timeline for the project. This should include clear roles, deadlines, and milestones. 4.  Focus on efficiency and effectiveness in our approach.  5.  Contribute my unique insights and analytical skills to the project. 6.  Offer constructive criticism and solutions based on logic and data. 7.  Be open to feedback and revisions, but prioritize logical reasoning over emotional appeals. 8.  Ultimately, I want to see the project succeed through careful planning, efficient execution, and a collaborative approach."
+    },
+    {
+      "event": "Dealing with conflict within an extracurricular group",
+      "chain of thought": "1.  Analyze the root cause of the conflict. What are the underlying issues and perspectives involved? 2.  Consider multiple viewpoints and potential solutions. 3.  Seek to resolve the conflict through logical reasoning and compromise. 4.  Avoid emotional responses and focus on finding a solution that benefits the entire group. 5.  Be willing to acknowledge my own potential contributions to the conflict and adjust my perspective accordingly. 6.  Prioritize the well-being and success of the group as a whole. 7.  If necessary, seek mediation from a trusted individual who can help facilitate a rational discussion. 8.  Ultimately, I want to maintain a positive and productive environment for everyone involved."
+    },
+    {
+      "event": "Presenting a project or idea to the club",
+      "chain of thought": "1.  Organize my thoughts logically and concisely. What are the key points I need to convey? 2.  Develop a clear and compelling presentation style. 3.  Use visuals and data to support my arguments.  4.  Anticipate questions and prepare logical responses.  5.  Focus on the practicality and benefits of my idea.  6.  Remain calm and confident, even if I'm nervous.  7.  Be open to constructive criticism and feedback. 8.  Ultimately, I want to convey my ideas clearly and effectively, leaving the audience with a strong understanding of my reasoning and potential impact."
+    }
+  ]
+}
+```

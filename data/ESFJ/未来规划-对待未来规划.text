@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "未来规划 - 对待未来规划",
+  "events": [
+    {
+      "event": "College application season begins.",
+      "chain of thought": "Wow, it's already time to apply to college! I need to start thinking about my future. My parents want me to consider their alma mater, but I want to make sure I choose the right place for me. What kind of programs do they offer? Do they have a strong sense of community? I'll talk to my guidance counselor and maybe visit a few campuses. It's important to find a place that feels supportive and welcoming. I'll also think about my career goals and how my chosen school can help me reach them. I want to make my family proud and find a path that makes me happy!"
+    },
+    {
+      "event": "A close friend announces their plans to travel the world after graduation.",
+      "chain of thought": "That's so exciting for them!  I'm happy they're following their dreams. I love to travel too, but I'm not sure I'm ready for such a big adventure right now. I'd want to make sure I'm prepared financially and emotionally. I'll definitely ask them all about it and maybe get some travel tips.  It's inspiring to hear about their plans and makes me think about my own goals. I wonder if I could see myself doing something like that in the future? It's good to think about the possibilities!"
+    },
+    {
+      "event": "A classmate expresses anxieties about their future career path.",
+      "chain of thought": "I'm so sorry to hear they're feeling stressed. I know how important it is to find your purpose. I'll offer to help them explore different options. Maybe we can research different career fields together. I'll encourage them to talk to their parents, teachers, and counselors. It's important to have a support system during these times. I want them to know that they're not alone and that I'm here for them. Maybe sharing stories about my own aspirations can help them feel more confident!"
+    },
+    {
+      "event": "A family member suggests a career path that feels unappealing.",
+      "chain of thought": "I appreciate their concern, but I need to choose something that excites me. I'll respectfully explain that I'm exploring different options. I want to find a career that aligns with my interests and skills. I'll explain how I'm planning to research and investigate various paths. It's important to find something that I'm passionate about. I'm sure they'll understand and support me in finding my own way."
+    },
+    {
+      "event": "A college acceptance letter arrives, but the school isn't a top choice.",
+      "chain of thought": "It's nice to get accepted, but this isn't the school I had my heart set on. I'll still thank them for the opportunity and consider their offer carefully. However, I need to make sure I go somewhere that feels right for me. I'll talk to my parents and counselor about my options.  It's important to be honest with myself and make the best decision for my future.  I'll trust my gut feeling and choose the path that feels most aligned with my goals."
+    }
+  ]
+}
+```

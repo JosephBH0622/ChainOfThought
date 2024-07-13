@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about maintaining friendships, broken down by common scenarios:
+
+```json
+{
+  "domain": "Friendship Maintenance",
+  "events": [
+    {
+      "event": "A friend is struggling with a personal problem (e.g., family issues, academic stress)",
+      "chain of thought": "1. Analyze the situation logically to understand the root causes of the problem. 2. Research potential solutions or resources that might help. 3. Consider how to approach the conversation with the friend in a way that's both supportive and objective. 4.  Offer practical advice or strategies rather than emotional support (which might feel awkward). 5.  Be patient and understanding, recognizing that emotions might cloud their judgment. 6.  Ensure that the friend feels heard and validated, but avoid overly emotional responses. 7.  Focus on helping them develop a logical plan to address the issue, emphasizing practical steps and solutions."
+    },
+    {
+      "event": "A friend starts acting differently or distancing themselves",
+      "chain of thought": "1. Analyze the friend's behavior objectively, looking for patterns or changes in communication. 2. Consider possible explanations for the change in behavior (e.g., personal issues, stress, new interests). 3.  Avoid jumping to conclusions or making assumptions. 4.  If unsure, gather more information through observation or indirect questioning. 5.  If the distance is concerning, initiate a conversation to understand the situation better. 6.  Focus on clear and direct communication to avoid misunderstandings. 7.  Adapt to the friend's needs and respect their boundaries, even if it's difficult to understand."
+    },
+    {
+      "event": "A friend invites you to an event that doesn't align with your interests (e.g., a party, a sporting event)",
+      "chain of thought": "1. Analyze the potential benefits of attending the event, considering whether it offers any opportunity for personal growth or intellectual stimulation. 2. Weigh the potential downsides, such as the possibility of discomfort or boredom. 3.  Consider the impact on the friendship of declining the invitation. 4.  If the event is truly not something you're interested in, explain your reasons clearly and respectfully. 5.  Suggest an alternative activity that aligns with both your interests and those of your friend. 6.  Prioritize quality time with friends over forced social engagement."
+    },
+    {
+      "event": "Disagreements arise with a friend (e.g., differing opinions, values, or approaches)",
+      "chain of thought": "1. Analyze the disagreement objectively, identifying the core points of contention. 2.  Consider the other person's perspective and try to understand their reasoning. 3.  Avoid getting emotionally involved in the argument. 4.  Focus on finding a logical solution or compromise that respects both perspectives. 5.  Communicate clearly and directly, avoiding emotionally charged language. 6.  Be willing to accept differences of opinion and acknowledge the validity of other perspectives. 7.  Strive to maintain a respectful and productive dialogue, even in the face of disagreement."
+    },
+    {
+      "event": "A friend shares a personal secret that makes you uncomfortable",
+      "chain of thought": "1. Analyze the situation to understand the friend's intentions and the potential implications of the secret. 2.  Consider whether disclosing the information is necessary or ethical. 3.  If you're uncomfortable, explain your reservations clearly and respectfully, without judgment. 4.  Offer your support in a way that aligns with your values, prioritizing your friend's well-being. 5.  Respect their confidentiality, but also recognize your own boundaries and limits."
+    }
+  ]
+}
+```

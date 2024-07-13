@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might think about "Learning - Learning Attitudes" scenarios:
+
+```json
+{
+  "domain": "Learning - Learning Attitudes",
+  "events": [
+    {
+      "event": "Teacher assigns a group project with a lot of freedom",
+      "chain of thought": "This is exciting! I love working with others and brainstorming ideas. I'll want to make sure everyone feels heard and we're all on the same page. We'll need a good plan and schedule to stay organized. I'll probably volunteer to take on some of the more practical tasks. It's important to do a good job and impress the teacher. I'll probably also make sure everyone's doing okay and offer support if anyone struggles."
+    },
+    {
+      "event": "Teacher gives a surprise quiz on material covered last week",
+      "chain of thought": "Oh no! I should have studied more. I'll try my best to remember what I can. Maybe I can ask a friend for help. It's important to do my best even though I wasn't prepared. I'll make sure to study harder for the next quiz and make sure I understand the material."
+    },
+    {
+      "event": "Classmate asks for help with a difficult concept",
+      "chain of thought": "Of course I'll help! I'm happy to explain it to them. I'll make sure they understand and feel confident. It's important to support classmates and help them succeed. I'll be happy to share my notes or go over the concept again if needed."
+    },
+    {
+      "event": "Teacher asks for feedback on a lesson",
+      "chain of thought": "I'll be honest with the teacher about what worked and what could be improved. I want to be helpful and constructive. It's important that everyone learns and enjoys class. I'll make sure to be positive and respectful when sharing my feedback."
+    },
+    {
+      "event": "Classmate is struggling with a new concept",
+      "chain of thought": "That's tough! I'll offer to help them out. Maybe we can study together or go over it again after class. It's important to be kind and supportive. I'll make sure they understand and feel confident before moving on."
+    }
+  ]
+}
+```

@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ American high school student might think about friendship expectations, with specific events and their corresponding thought processes:
+
+```json
+{
+  "domain": "Friendship - Expectations in Friendship",
+  "events": [
+    {
+      "event": "A friend is having a tough time at home.",
+      "chain of thought": "I need to be there for my friend. They're going through a hard time, so I should try to make them feel better. I can offer to listen to them, maybe even help them with their homework or chores. Maybe we could have a movie night to cheer them up. It's important that they know I'm there for them, and I want to help in any way I can. I hope they know I'm a true friend who cares about them."
+    },
+    {
+      "event": "A friend is ignoring me.",
+      "chain of thought": "Hmm, I'm a little worried. I wonder if I did something wrong? I've been trying to reach out to them, but they haven't been responding. Maybe they're just busy or stressed, but I don't want to push them away. I'll try to talk to them again, maybe just casually ask how they're doing. Hopefully, they'll open up to me soon. I don't want to lose a friend."
+    },
+    {
+      "event": "A friend is being unkind to another person.",
+      "chain of thought": "That's not okay. I need to step in and try to help. My friend shouldn't be treating others that way. I'll try to talk to them privately and let them know that their actions are hurtful. I want to be supportive, but I also need to stand up for what's right. I believe in being kind and respectful to everyone, and I want my friends to feel the same way."
+    },
+    {
+      "event": "A friend invites me to a party, but I don't know anyone there.",
+      "chain of thought": "This sounds like fun, but I'm a little nervous. I don't know anyone there except my friend. Maybe I can bring another friend along? It would be nice to meet new people, and I want to support my friend by going to their party. It would be nice to make some new friends, too! I'll just try to be friendly and open to talking to people. I'm sure it'll be a great experience!"
+    },
+    {
+      "event": "My friends are planning a trip without me.",
+      "chain of thought": "I feel a little left out. I love hanging out with my friends, and I wish I could go on this trip with them. I'll try to be understanding, though. Maybe they're planning something specific that doesn't work for me right now. I'll talk to them about it and see if there's another time we can all go together.  I want to spend time with my friends and be included in their plans."
+    }
+  ]
+}
+```

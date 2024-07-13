@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "亲情-对待家庭的态度 (Family Relationships - Attitude Towards Family)",
+  "events": [
+    {
+      "event": "Sibling is struggling with school",
+      "chain of thought": "My sibling is really struggling in school.  I know how important it is to do well.  I should talk to them and see if I can help. Maybe we can study together or I can offer to help them with their homework.  I'll make sure to be supportive and encouraging.  I want them to know I'm there for them.  It's important that they feel loved and supported by the family."
+    },
+    {
+      "event": "Parents are going through a difficult time",
+      "chain of thought": "My parents seem stressed and sad.  I need to be there for them.  Maybe I can help around the house more, or cook dinner for them.  I'll make sure to be understanding and patient.  It's important that they know I'm there for them and that we are a family.  Maybe I can also talk to them and offer a listening ear."
+    },
+    {
+      "event": "Grandparent is sick",
+      "chain of thought": "My grandparent is sick, and I want to make sure they feel loved and cared for. I'll visit them often and bring them their favorite treats.  I'll try to be helpful around the house and make sure they are comfortable.  I'll want to be there for them during this difficult time. It's important to show them how much they mean to the family."
+    },
+    {
+      "event": "Family gathering with extended relatives",
+      "chain of thought": "It's great to see all my relatives! I'll make sure to say hello to everyone and catch up. Maybe I can help with preparing food or setting the table.  It's important to be hospitable and make everyone feel welcome.  I want the whole family to have a good time together.  Family is so important to me."
+    },
+    {
+      "event": "Sibling wants to try a new activity",
+      "chain of thought": "My sibling wants to try something new!  I should be supportive and encourage them to try it. Maybe I can help them find the right resources or join them in trying the activity. It's important for them to feel free to explore their interests and talents. Family should be there to help each other grow and learn."
+    }
+  ]
+}
+``` 

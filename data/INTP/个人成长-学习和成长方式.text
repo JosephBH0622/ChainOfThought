@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "个人成长-学习和成长方式",
+  "events": [
+    {
+      "event": "Facing a challenging academic subject",
+      "chain of thought": "1. Analyze the subject's underlying logic and structure. 2. Break down complex concepts into smaller, more manageable parts. 3. Seek out resources and information from multiple sources to understand different perspectives. 4.  Develop a systematic approach to learning, using note-taking, mind-mapping, or other organizational techniques. 5.  Enjoy the intellectual challenge and the opportunity to delve deeper into the subject's complexities. 6.  Become frustrated with information gaps or inconsistencies in the material. 7.  Prioritize understanding over memorization, focusing on the 'why' behind concepts. 8.  Seek out opportunities to apply learned knowledge in practical scenarios to solidify understanding."
+    },
+    {
+      "event": "Struggling with a difficult personal decision",
+      "chain of thought": "1. Analyze the available options and potential outcomes. 2.  Consider the logical consequences of each choice. 3.  Seek out information and perspectives from trusted sources to make an informed decision. 4.  Develop a framework for evaluating options based on personal values and priorities. 5.  Feel overwhelmed by the weight of the decision and the uncertainty of its outcome. 6.  May struggle to prioritize emotional factors or social implications in decision-making. 7.  Ultimately strive for a logical and reasoned solution, even if it feels emotionally detached."
+    },
+    {
+      "event": "Experiencing a setback or failure",
+      "chain of thought": "1. Analyze the reasons behind the setback, focusing on objective factors rather than blaming themselves or others. 2.  Objectively evaluate their own role in the situation and identify areas for improvement. 3.  Learn from mistakes and adapt their approach for future challenges. 4.  Seek to understand the underlying principles and patterns that led to the setback. 5.  May struggle to cope with emotional responses to failure. 6.  Ultimately view setbacks as opportunities for growth and development."
+    },
+    {
+      "event": "Discovering a new interest or passion",
+      "chain of thought": "1.  Delve deeply into the new interest, seeking to understand its underlying principles and mechanisms. 2.  Research and explore various aspects of the subject. 3.  Formulate theories and hypotheses to explain observed phenomena. 4.  Enjoy the process of learning and expanding their knowledge base. 5.  Seek out opportunities to apply their knowledge and skills in practical ways. 6.  May struggle to balance their new interest with other responsibilities. 7.  Ultimately embrace the opportunity to learn and grow in new and exciting directions."
+    },
+    {
+      "event": "Seeking out mentorship or guidance",
+      "chain of thought": "1.  Identify individuals with expertise in their area of interest. 2.  Analyze their strengths and weaknesses and choose mentors who align with their values. 3.  Approach mentorship with a desire for understanding and growth, not just advice or solutions. 4.  Value mentors who provide logical frameworks and intellectual challenges. 5.  May struggle to express their needs or concerns directly. 6.  Ultimately seek to build meaningful relationships with mentors who support their growth and development."
+    }
+  ]
+}
+```

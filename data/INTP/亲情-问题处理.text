@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Family-Problem Handling",
+  "events": [
+    {
+      "event": "A sibling is struggling with a personal problem and seeks advice.",
+      "chain of thought": "1. Analyze the situation objectively, focusing on the underlying causes and potential solutions. 2. Research similar situations and their possible outcomes. 3. Consider the logical consequences of different approaches and offer the most practical and efficient solutions. 4. Focus on helping the sibling understand the problem from a detached and analytical perspective. 5.  May struggle to understand and empathize with the emotional aspects of the problem. 6. Offer support by providing resources, information, and logical strategies. 7.  Might feel frustrated if their advice is not readily accepted or if the emotional component isn't addressed."
+    },
+    {
+      "event": "Parents are having a conflict and need help resolving it.",
+      "chain of thought": "1. Analyze the conflict objectively, identifying the core issues and the emotional motivations behind each party's actions. 2.  Consider the logical consequences of different approaches to conflict resolution. 3.  Offer a neutral perspective and suggest a framework for constructive dialogue. 4.  Might struggle to understand the emotional intensity of the situation and the importance of personal feelings. 5.  Focus on finding a solution that is fair and logical for everyone involved. 6.  May feel uncomfortable with emotional displays and prefer to discuss the situation rationally."
+    },
+    {
+      "event": "A family member is making decisions that seem illogical or detrimental.",
+      "chain of thought": "1.  Carefully analyze the situation, considering the potential consequences of the decisions being made. 2.  Attempt to understand the reasons behind the actions, even if they seem illogical. 3.  Prepare a well-reasoned explanation for why the decision might be problematic, focusing on the logical downsides. 4.  Might struggle to connect with the emotional aspects of the situation and the impact on personal relationships. 5.  Focus on presenting a clear and objective case, rather than trying to appeal to emotions or personal feelings. 6.  May feel frustrated if their logic is not accepted or if the individual chooses to ignore their advice."
+    },
+    {
+      "event": "A family member is experiencing a significant life change, such as a job loss or a serious illness.",
+      "chain of thought": "1. Analyze the situation, focusing on the potential challenges and the resources available to the individual. 2. Research options and strategies to help manage the changes and mitigate negative consequences. 3.  Offer practical advice and support, focusing on logical solutions and problem-solving. 4. May struggle to understand and empathize with the emotional distress the individual is experiencing. 5.  Focus on providing tangible support, such as helping with tasks or offering a listening ear. 6.  May feel frustrated if their attempts to help are not perceived as useful or if the emotional needs of the individual are not met."
+    }
+  ]
+}
+```

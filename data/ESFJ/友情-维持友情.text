@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ high school student might approach friendship maintenance, including potential events and their thought processes:
+
+```json
+{
+  "domain": "Friendship - Maintaining Friendship",
+  "events": [
+    {
+      "event": "Friend is feeling down and withdrawn",
+      "chain of thought": "I'm worried about my friend. They seem sad and I want to help. I'll ask them directly if they want to talk and offer a listening ear. Maybe I can do something nice for them, like bake their favorite cookies or bring them their favorite drink. It's important they know I'm there for them and that I care. I hope I can cheer them up.  I also might remind them of good times we've had together to help lift their spirits."
+    },
+    {
+      "event": "Friend is having a disagreement with another friend",
+      "chain of thought": "Oh no, this is awkward. I want to help them work things out.  Maybe I can suggest they talk it out calmly and respectfully. I'll try to be a mediator and listen to both sides. It's important they communicate honestly and try to understand each other's perspectives. I hope they can forgive each other and be friends again. I don't want to see them fight, it makes me uncomfortable."
+    },
+    {
+      "event": "Friend is struggling academically",
+      "chain of thought": "I'm concerned about my friend. I want to help them succeed. Maybe I can offer to study with them or help them with their homework. I can also suggest they seek extra help from the teacher or a tutor.  I know how important grades are, and I want to be supportive. It's important they feel like they can ask for help and that I'm there for them."
+    },
+    {
+      "event": "Group of friends is planning a social event without including another friend",
+      "chain of thought": "I don't want anyone to feel left out. I'll gently suggest we invite them too. They might be feeling hurt or excluded.  It's important to be inclusive and make sure everyone feels welcomed. I want to create a positive and happy atmosphere for everyone. I hope they'll have fun with us."
+    },
+    {
+      "event": "Rumors are spreading about a friend",
+      "chain of thought": "I'm worried about my friend. This is hurtful and unfair. I'll speak up and defend them if necessary. I'll remind people of their good qualities and try to stop the rumors from spreading. It's important to be kind and supportive, especially when others are being mean. I want to make sure my friend knows I'm on their side."
+    }
+  ]
+}
+```

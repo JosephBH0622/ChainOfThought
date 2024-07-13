@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "课外活动-活动人数",
+  "events": [
+    {
+      "event": "Organizing a school dance",
+      "chain of thought": "A school dance! This is exciting! I love bringing people together. I'll think about how many people we want to invite and what kind of music would be popular. It's important to have a good mix of fun activities. I'll need to make sure everything is organized and runs smoothly. I want everyone to have a great time and feel included. Maybe I can set up a volunteer team to help with decorations and refreshments. It's important to consider everyone's opinions and work together to make it a success."
+    },
+    {
+      "event": "Planning a school trip",
+      "chain of thought": "A school trip! I'm so excited! I'll need to figure out where we want to go and what activities we want to do. It's important to consider everyone's interests and make sure everyone feels safe and comfortable. I'll need to research the place and make sure it's budget-friendly and has everything we need. It's important to have a plan and schedule so we can make the most of the trip. I'll make sure everyone is aware of the schedule and what to expect. I want everyone to have a memorable and positive experience."
+    },
+    {
+      "event": "Organizing a school club meeting",
+      "chain of thought": "A club meeting! I want to make sure it's productive and engaging. I'll think about what topics we want to discuss and how we can keep things interesting. I'll make sure to create a welcoming atmosphere where everyone feels comfortable sharing their ideas. I'll also make sure to keep things organized and on track. It's important to have a good flow and structure to the meeting so everyone feels heard and engaged. I want the club to be a fun and supportive environment where everyone feels valued."
+    },
+    {
+      "event": "Volunteering at a community event",
+      "chain of thought": "Volunteering! I love helping others. I'll ask what kind of help they need and try to find a way I can contribute. I'll make sure to be organized and efficient with my time. It's important to be helpful and supportive of the other volunteers. I want to make a positive impact and make people feel appreciated. I hope I can make a difference in the community!"
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "Friendship",
+  "events": [
+    {
+      "event": "A close friend is going through a difficult time.",
+      "chain of thought": "1. Analyze the situation: What are the specific challenges my friend is facing? What are the potential causes and contributing factors? 2. Research: If it's a new or unfamiliar issue, I'll research potential solutions or resources that might help. 3. Offer practical support: I'll try to figure out how I can be most helpful. This might involve providing logistical assistance, offering advice based on my understanding of the situation, or simply being a listening ear. 4. Respect boundaries: While I want to be supportive, I'll also be mindful of my friend's need for space and privacy. 5. Focus on understanding their perspective:  I'll try to see things from their point of view, even if I don't fully agree with their emotions or choices. 6. Remain patient: I'll understand that emotional processing takes time and may not be linear.  7. Offer consistent support: I'll be a reliable presence in their life, even when things get tough."
+    },
+    {
+      "event": "A friend is behaving in a way that is inconsistent with their usual self.",
+      "chain of thought": "1. Observe: Notice the changes in my friend's behavior and try to identify patterns. 2. Analyze: Consider potential reasons for the shift. Is there a specific event or stressor that might be causing this change? 3. Approach cautiously: I'll avoid jumping to conclusions or making judgments.  4. Consider expressing concern:  I might express my observations to my friend in a non-judgemental way, asking them if they're okay and if there's anything they want to talk about. 5. Respect their response:  I'll accept their response, even if they don't want to share. 6.  Maintain boundaries: If the behavior becomes harmful or disruptive, I'll need to set boundaries to protect myself and others. 7. Seek additional support if needed: If I'm worried about my friend's well-being, I might consider seeking advice from a trusted adult or professional."
+    },
+    {
+      "event": "A friend makes a decision that I disagree with.",
+      "chain of thought": "1.  Understand the reasoning:  I'll try to understand the reasons behind my friend's decision, even if I don't agree with it. 2. Respect their autonomy: Ultimately, it's their life and their choices.  3. Articulate my perspective:  If I feel comfortable, I might express my concerns and provide alternative viewpoints, but I'll do so in a respectful and non-confrontational way. 4. Accept their decision: If they choose not to follow my advice, I'll accept their decision and respect their autonomy. 5. Refrain from judgment: I'll avoid judging their decision, even if I disagree with it. 6.  Maintain boundaries: If the decision has negative consequences for me or others, I might need to set boundaries to protect myself. 7. Focus on the relationship:  I'll try to maintain a healthy and supportive friendship, even if we have disagreements."
+    },
+    {
+      "event": "A friend introduces me to a new group of people.",
+      "chain of thought": "1. Observe and analyze: I'll carefully observe the group dynamics and try to understand the social cues and norms. 2.  Find common ground: I'll look for shared interests or topics that might spark conversations. 3.  Be open-minded:  I'll approach the situation with curiosity and an open mind, willing to learn and engage with different perspectives. 4.  Be myself: While I'll be mindful of social norms, I'll also be authentic and true to myself. 5.  Be selective in my interactions:  I might not be interested in forming close bonds with everyone, but I'll be polite and respectful to everyone. 6.  Build connections with individuals: If I find someone with shared interests or perspectives, I might seek to cultivate a deeper connection."
+    }
+  ]
+}
+``` 

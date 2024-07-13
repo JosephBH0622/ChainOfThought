@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think about adapting to change in the domain of personal growth:
+
+```json
+{
+  "domain": "Personal Growth - Adapting to Change",
+  "events": [
+    {
+      "event": "Moving to a new city/school",
+      "chain of thought": "This is exciting but also a little scary. I'll miss my friends and familiar surroundings.  I need to find a way to connect with people in my new environment.  I'll try to be friendly and approachable. Maybe I can join a club or volunteer to meet new people. I'll be sure to keep in touch with my old friends.  I'll make an effort to explore my new city and find new things to enjoy.  I want to feel like I belong and am making the most of this new experience."
+    },
+    {
+      "event": "Experiencing a major life change like a family member's illness",
+      "chain of thought": "This is difficult and I want to support my family. I'll make sure to be there for them, offering practical help and emotional support. I want to make sure everyone feels loved and cared for.  I'll try to stay positive and hopeful, even though things feel uncertain.  I know I can't solve everything, but I can be a source of strength and stability."
+    },
+    {
+      "event": "Having to learn a new skill for a job/hobby",
+      "chain of thought": "I'm eager to learn this new skill, but I might need some guidance. I'll look for step-by-step instructions or classes.  Maybe I can ask someone who's already good at it for help. I'll practice consistently and focus on mastering the basics.  It's important to me to do a good job and learn something new. I'll feel proud of myself when I've mastered it."
+    },
+    {
+      "event": "Dealing with conflict or disagreement with a friend",
+      "chain of thought": "I want to maintain harmony and resolve this conflict peacefully. I'll try to understand their perspective and express my own feelings calmly.  Maybe we can work together to find a solution that works for both of us.  I care about our friendship and hope we can move past this."
+    },
+    {
+      "event": "Experiencing a personal setback or failure",
+      "chain of thought": "This is disappointing, but I'll learn from it. I need to figure out what went wrong and what I can do better next time. It's important to be kind to myself and not give up.  I'll ask for help if I need it and keep trying.  I know I can overcome this and come back stronger."
+    }
+  ]
+}
+```

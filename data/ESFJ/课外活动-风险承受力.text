@@ -1,0 +1,29 @@
+Here's an output based on your request:
+
+```json
+{
+  "domain": "课外活动 - 风险承受力 (Extracurricular Activities - Risk Tolerance)",
+  "events": [
+    {
+      "event": "Trying out for the school's basketball team despite never playing organized basketball before.",
+      "chain of thought": "This is exciting! I love the idea of being part of a team, and I'm willing to try something new. I'll need to make sure I practice a lot and ask for help from the team members who are more experienced. I'm not sure if I'll make the team, but I'll try my best and enjoy the process. It would be great to learn a new skill and make new friends! Plus, if I don't make the team, I can always try out for something else next year. It's important to support my friends and be a good teammate, and I'll do my best to be supportive, even if I'm not always the best player."
+    },
+    {
+      "event": "Leading a group of classmates on a weekend hiking trip to a new trail.",
+      "chain of thought": "This is a lot of responsibility, but I'm happy to help out! I'll make sure everyone has what they need, like water and snacks, and I'll do some research about the trail beforehand to make sure it's safe for everyone. It's important that we all stay together and keep an eye out for each other. If someone is struggling, I'll be sure to help them out. I hope everyone enjoys the trip and has a fun time! It'll be a great way to bond and make new memories together."
+    },
+    {
+      "event": "Volunteering at a local animal shelter to help walk and care for the dogs.",
+      "chain of thought": "I love animals and I'm happy to help out at the shelter! It's important to care for animals who need a home, and I'm willing to put in the time and effort to make a difference. I'll make sure I'm responsible and follow the instructions from the shelter staff. It's a lot of work, but it's worth it to see the happiness in the animals' eyes. Plus, I'll be able to learn a lot about different dog breeds and how to care for them."
+    },
+    {
+      "event": "Giving a presentation in front of the entire school about a project you worked on.",
+      "chain of thought": "This is a little scary, but I'm confident I can do it! I'll prepare my presentation carefully and practice a few times before the actual event. I want to make sure the information is clear and easy to understand. It's important to be prepared and confident. I'll make sure to make eye contact with the audience and speak clearly. I hope everyone finds my presentation interesting and informative. It's a great opportunity to share what I've learned and to help others learn something new."
+    },
+    {
+      "event": "Joining a school debate club and participating in a debate tournament.",
+      "chain of thought": "This sounds challenging, but I'm willing to give it a try! I'll need to do some research and learn about different arguments and perspectives. I want to make sure I'm prepared and able to present my case clearly and effectively. I'm not sure how good I'll be at debating, but I'm excited to learn a new skill and to challenge myself. It's important to be respectful of other people's opinions, even if I don't agree with them. I'll do my best to be a good sport and to learn from my experience."
+    }
+  ]
+}
+```

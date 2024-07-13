@@ -1,0 +1,29 @@
+Here's a breakdown of how an INTP American high school student might think about friendship choices, along with real-life events:
+
+```json
+{
+  "domain": "Friendship-Choice",
+  "events": [
+    {
+      "event": "A friend group is planning a weekend trip, but the activities don't align with their interests.",
+      "chain of thought": "1. Analyze the proposed activities. 2. Assess if they align with their values and interests. 3. Consider the potential for intellectual stimulation or personal growth. 4. Evaluate the social dynamics and potential for meaningful interaction. 5. Weigh the pros and cons of going versus staying behind. 6. If the trip doesn't align, they might propose alternative activities or suggest staying behind to pursue individual interests. 7. If the group is important to them, they might compromise and participate in some activities, while finding opportunities for intellectual engagement on the side. 8. They would likely communicate their thoughts honestly and directly, explaining their reasoning in a logical and objective manner. 9. They may even suggest an alternative trip that better aligns with their interests for the future."
+    },
+    {
+      "event": "A friend is struggling with a personal issue and needs support.",
+      "chain of thought": "1. Analyze the friend's situation objectively, seeking to understand the underlying causes and potential solutions. 2. Offer practical advice and solutions based on logical reasoning. 3. May struggle to express emotional empathy, but demonstrate care through actions and practical assistance. 4. Encourage their friend to consider different perspectives and explore alternative solutions. 5. Focus on providing support by listening intently and offering a safe space for their friend to process their feelings. 6. They might use analogies or metaphors to help their friend understand their situation better. 7. They would prioritize helping their friend find a solution that aligns with their values and goals."
+    },
+    {
+      "event": "A friend is spreading rumors about another friend.",
+      "chain of thought": "1. Analyze the situation objectively, considering the motives of all parties involved. 2. Question the validity of the rumors and the potential consequences of spreading them. 3.  Feel a strong sense of fairness and justice. 4. They may confront the friend spreading rumors, explaining the logical fallacies and ethical implications of their actions. 5. Advocate for open and honest communication to resolve conflicts. 6.  They might try to mediate the situation, facilitating a constructive dialogue between the friends involved. 7. They might distance themselves from the friend spreading rumors if their values are compromised."
+    },
+    {
+      "event": "Choosing friends for a project, knowing some are more competent than others.",
+      "chain of thought": "1. Analyze the project requirements and the strengths and weaknesses of each potential teammate. 2. Prioritize competence and efficiency over personal friendships. 3. They might suggest a division of labor based on individual skills and talents. 4.  They would strive for a balanced team with a diversity of perspectives and skills. 5. They might offer to mentor less skilled teammates to improve their abilities. 6. They would emphasize collaboration and open communication to ensure the project's success."
+    },
+    {
+      "event": "A friend expresses interest in a hobby the INTP doesn't understand.",
+      "chain of thought": "1. Demonstrate genuine curiosity and a desire to learn about their friend's new interest. 2. Ask questions to understand the motivations and appeal of the hobby. 3. Research the hobby to gain a deeper understanding. 4.  May not necessarily share the same enthusiasm, but will respect their friend's passion. 5.  They might suggest ways to connect their friend's interest with their own analytical and logical mind. 6. They might offer to learn the hobby together, seeing it as an opportunity for shared experience and intellectual growth."
+    }
+  ]
+}
+```

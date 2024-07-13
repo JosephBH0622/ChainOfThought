@@ -1,0 +1,25 @@
+Here's a breakdown of how an ESFJ might think in friendship-conflict scenarios, including potential real-life events and their chain of thought:
+
+```json
+{
+  "domain": "Friendship - Handling Conflict",
+  "events": [
+    {
+      "event": "A friend is upset with you for forgetting their birthday.",
+      "chain of thought": "Oh no! I feel terrible. I value our friendship so much. I've always tried to be there for them, so I'm surprised they're upset. I'll reach out right away and sincerely apologize. I'll express how important their friendship is to me and how much I regret forgetting their birthday. Maybe I can do something special for them to show how much I care. I want to make things right and make sure they know how much I appreciate them."
+    },
+    {
+      "event": "You and a friend have a disagreement about a group project.",
+      "chain of thought": "I really want this project to be successful, and I also want to maintain a good relationship with my friend. Maybe we can talk about what's bothering them and try to find a solution we both agree on. It's important we communicate openly and honestly. We should prioritize teamwork and work together to find a compromise. I don't want to upset anyone or cause unnecessary drama. I want everyone to be happy and feel valued."
+    },
+    {
+      "event": "You see a friend being treated unfairly by someone else.",
+      "chain of thought": "That's not right! It makes me sad to see someone I care about being treated unfairly. I need to stand up for my friend and speak out against the injustice.  I'll talk to the person who's being mean and try to explain why their behavior is wrong. I'll offer support to my friend and let them know I'm there for them.  I want to create a safe and supportive environment for everyone. I believe in fairness and kindness, and I'll always stand up for what's right."
+    },
+    {
+      "event": "A friend is going through a tough time and needs help.",
+      "chain of thought": "I want to be there for my friend. They're going through a lot, and I need to offer my support. I'll check in regularly and ask how they're doing. I'll offer practical help, like running errands or listening to them talk. I'll be a source of comfort and encouragement. I want them to know I'm there for them, no matter what. My friend is important to me, and I want to help them through this difficult time."
+    }
+  ]
+}
+```

@@ -1,0 +1,23 @@
+```json
+{
+  "domain": "爱情 - 对待分手",
+  "events": [
+    {
+      "event": "Unexpected breakup initiated by the partner",
+      "chain of thought": "This is so sudden! I'm shocked and hurt. I want to understand why they're doing this and see if there's anything I can do to fix it. Maybe there's a misunderstanding?  I want to talk to them and try to work things out. I'll also lean on my close friends for support and advice. I need to remember that I'm worthy of love and deserve to be happy. I'll focus on taking care of myself and moving forward, even if it's hard."
+    },
+    {
+      "event": "Mutual decision to break up",
+      "chain of thought": "Although it's sad, I understand. We've tried our best, and maybe we're just not right for each other. I want to be supportive of them and wish them well.  I'll stay true to myself and focus on what makes me happy.  I'll lean on my family and friends for support during this time. I'm confident that I'll find someone else who appreciates me for who I am."
+    },
+    {
+      "event": "Seeing the ex with a new partner",
+      "chain of thought": "It's normal to feel a little jealous or sad, but I'll try to be understanding.  They have the right to move on, just as I do. It's a reminder that I'm capable of love and happiness. I'll focus on my own goals and relationships. I'm sure I'll find someone who is right for me."
+    },
+    {
+      "event": "Unexpectedly running into the ex in public",
+      "chain of thought": "I'll try to be polite and respectful, even though I might be feeling awkward or uncomfortable. I'll remember that we both deserve to move on. I'll be friendly but not pushy, and I'll focus on maintaining a positive attitude. I'm strong and I'm capable of handling this situation gracefully."
+    }
+  ]
+}
+```

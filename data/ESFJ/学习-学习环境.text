@@ -1,0 +1,35 @@
+```json
+{
+  "domain": "学习-学习环境 (Learning - Learning Environment)",
+  "events": [
+    {
+      "event": "First day of a new class",
+      "chain of thought": "I'm excited to meet my new classmates! I'll try to sit near someone friendly and introduce myself. It's important to make a good impression and be helpful. I'll pay attention to the teacher's expectations and try to get organized for the semester. I want to be prepared and make sure I'm on top of my work. I hope everyone in the class feels welcome and comfortable."
+    },
+    {
+      "event": "Group study session",
+      "chain of thought": "This is a great opportunity to connect with classmates and learn together! I'll offer to help with anything they need. Maybe I can organize some snacks or drinks to make it more enjoyable. I'll listen carefully to everyone's ideas and try to make sure everyone feels heard. We should create a positive and supportive environment where everyone can learn and grow."
+    },
+    {
+      "event": "Teacher assigns a presentation",
+      "chain of thought": "Presentations can be nerve-wracking, but I'll try to stay calm. I'll start planning early and ask for help if I need it. It's important to present information clearly and effectively. I'll make sure my slides are organized and easy to understand.  I hope my classmates enjoy my presentation and learn something new. I'll try to make eye contact and be friendly."
+    },
+    {
+      "event": "Classmate is struggling with a concept",
+      "chain of thought": "It's important to help those who are struggling. I'll offer to explain the concept to them in a way that makes sense.  Maybe we can study together or find some extra resources. It feels good to help others learn and succeed. I want to create a positive and supportive learning environment for everyone."
+    },
+    {
+      "event": "Class trip to a museum or historical site",
+      "chain of thought": "This is going to be fun! I'll make sure to arrive on time and be respectful of the rules. It's important to learn from these experiences. I'll pay attention to the information and try to remember what I learn. Maybe I can share what I learned with my classmates later. I hope everyone enjoys the trip!"
+    },
+    {
+      "event": "Class discussion on a controversial topic",
+      "chain of thought": "It's important to be respectful of everyone's opinions even if they differ from mine. I'll listen carefully to what others have to say and try to understand their perspectives. I'll express my own opinions respectfully and try to find common ground. I hope we can have a productive and respectful discussion."
+    },
+    {
+      "event": "School event like a fundraiser or talent show",
+      "chain of thought": "I'm excited to be involved! I'll volunteer to help out in any way I can. It's important to support our school and community.  I hope we can raise a lot of money for a good cause. Maybe I can even participate in the talent show! It's a great opportunity to show off my talents and have fun."
+    }
+  ]
+}
+```

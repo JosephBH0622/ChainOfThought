@@ -1,0 +1,29 @@
+Here's an example of how an ESFJ high school student might approach learning and processing information, with a breakdown of their thought processes:
+
+```json
+{
+  "domain": "Learning - Processing Information",
+  "events": [
+    {
+      "event": "Taking notes in a lecture",
+      "chain of thought": "I need to make sure I understand everything the teacher is saying.  I'll take clear, detailed notes, making sure to highlight important points.  I'll also ask questions if something isn't clear.  I want to make sure I can explain the material to someone else, like my parents or friends, to check my understanding. It's important to me that I learn the material thoroughly."
+    },
+    {
+      "event": "Preparing for a test",
+      "chain of thought": "I need to make a study plan that makes sense. I'll start studying early and break down the material into smaller chunks. I might make flashcards or practice quizzes to help me remember things. I'll also ask my friends if they want to study together - we can quiz each other and help each other understand. It's important to me to do my best on the test and make my parents and teachers proud."
+    },
+    {
+      "event": "Participating in a class discussion",
+      "chain of thought": "I want to make sure everyone feels heard and respected.  I'll listen carefully to what others have to say. If I have something to add, I'll try to be respectful of everyone's opinions and share my thoughts in a clear and organized way. I hope we can all learn from each other and have a positive and productive discussion."
+    },
+    {
+      "event": "Receiving feedback on an assignment",
+      "chain of thought": "I'm always open to feedback and want to improve. I'll pay close attention to what the teacher says, whether it's positive or constructive. I'll ask questions to make sure I understand their feedback and what I can do to do better next time. I want to make sure I'm always learning and growing."
+    },
+    {
+      "event": "Seeing a classmate struggling with a concept",
+      "chain of thought": "I want to help! I'll offer to explain the concept to them in a way that makes sense. Maybe I can show them my notes or offer to study with them. It's important to me to be supportive and help others learn and succeed."
+    }
+  ]
+}
+```

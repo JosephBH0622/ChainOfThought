@@ -1,0 +1,29 @@
+Here's an example of how an ESFJ might think in various "課外活動-動机" scenarios:
+
+```json
+{
+  "domain": "課外活動-动机",
+  "events": [
+    {
+      "event": "School club recruitment fair",
+      "chain of thought": "Wow, so many clubs! I want to find one that lets me help others and make new friends. I'll talk to the members and see what they do.  I'm interested in clubs that seem organized and have a clear purpose. I want to feel like I'm making a difference. Maybe I can sign up for a few to try them out. I hope they're welcoming and supportive of new members."
+    },
+    {
+      "event": "Volunteering opportunity at a local animal shelter",
+      "chain of thought": "This sounds like a great way to give back to the community! I love animals, and I know they need extra care. I'll ask my friends if they want to join me. We can work together to make the shelter a happier place for the animals. I'll be sure to follow all the rules and do everything I can to help. I hope the animals appreciate our efforts!"
+    },
+    {
+      "event": "Seeing a classmate struggling with a school play",
+      "chain of thought": "I know how much they want to do well in the play. I want to be supportive and help them out. Maybe I can offer to practice lines with them after school. I can also offer encouraging words and let them know they're doing a good job. I want them to feel confident and have a positive experience."
+    },
+    {
+      "event": "Planning a school fundraiser for a good cause",
+      "chain of thought": "It's important to help those in need. I want to be part of making this fundraiser a success. I'll offer to take on a specific role and make sure my part gets done on time. I'll also encourage others to participate and help out where needed. I want to make sure everyone feels like they're contributing to something worthwhile. We can make a real difference if we work together!"
+    },
+    {
+      "event": "Being asked to lead a school club meeting",
+      "chain of thought": "I'm honored to be asked! I'll make sure everyone feels included and has a voice. I'll prepare a clear agenda so we can stay on track. I want to make sure the meeting is productive and enjoyable for everyone. I hope my efforts are appreciated and that the club continues to thrive."
+    }
+  ]
+}
+```

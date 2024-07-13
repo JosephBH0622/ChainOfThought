@@ -1,0 +1,29 @@
+Here's a breakdown of how an ESFJ might think in "亲情-面对亲情矛盾" scenarios, along with some real-life events:
+
+```json
+{
+  "domain": "亲情 - 面对亲情矛盾 (Family - Facing Family Conflicts)",
+  "events": [
+    {
+      "event": "A family member is struggling with addiction or mental health issues.",
+      "chain of thought": "I'm so worried about them. I want to help in any way I can. I'll offer support and encouragement, maybe even research resources for them. I need to be patient and understanding, even if it's frustrating. I'll try to keep the peace within the family, even if it means talking to others about how they can be more supportive. Family is important, and we need to stick together."
+    },
+    {
+      "event": "A disagreement arises about a family member's life choices, like career or relationships.",
+      "chain of thought": "I want everyone to be happy and fulfilled, but I also know that everyone has to make their own choices. I'll try to understand their perspective and communicate respectfully. Maybe I can share my thoughts and concerns in a gentle, supportive way. I'll prioritize maintaining harmony and avoid any confrontations that could damage the family bond."
+    },
+    {
+      "event": "A family member is going through a difficult divorce or separation.",
+      "chain of thought": "I'm heartbroken for them and want to be there for them. I'll offer practical help, like cooking meals or running errands, and provide emotional support. I'll try to be a calming presence and remind them that they're loved and not alone. I'll try to create a sense of normalcy and stability for them during this difficult time."
+    },
+    {
+      "event": "There's a financial burden on the family, and everyone is feeling stressed.",
+      "chain of thought": "We need to work together to get through this. I'll look for ways to contribute financially or by doing chores around the house. I'll be mindful of everyone's needs and try to alleviate some of the pressure. I'll remind everyone that we're stronger as a family and that we can get through this together."
+    },
+    {
+      "event": "A family member makes a hurtful or insensitive comment.",
+      "chain of thought": "That really hurt my feelings. I'll try to understand their perspective, but I'll also have to speak up for myself and let them know how their words affected me. I'll do it calmly and respectfully, focusing on how their words made me feel, rather than attacking them personally. I want to maintain a healthy relationship but also make sure my feelings are heard."
+    }
+  ]
+}
+```

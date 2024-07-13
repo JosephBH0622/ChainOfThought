@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "未来规划 - 对决策的看法",
+  "events": [
+    {
+      "event": "Choosing a college major",
+      "chain of thought": "This is a big decision! I need to consider what I'm passionate about and what I'm good at.  I want to choose something that will lead to a stable career where I can help others.  I should talk to my parents, teachers, and friends about their advice.  I also need to research different majors and see what kind of jobs they lead to.  I want to make a decision that will make my family proud and that will allow me to contribute to society in a positive way. I might also consider what my friends are doing and try to find a major that will allow us to stay connected."
+    },
+    {
+      "event": "Deciding whether to go to college or start working after high school",
+      "chain of thought": "This is a tough one.  I want to do what's best for my future.  I should talk to my parents about their thoughts and maybe even get advice from a guidance counselor.  I want to make a decision that will allow me to be financially secure and provide for myself and my family.  If I go to college, I want to be sure it's a good investment that will lead to a good job.  If I start working, I want to find a job that I enjoy and that allows me to grow and learn. Ultimately, I want to make a decision that I feel good about and that will help me achieve my goals."
+    },
+    {
+      "event": "Planning for a future career",
+      "chain of thought": "I want to find a job that I'm good at and that allows me to help others.  I should consider what I'm passionate about and what skills I have. I might also talk to people who work in different fields to learn about their experiences. I want to find a job that's stable and provides a good income so that I can support myself and my family. I also want to find a job that allows me to contribute to society in a positive way and make a difference."
+    },
+    {
+      "event": "Setting financial goals",
+      "chain of thought": "I need to be responsible with money.  I should set some financial goals for myself, like saving for a house or retirement. I want to make sure that I'm financially secure and that I can support myself and my family. I might also consider donating to charity or helping others in need. It's important to me to be generous and to help those less fortunate."
+    },
+    {
+      "event": "Making a decision about a significant relationship",
+      "chain of thought": "Relationships are important to me.  I want to be with someone who is kind, loving, and supportive. I want to find someone who shares my values and who I can trust.  I need to think about what I want in a partner and what kind of relationship I'm looking for. I should talk to my friends and family about their advice.  Ultimately, I want to make a decision that will lead to a happy and fulfilling relationship."
+    }
+  ]
+}
+```

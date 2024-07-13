@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "课外活动-活动内容",
+  "events": [
+    {
+      "event": "School Club Meeting",
+      "chain of thought": "I'm always happy to see familiar faces at club meetings. I hope we can do something fun and meaningful today! I'll make sure everyone feels welcome and included. I'll listen attentively to what others have to say and offer my thoughts and suggestions. It's important to work together to make our club successful. I'm excited to see what we accomplish and to be a part of a positive community!"
+    },
+    {
+      "event": "Volunteer Event",
+      "chain of thought": "Volunteering is a great way to help others and make a difference! I'll try to find a role where I can use my skills and contribute to the cause. I'll be friendly and helpful to everyone around me, making sure everyone feels comfortable and appreciated. I'm sure we can accomplish a lot together! It's rewarding to see the positive impact our efforts have on the community."
+    },
+    {
+      "event": "School Dance",
+      "chain of thought": "I love a good school dance! I'll dress up nicely and make sure everyone has a fun time. I'll be a good friend and dance partner, making sure everyone feels included and happy. It's important to create a welcoming and positive atmosphere for everyone to enjoy themselves. Maybe I can even suggest some fun dance moves to get people moving! I want the night to be memorable and enjoyable for everyone."
+    },
+    {
+      "event": "Sports Game",
+      "chain of thought": "I'm excited to cheer for our team! I'll wear our team colors and show my school spirit. I'll be a good sports fan, encouraging our team and showing respect for the opposing team. I'll make sure to be a positive influence in the crowd, creating a fun and supportive environment. It's important for our team to feel our support and for everyone to have a good time. Go team!"
+    },
+    {
+      "event": "School Play or Musical",
+      "chain of thought": "I can't wait to see the school play! I'll be sure to arrive early and find a good seat. I'll be an attentive audience member, clapping and cheering for the performers. It's important to show our support for the hard work and talent of the students involved. I'm sure it will be a great show! Maybe I can even join the drama club next year."
+    }
+  ]
+}
+```

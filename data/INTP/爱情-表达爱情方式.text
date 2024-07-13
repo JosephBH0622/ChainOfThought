@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情-表达爱情方式",
+  "events": [
+    {
+      "event": "Seeing a romantic interest they like",
+      "chain of thought": "1. Analyze the person's behavior and try to understand their personality. 2. Look for signs of reciprocated interest, such as eye contact, smiling, or initiating conversations. 3. Wonder about the potential compatibility based on shared interests and values. 4.  Consider the logical consequences of pursuing a relationship, such as time commitment and potential risks. 5.  Might try to subtly test the waters by engaging in intellectual conversations to gauge the person's intelligence and depth. 6.  May overthink potential scenarios and worry about rejection or appearing too forward. 7.  Ultimately,  INTP will wait for a clear signal of reciprocation before making any romantic advances."
+    },
+    {
+      "event": "Being asked out on a date",
+      "chain of thought": "1. Analyze the request and try to understand the person's intentions. 2. Assess the potential benefits and risks of accepting the date, considering the time commitment and the potential for emotional involvement. 3. Consider the person's personality and whether they would be intellectually stimulating and engaging. 4. May be hesitant to accept if they don't feel a strong connection or if they are unsure about the person's long-term compatibility. 5.  Might try to learn more about the person and their interests before making a decision. 6.  If they decide to accept, they might suggest an activity that allows for intellectual conversation or a shared interest, such as visiting a museum or attending a lecture. 7.  May be awkward in expressing feelings or affection, preferring to focus on the intellectual aspects of the relationship."
+    },
+    {
+      "event": "Expressing feelings to their crush",
+      "chain of thought": "1.  Struggle with expressing their feelings due to their analytical nature and difficulty articulating emotions. 2.  Analyze the best way to convey their feelings logically and effectively. 3.  May choose to express their feelings in writing to carefully craft their thoughts and avoid emotional blunders. 4.  Worry about the potential consequences of rejection and how it might impact the relationship. 5.  Might overthink the situation and get stuck in their head, delaying the actual confession. 6.  Ultimately, they will prioritize honesty and clarity in their communication, even if it means being vulnerable and risking rejection."
+    },
+    {
+      "event": "Dealing with relationship conflicts",
+      "chain of thought": "1.  Analyze the situation objectively, trying to understand the root cause of the conflict. 2.  Consider different perspectives and look for logical solutions to address the problem. 3.  May struggle to understand and empathize with their partner's emotional perspective, leading to communication breakdowns. 4.  Focus on finding a practical solution that addresses the core issue rather than trying to solve emotional problems. 5.  May withdraw emotionally during conflict, preferring to process their thoughts privately. 6.  Ultimately, INTP seeks to resolve conflict through open communication, focusing on clear and logical explanations."
+    },
+    {
+      "event": "Celebrating a special occasion with their partner",
+      "chain of thought": "1.  Analyze the significance of the occasion and plan a meaningful celebration that aligns with their partner's interests. 2.  Consider the logical implications of the celebration, such as time and budget constraints. 3.  Might choose a unique and thoughtful gift that reflects their partner's personality and interests. 4.  May struggle to express their love verbally, preferring to show their affection through actions or thoughtful gestures. 5.  Enjoy engaging in intellectual conversations and shared activities with their partner during the celebration. 6.  Ultimately, INTP will prioritize quality time and meaningful experiences over extravagant gestures to celebrate the occasion."
+    }
+  ]
+}
+```

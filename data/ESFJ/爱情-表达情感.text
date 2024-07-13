@@ -1,0 +1,27 @@
+```json
+{
+  "domain": "爱情-表达情感",
+  "events": [
+    {
+      "event": "Someone expresses interest in you by asking you out on a date",
+      "chain of thought": "Oh my gosh, this is so exciting! I'm really flattered they asked me out. I hope they're nice and that we have things in common. I want to make sure they feel comfortable and have a good time.  I need to think about what to wear and maybe plan a fun activity we can do together. I'll be sure to be polite and attentive, and hopefully, this is the start of something special!"
+    },
+    {
+      "event": "You have a fight with your significant other",
+      "chain of thought": "Ugh, this is awful. I hate conflict.  I need to understand what they're upset about and try to see things from their perspective. I want to apologize and make things right.  Maybe we can talk about it calmly and figure out how to avoid this in the future. I'm worried about hurting their feelings and I want to make sure they know how much I care about them."
+    },
+    {
+      "event": "You're celebrating a special occasion with your partner",
+      "chain of thought": "This is going to be so romantic! I want to make sure everything is perfect and that they have a truly memorable experience. I'll plan something thoughtful and special, like a nice dinner or a romantic outing.  I want them to feel loved and appreciated. I'll be sure to compliment them and show them how much I care. This is going to be a great night!"
+    },
+    {
+      "event": "You're feeling insecure about your relationship",
+      "chain of thought": "I'm a little worried about things. I need to talk to my partner and express my feelings honestly. I don't want to hide my insecurities. Maybe we can talk about what makes each of us feel secure in the relationship. I'm sure we can work it out. I value our relationship and I want to make it work."
+    },
+    {
+      "event": "You see a friend going through a breakup",
+      "chain of thought": "Oh no, this is so sad. I need to be there for my friend and offer them support.  I'll listen to them talk about what happened and try to understand how they feel.  Maybe I can take them out for coffee or just spend time with them to help them feel better.  I'm going to be their friend through this difficult time."
+    }
+  ]
+}
+```
